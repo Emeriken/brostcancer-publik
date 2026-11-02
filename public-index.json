@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T13:52:04.181159+00:00",
-  "article_count": 653,
+  "updated": "2026-11-02T16:50:22.260370+00:00",
+  "article_count": 687,
   "journals_tracked": [
     "N Engl J Med",
     "Lancet",
@@ -46,6 +46,1361 @@
     "Övrigt"
   ],
   "articles": [
+    {
+      "pmid": "42928275",
+      "title": "Spatially dissecting drivers of inter- and intra-tumoral heterogeneity in Kenyan breast cancer.",
+      "journal": "Breast Cancer Res",
+      "pub_date": "2026 Jul 29",
+      "authors": [
+        "Abubakar M",
+        "Sayed S",
+        "Koka H",
+        "Lawrence S",
+        "Mutreja K",
+        "Hua X"
+      ],
+      "author_count": 23,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928275/",
+      "doi": "10.1186/s13058-026-02347-z",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Kenya",
+        "Biomarkers, Tumor*",
+        "Middle Aged",
+        "Tumor Microenvironment",
+        "Adult"
+      ],
+      "relevance_score": 2,
+      "category": "Preklinisk/translationell",
+      "why_relevant": "Intressant spatial profilering av intratumorär heterogenitet i en kenyansk kohort, men resultaten är explorativa och saknar direkt klinisk implementerbarhet, vilket begränsar omedelbar relevans för praxis.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42928199",
+      "title": "Use of hair relaxers and hair dyes during pregnancy and breast tissue composition in mothers and adolescent daughters.",
+      "journal": "Breast Cancer Res",
+      "pub_date": "2026 Jul 29",
+      "authors": [
+        "Chan M",
+        "Lilge L",
+        "Walter J",
+        "Tehranifar P",
+        "Miller RL",
+        "Hoang A"
+      ],
+      "author_count": 12,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928199/",
+      "doi": "10.1186/s13058-026-02353-1",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Adult",
+        "Hair Dyes*",
+        "Adolescent",
+        "Breast Neoplasms*",
+        "Breast Density",
+        "New York City",
+        "Breast*",
+        "Hair Preparations*",
+        "Prospective Studies",
+        "Nuclear Family",
+        "Mothers",
+        "Prenatal Exposure Delayed Effects*",
+        "Maternal Exposure*",
+        "Middle Aged"
+      ],
+      "relevance_score": 2,
+      "category": "Övrigt",
+      "why_relevant": "Preliminär observationsstudie med litet kohorturval som undersöker associationen mellan hårvårdsprodukter under graviditet och bröstvävnadskomposition som surrogatmarkör för bröstcancerrisk, utan direkt klinisk tillämpbarhet.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42926111",
+      "title": "Pembrolizumab Plus Chemotherapy for HR+/HER2- PD-L1‒Positive Advanced Breast Cancer: Final Analysis of the Phase 3 KEYNOTE-B49 Study.",
+      "journal": "Ann Oncol",
+      "pub_date": "2026 Oct 24",
+      "authors": [
+        "Rugo HS",
+        "Kok M",
+        "Goncalves A",
+        "Loirat D",
+        "Bianchini G",
+        "Fasching PA"
+      ],
+      "author_count": 20,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926111/",
+      "doi": "10.1016/j.annonc.2026.10.1285",
+      "mesh_terms": [],
+      "relevance_score": 5,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Fas III-studie (KEYNOTE-B49) i Ann Oncol som visar att pembrolizumab plus kemoterapi förbättrar PFS men inte OS vid PD-L1-positiv HR+/HER2- avancerad bröstcancer, vilket är ett praxisrelevant negativt OS-fynd för en vanlig patientgrupp.",
+      "deep_analysis": {
+        "central_finding": "Pembrolizumab plus kemoterapi förbättrade PFS statistiskt signifikant (HR 0,74; median 6,7 vs 6,0 månader) men gav ingen OS-förbättring (HR 1,04; median 21,0 vs 22,2 månader) vid PD-L1 CPS ≥1 HR+/HER2- avancerad bröstcancer.",
+        "limitation": "Studien reducerade sampelstorleken under pågående studie på grund av låg PD-L1-prevalens, vilket underminerar statistisk kraft för OS-analysen och möjligen selekterade en icke-representativ population.",
+        "vs_standard": "Tillägget av pembrolizumab till kemoterapi ger ingen kliniskt meningsfull OS-vinst jämfört med kemoterapi enbart, som är nuvarande standard efter ET-progress, och stödjer därmed inte ett regimskifte.",
+        "applicability": "Bekräftande/uppföljning"
+      },
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42926110",
+      "title": "Atirmociclib and fulvestrant for patients with HR+/HER2- advanced/metastatic breast cancer who progressed on a prior cyclin-dependent kinase 4/6 inhibitor: primary analysis of the randomized FourLight-1 trial.",
+      "journal": "Ann Oncol",
+      "pub_date": "2026 Oct 24",
+      "authors": [
+        "Giordano A",
+        "Xu B",
+        "Yoshinami T",
+        "Huang CS",
+        "Park YH",
+        "Lerzo GL"
+      ],
+      "author_count": 20,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926110/",
+      "doi": "10.1016/j.annonc.2026.10.1282",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Endokrin behandling",
+      "why_relevant": "Randomiserad fas II-studie (FourLight-1) i Annals of Oncology visar att den selektiva CDK4-hämmaren atirmociclib plus fulvestrant signifikant förbättrar PFS (9,4 vs 6,6 månader, HR 0,60) hos HR+/HER2- mBC-patienter som progredierat på tidigare CDK4/6-hämmare – ett kliniskt viktigt och svårbehandlat scenario.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42926108",
+      "title": "Overall survival from the phase III postMONARCH trial of abemaciclib plus fulvestrant versus placebo plus fulvestrant for HR+, HER2- advanced breast cancer following progression on a prior CDK4/6 inhibitor plus endocrine therapy.",
+      "journal": "Ann Oncol",
+      "pub_date": "2026 Oct 24",
+      "authors": [
+        "Kalinsky K",
+        "Wander SA",
+        "Hamilton E",
+        "Graff SL",
+        "Jeselsohn R",
+        "Park KH"
+      ],
+      "author_count": 16,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926108/",
+      "doi": "10.1016/j.annonc.2026.10.1283",
+      "mesh_terms": [],
+      "relevance_score": 5,
+      "category": "Endokrin behandling",
+      "why_relevant": "Fas III-studie (postMONARCH) i Ann Oncol som rapporterar final OS-analys för abemaciclib plus fulvestrant efter progression på CDK4/6-hämmare — ett kliniskt kritiskt och kontroversiellt behandlingsscenario där OS-data (numeriskt men ej statistiskt signifikant förbättrad) direkt påverkar behandlingsbeslut i klinisk praxis.",
+      "deep_analysis": {
+        "central_finding": "Abemaciclib plus fulvestrant gav numeriskt förlängd median-OS (32,1 vs 24,6 månader, HR 0,80) efter progression på CDK4/6i+ET, men statistisk signifikans uppnåddes inte (p=0,11, fördefinierad gräns HR≤0,753 ej nådd).",
+        "limitation": "Studien är statistiskt underdimensionerad för OS-utfallet (n=368, 200 events) — HR-gränsen på 0,753 var ambitiös och det faktiska HR på 0,80 med brett konfidensintervall (0,60–1,06) utesluter inte avsaknad av effekt; dessutom tillåts extensiv efterföljande behandling som kan maskera OS-skillnad.",
+        "vs_standard": "Bekräftar PFS-fördelen från primäranalysen men ger inget OS-bevis för att ersätta nuvarande praxis (kemoterapi, everolimus+exemestan eller övergång till annan endokrin behandling) i post-CDK4/6i-linjen — behandlingsval kvarstår individualiserat baserat på totalitet av evidens.",
+        "applicability": "Bekräftande/uppföljning"
+      },
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42925007",
+      "title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
+      "journal": "JAMA",
+      "pub_date": "2026 Oct 23",
+      "authors": [
+        "Fan Y",
+        "Liu Y",
+        "Wang Y",
+        "Ouyang Q",
+        "Zhang Q",
+        "Cui J"
+      ],
+      "author_count": 30,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925007/",
+      "doi": "10.1001/jama.2026.21372",
+      "mesh_terms": [],
+      "relevance_score": 5,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Fas III-studie i JAMA som visar dramatisk PFS-förbättring (HR 0,27) med ADC:n trastuzumab rezetecan vs kemoterapi vid HER2-low metastaserad bröstcancer, vilket potentiellt är praxisförändrande för denna patientgrupp.",
+      "deep_analysis": {
+        "central_finding": "Trastuzumab rezetecan (SHR-A1811, 6,4 mg/kg var 3:e vecka) halverade mer än dubbelt progressionstiden jämfört med kemoterapi vid HER2-low metastaserad bröstcancer (median PFS 16,4 vs 6,8 månader, HR 0,27, p<0,001) i en fas III-studie med 551 patienter.",
+        "limitation": "Studien genomfördes uteslutande i Kina (73 kinesiska center), vilket begränsar generaliserbarheten till västerländska populationer med annorlunda förbehandlingsmönster (bl.a. avseende CDK4/6-hämmare och T-DXd-exponering); OS-data är ännu inte mogna och toxicitetsprofilens grad ≥3-händelser var påtagligt högre i experimentarmen (84% vs 68%).",
+        "vs_standard": "Trastuzumab deruxtecan (T-DXd) är nuvarande standardbehandling för HER2-low metastaserad bröstcancer efter kemoterapi; trastuzumab rezetecan visar liknande PFS-magnitud men riktas mot en tidigare behandlingslinje och konkurrerar direkt med T-DXd utan head-to-head-jämförelse.",
+        "applicability": "Bekräftande/uppföljning"
+      },
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42925005",
+      "title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: Research Summary.",
+      "journal": "JAMA",
+      "pub_date": "2026 Oct 23",
+      "authors": [],
+      "author_count": 0,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925005/",
+      "doi": "10.1001/jama.2026.21700",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Behandlar trastuzumab rezetecan (ny HER2-riktad ADC) vid HER2-låg avancerad bröstcancer i en högnivåtidskrift, men avsaknad av abstract gör det svårt att bedöma studiedesign och klinisk tyngd.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42924935",
+      "title": "Trastuzumab Rezetecan in EBBR2-Low Metastatic Breast Cancer: One More ADC or a New Opportunity?",
+      "journal": "JAMA",
+      "pub_date": "2026 Oct 23",
+      "authors": [
+        "Mosele MF",
+        "André F"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924935/",
+      "doi": "10.1001/jama.2026.22295",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Trots publicering i en högnivåtidskrift saknas abstract och artikeln verkar vara en kommentar/editorial snarare än en primärstudie, vilket begränsar bedömningen av dess faktiska kliniska bidrag.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42924356",
+      "title": "Employment after curative breast cancer treatment: the breast cancer and the workforce cohort study.",
+      "journal": "J Natl Cancer Inst",
+      "pub_date": "2026 Oct 23",
+      "authors": [
+        "Blinder VS",
+        "Sampathkumar Y",
+        "Patil S",
+        "Eberle CE",
+        "Suarez J",
+        "Narang B"
+      ],
+      "author_count": 14,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924356/",
+      "doi": "10.1093/jnci/djag384",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Övrigt",
+      "why_relevant": "Studien belyser arbetsåtergång och socioekonomiska dispariteter efter bröstcancerbehandling, men fokuserar på survivorship/arbetsmarknadsfrågor snarare än klinisk onkologi.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42924349",
+      "title": "RE: Endocrine therapy in early-stage estrogen receptor-low breast cancer: a systematic review and meta-analysis.",
+      "journal": "J Natl Cancer Inst",
+      "pub_date": "2026 Oct 23",
+      "authors": [
+        "Zhu L",
+        "Liu L"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924349/",
+      "doi": "10.1093/jnci/djag362",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Endokrin behandling",
+      "why_relevant": "Ett brev/kommentar utan abstract till en systematisk översikt om endokrin behandling vid ER-låg bröstcancer – sannolikt ett svar/korrespondens med begränsat självständigt innehåll.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42921756",
+      "title": "A clinical model incorporating early lymphocyte dynamics in HER2-positive breast cancer.",
+      "journal": "J Natl Cancer Inst",
+      "pub_date": "2026 Oct 24",
+      "authors": [
+        "Bergstrom CP",
+        "Luo I",
+        "Bean GR",
+        "Kotler E",
+        "Satoyoshi M",
+        "Curtis C"
+      ],
+      "author_count": 11,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42921756/",
+      "doi": "10.1093/jnci/djag400",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Övrigt",
+      "why_relevant": "Artikeln presenterar en klinisk prediktionsmodell baserad på lymfocytdynamik i perifert blod för att förutsäga pCR efter neoadjuvant HER2-riktad behandling, med lovande diskriminationsförmåga (AUC 0,82 i valideringskohort), men begränsas av retrospektivt design och relativt litet patientantal.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42968162",
+      "title": "Safety and treatment duration of ribociclib + nonsteroidal aromatase inhibitor in HR+/HER2- early breast cancer: a phase 3 randomized controlled trial (NATALEE).",
+      "journal": "Breast Cancer Res",
+      "pub_date": "2026 Aug 04",
+      "authors": [
+        "Rugo HS",
+        "Harbeck N",
+        "Hortobagyi GN",
+        "O'Shaughnessy J",
+        "Huang CS",
+        "Martin M"
+      ],
+      "author_count": 17,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968162/",
+      "doi": "10.1186/s13058-026-02352-2",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Aminopyridines*",
+        "Purines*",
+        "Antineoplastic Combined Chemotherapy Protocols*",
+        "Breast Neoplasms*",
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "Middle Aged",
+        "Aromatase Inhibitors*",
+        "Aged",
+        "Adult",
+        "Receptors, Progesterone",
+        "Receptors, Estrogen",
+        "Neoplasm Staging",
+        "Treatment Outcome",
+        "Neutropenia"
+      ],
+      "relevance_score": 4,
+      "category": "Endokrin behandling",
+      "why_relevant": "Detaljerad säkerhetsanalys från fas III NATALEE-studien ger kliniskt viktiga data om hantering av biverkningar vid ribociclib + NSAI i tidig bröstcancer, inklusive hos äldre patienter, vilket direkt informerar klinisk beslutsfattning.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "ribociclib"
+      ]
+    },
+    {
+      "pmid": "42967455",
+      "title": "From staging to changing strategy: [18F]FDG PET/MRI's impact on treatment planning in early breast cancer.",
+      "journal": "Eur J Cancer",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Di Micco R",
+        "Corona SP",
+        "Bagnardi V",
+        "Riccardi S",
+        "Canevari C",
+        "Gallivanone F"
+      ],
+      "author_count": 29,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967455/",
+      "doi": "10.1016/j.ejca.2026.117809",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Övrigt",
+      "why_relevant": "Prospektiv studie som visar att PET/MRI påverkar behandlingsplaneringen hos ~30% av tidiga bröstcancerpatienter, men begränsas av sin single-arm-design och måttliga diagnostiska noggrannhet.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42967224",
+      "title": "Decision regret following rapid genetic testing at the time of breast cancer diagnosis.",
+      "journal": "Cancer",
+      "pub_date": "2026 Nov 01",
+      "authors": [
+        "Hsu LF",
+        "Eisen A",
+        "Poll A",
+        "Lim DW",
+        "Wright FC",
+        "Hanrahan R"
+      ],
+      "author_count": 10,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967224/",
+      "doi": "10.1002/cncr.70663",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Genetic Testing*",
+        "Middle Aged",
+        "Adult",
+        "Decision Making*",
+        "Aged",
+        "Genetic Predisposition to Disease",
+        "Emotions*",
+        "Canada",
+        "Young Adult",
+        "Surveys and Questionnaires",
+        "BRCA2 Protein",
+        "BRCA1 Protein",
+        "Genetic Counseling"
+      ],
+      "relevance_score": 2,
+      "category": "Ärftlighet",
+      "why_relevant": "Studien undersöker beslutsbehag efter snabb genetisk testning vid bröstcancerdiagnos, ett viktigt men smalt patientupplevelseperspektiv med begränsad direkt klinisk påverkan på behandling eller utfall.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42963954",
+      "title": "Cancer in Seychelles: A Population-Based Study on Incidence, Trends and Stage at Diagnosis (2005-2024).",
+      "journal": "Int J Cancer",
+      "pub_date": "2026 Oct 31",
+      "authors": [
+        "Finesse A",
+        "Mondon J",
+        "Shroff E",
+        "Gedeon J",
+        "Louange M",
+        "Parkin DM"
+      ],
+      "author_count": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963954/",
+      "doi": "10.1002/ijc.70769",
+      "mesh_terms": [],
+      "relevance_score": 1,
+      "category": "Övrigt",
+      "why_relevant": "Epidemiologisk studie från Seychellerna där bröstcancer nämns som en del av en bred cancerregisteranalys, utan klinisk fördjupning relevant för bröstcancervård eller forskning.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42963862",
+      "title": "Is Ductal Carcinoma In Situ a Precursor or Low-Risk Variant of Invasive Breast Cancer? A Population Perspective.",
+      "journal": "Int J Cancer",
+      "pub_date": "2026 Oct 30",
+      "authors": [
+        "Jatoi I",
+        "Filho AM",
+        "Gierach G",
+        "Sung H",
+        "Rosenberg PS"
+      ],
+      "author_count": 5,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963862/",
+      "doi": "10.1002/ijc.70799",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Övrigt",
+      "why_relevant": "Artikeln presenterar en populationsbaserad analys som ifrågasätter DCIS som obligat förstadium till invasiv bröstcancer och föreslår att DCIS snarare är en lågriskvarirant, vilket är relevant för screening- och behandlingsstrategi men saknar direkt kliniskt praxisförändrande data.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42963797",
+      "title": "Time-dependent anti-Müllerian hormone dynamics during GnRHa-based endocrine therapy in young breast cancer survivors: a longitudinal real-world cohort study.",
+      "journal": "Breast Cancer Res",
+      "pub_date": "2026 Aug 04",
+      "authors": [
+        "Jiang C",
+        "Bi X",
+        "Hua X",
+        "Yuan Z",
+        "Guo Y",
+        "Wang S"
+      ],
+      "author_count": 10,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963797/",
+      "doi": "10.1186/s13058-026-02359-9",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Anti-Mullerian Hormone*",
+        "Breast Neoplasms*",
+        "Gonadotropin-Releasing Hormone*",
+        "Longitudinal Studies",
+        "Retrospective Studies",
+        "Adult",
+        "Ovarian Reserve",
+        "Cancer Survivors",
+        "Antineoplastic Agents, Hormonal*",
+        "Young Adult"
+      ],
+      "relevance_score": 3,
+      "category": "Endokrin behandling",
+      "why_relevant": "Studien ger kliniskt användbar information om hur AMH-nivåer förändras över tid under GnRHa-baserad endokrin behandling hos unga bröstcancerpatienter, vilket är relevant för tolkning av fertilitets- och ovarialreservmarkörer i denna grupp.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42962501",
+      "title": "Longitudinal trajectories of menopausal symptoms in women receiving endocrine therapy for breast cancer compared with natural menopause.",
+      "journal": "Breast",
+      "pub_date": "2026 Oct 21",
+      "authors": [
+        "Lee SK",
+        "Choi HR",
+        "Kang D",
+        "Jang Y",
+        "Ryu S",
+        "Lee JE"
+      ],
+      "author_count": 12,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962501/",
+      "doi": "10.1016/j.breast.2026.104947",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Endokrin behandling",
+      "why_relevant": "Studien beskriver longitudinella förlopp av menopausala symtom hos bröstcancerpatienter på endokrin behandling jämfört med naturlig menopaus, vilket är kliniskt relevant för behandlingsföljsamhet men har begränsat praxisförändrande värde.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42962412",
+      "title": "Drugging the luminal axis end to end: A review of next-generation endocrine and targeted therapies in HR + /HER2- metastatic breast cancer.",
+      "journal": "Eur J Cancer",
+      "pub_date": "2026 Oct 23",
+      "authors": [
+        "Caltavituro A",
+        "Giordano A",
+        "De Angelis C",
+        "Buonaiuto R",
+        "Canzian J",
+        "Torres-Marcén M"
+      ],
+      "author_count": 14,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962412/",
+      "doi": "10.1016/j.ejca.2026.117794",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Endokrin behandling",
+      "why_relevant": "Välskriven och omfattande reviewartikel som systematiserar det snabbt växande fältet av nästa generations endokrina och riktade terapier (orala SERDs, PROTACs, CERANs, selektiva CDK- och PI3K-hämmare, ctDNA-monitorering) vid HR+/HER2- metastaserad bröstcancer, med ett tydligt kliniskt och biomarkörbaserat ramverk för behandlingsbeslut.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42962160",
+      "title": "From TAILORx to OPTIMA: Evolving Evidence for Genomically Guided Chemotherapy in Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer.",
+      "journal": "J Clin Oncol",
+      "pub_date": "2026 Oct 30",
+      "authors": [
+        "Abdou Y",
+        "Carey LA"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962160/",
+      "doi": "10.1200/JCO-26-01976",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Endokrin behandling",
+      "why_relevant": "Artikeln i en topptidskrift (L3) diskuterar evidensutvecklingen från TAILORx till OPTIMA för genomiskt vägledda behandlingsbeslut vid HR+/HER2- bröstcancer, vilket är direkt kliniskt relevant för att välja mellan kemoterapi och endokrin behandling.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42962156",
+      "title": "Erratum: Pathologic Complete Response (pCR) Rate and Predictors of Response to Taxane, Trastuzumab, and Pertuzumab in HER2-Positive Breast Cancer: Secondary Analyses of EA1181/CompassHER2 pCR.",
+      "journal": "J Clin Oncol",
+      "pub_date": "2026 Oct 30",
+      "authors": [
+        "Tung N",
+        "Zhao F",
+        "DeMichele A",
+        "Prat A",
+        "Winer EP",
+        "Wright JL"
+      ],
+      "author_count": 32,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962156/",
+      "doi": "10.1200/JCO-26-02664",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Detta är ett erratum (rättelse) till en tidigare publicerad artikel och innehåller inga nya vetenskapliga fynd, trots att ursprungsstudien om pCR vid HER2-positiv bröstcancer i sig är relevant.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article",
+        "Published Erratum"
+      ]
+    },
+    {
+      "pmid": "42958296",
+      "title": "CK2 targeting potentiates antineoplastic effects of dual HER2/EGFR inhibitor lapatinib and attenuates growth factor-induced epithelial-mesenchymal transition.",
+      "journal": "Breast Cancer Res",
+      "pub_date": "2026 Aug 02",
+      "authors": [
+        "Robinson D",
+        "Kim H",
+        "Selico-Dunn A",
+        "Elkins E",
+        "Kim S",
+        "Kim S"
+      ],
+      "author_count": 11,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958296/",
+      "doi": "10.1186/s13058-026-02356-y",
+      "mesh_terms": [
+        "Humans",
+        "Casein Kinase II*",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "Female",
+        "Epithelial-Mesenchymal Transition*",
+        "Lapatinib*",
+        "Breast Neoplasms*",
+        "ErbB Receptors",
+        "Cell Proliferation",
+        "Cell Line, Tumor",
+        "Protein Kinase Inhibitors*",
+        "Phenazines",
+        "Signal Transduction",
+        "Drug Resistance, Neoplasm",
+        "Antineoplastic Agents*",
+        "Animals",
+        "Quinazolines",
+        "Gene Expression Regulation, Neoplastic",
+        "Naphthyridines"
+      ],
+      "relevance_score": 2,
+      "category": "Preklinisk/translationell",
+      "why_relevant": "Preklinisk cellinjjestudie som undersöker CK2-hämning i kombination med lapatinib vid endokrinresistent bröstcancer – intressanta mekanistiska fynd men utan direkt klinisk implementering.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42957778",
+      "title": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial.",
+      "journal": "Nat Med",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Pérez-García JM",
+        "Cortés J",
+        "Ruiz-Borrego M",
+        "Stradella A",
+        "Bermejo B",
+        "Escrivá-de-Romaní S"
+      ],
+      "author_count": 34,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957778/",
+      "doi": "10.1038/s41591-026-04723-w",
+      "mesh_terms": [],
+      "relevance_score": 5,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Fas II PHERGain-studiens 5-årsdata stödjer en PET/pCR-styrd kemoterapi-deeskaleringstrategi vid HER2-positiv tidig bröstcancer med lovande långtidsutfall, och de explorativa ctDNA-fynden tillför kliniskt meningsfull vägledning för behandlingsindividualisering.",
+      "deep_analysis": {
+        "central_finding": "Efter median 5,6 års uppföljning uppnådde grupp B (HP ± endokrin terapi med PET/pCR-styrd kemoterapi-deeskalering) en 5-års iDFS på 89,5%, och den post-randomiserade subgruppen PET-responders som uppnådde pCR utan kemoterapi hade 5-års iDFS på 92,4% med endast en fjärrrecidiv; detekterbart ctDNA vid baseline eller under behandling associerades med sämre iDFS medan ctDNA-clearance korrelerade med högre pCR-frekvens och bättre långtidsutfall.",
+        "limitation": "Studien är fas II, icke-jämförande och underdimensionerad för definitiva efficacy-slutsatser; subgruppen som undvek kemoterapi (n=86) är post-randomiserings-selekterad (PET-responders med pCR), vilket omöjliggör kausal tolkning av kemoterapi-utelämnandets effekt, och ctDNA-analyserna är explorativa utan förutbestämd statistisk plan.",
+        "vs_standard": "Standardvård vid HER2-positiv tidig bröstcancer inkluderar kemoterapi kombinerat med trastuzumab/pertuzumab; PHERGain-data ger stöd åt att en PET/pCR-styrd deeskalering kan ge jämförbara långtidsresultat i selekterade patienter, men fas III-bekräftelse saknas innan praxis kan förändras.",
+        "applicability": "Bekräftande/uppföljning"
+      },
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956779",
+      "title": "WHO releases framework for expanding access to early breast cancer care.",
+      "journal": "Lancet Oncol",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Gourd E"
+      ],
+      "author_count": 1,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956779/",
+      "doi": "10.1016/S1470-2045(26)00591-7",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Övrigt",
+      "why_relevant": "WHO:s ramverk för utökad tillgång till tidig bröstcancervård är kliniskt relevant men saknar abstract och är sannolikt ett policydokument/kommentar snarare än en primär forskningsstudie.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956457",
+      "title": "Knowledge gaps and future perspectives for the definition, diagnostics and treatment of isolated locoregional recurrent breast cancer.",
+      "journal": "Breast",
+      "pub_date": "2026 Oct 21",
+      "authors": [
+        "Snellen TIM",
+        "Vervenne CM",
+        "Dezentjé VO",
+        "Wiersma T",
+        "Scholten AN",
+        "Lips EH"
+      ],
+      "author_count": 7,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956457/",
+      "doi": "10.1016/j.breast.2026.104945",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Övrigt",
+      "why_relevant": "En översiktsartikel om isolerad lokoregional recidiv vid bröstcancer som sammanfattar diagnostik, staging och behandling, men utan nya primärdata och publicerad i en lägre rankad tidskrift.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42955431",
+      "title": "Real-world efficacy and safety of trastuzumab emtansine biosimilar (UJVIRA®) in early and metastatic HER2-positive breast cancer: a multicenter pooled retrospective analysis from India.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Mahajan A",
+        "Panda SS",
+        "Moharana L",
+        "Chandrakanth MV",
+        "Agarwala V",
+        "Manna R"
+      ],
+      "author_count": 21,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955431/",
+      "doi": "10.1007/s10549-026-08114-0",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "India",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "Ado-Trastuzumab Emtansine*",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Biosimilar Pharmaceuticals*",
+        "Aged",
+        "Adult",
+        "Trastuzumab",
+        "Neoplasm Metastasis",
+        "Treatment Outcome"
+      ],
+      "relevance_score": 2,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Retrospektiv analys av T-DM1 biosimilar i en indisk kontext med litet patientantal och kort uppföljning, vilket ger begränsat tillskott utöver redan etablerad evidens för T-DM1.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "42955423",
+      "title": "Sociodemographic and clinicopathologic features associated with rapid relapse in triple-negative breast cancer: a Swedish nationwide registry-based study.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Sarathchandra S",
+        "Nyqvist-Streng J",
+        "Sahlberg E",
+        "Einbeigi Z",
+        "Helou K",
+        "Kovács A"
+      ],
+      "author_count": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955423/",
+      "doi": "10.1007/s10549-026-08115-z",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Sweden",
+        "Registries",
+        "Triple Negative Breast Neoplasms*",
+        "Neoplasm Recurrence, Local*",
+        "Middle Aged",
+        "Aged",
+        "Retrospective Studies",
+        "Adult",
+        "Sociodemographic Factors",
+        "Prognosis"
+      ],
+      "relevance_score": 3,
+      "category": "Övrigt",
+      "why_relevant": "Svensk registerstudie som identifierar kliniska och sociodemografiska faktorer kopplade till snabb återfall vid TNBC, relevant för riskstratifiering men utan nya behandlingsdata.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42950434",
+      "title": "Optimizing Breast Cancer Surgery Recovery: A Real-World Comparative Effectiveness Study of Prehabilitation and Delayed Rehabilitation Care.",
+      "journal": "J Natl Compr Canc Netw",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Wood KC",
+        "Bertram JJ",
+        "Hodges A",
+        "Godbole N",
+        "Brizeno VG",
+        "Perchaluk J"
+      ],
+      "author_count": 15,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950434/",
+      "doi": "10.6004/jnccn.2026.7051",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Övrigt",
+      "why_relevant": "Retrospektiv observationsstudie om prehabilitering vs fördröjd rehabilitering efter bröstcancerkirurgi med fokus på övre extremitetsfunktion och livskvalitet – kliniskt intressant men inte praxisförändrande och utanför onkologins kärnområden.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42950386",
+      "title": "To stop or not to stop? International physician survey on HER2 targeted therapy for metastatic breast cancer patients in remission.",
+      "journal": "Breast",
+      "pub_date": "2026 Oct 12",
+      "authors": [
+        "Lee HY",
+        "Ong WS",
+        "Tjan-Heijnen V",
+        "Lambertini M",
+        "Lu YS",
+        "Park KH"
+      ],
+      "author_count": 28,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950386/",
+      "doi": "10.1016/j.breast.2026.104935",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Enkätstudie om läkares attityder kring utsättning av HER2-riktad behandling vid komplett remission ger intressanta insikter men saknar kliniska utfallsdata och är därmed av begränsat praxisrelevant värde.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42949540",
+      "title": "Extracellular matrix stiffness controls Transposable Elements through Pin1 to promote immune evasion in breast cancer.",
+      "journal": "Cancer Discov",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Bertolio R",
+        "Rustighi A",
+        "Renzi A",
+        "Campaner E",
+        "Cancila V",
+        "Napoletano F"
+      ],
+      "author_count": 46,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949540/",
+      "doi": "10.1158/2159-8290.CD-25-0942",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Preklinisk/translationell",
+      "why_relevant": "Studien identifierar en ny mekanosensitiv immunevasionsmekanism via Pin1 och transponerbara element i bröstcancer, med translationell potential för att förbättra immunterapi i fibrötiska tumörer, men saknar ännu kliniska data.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42949420",
+      "title": "Neuroendocrine Differentiation Mediates Escape from HER2-Targeted Therapy in Breast Cancer.",
+      "journal": "Cancer Discov",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Würth R",
+        "Cheytan T",
+        "Schwerd-Kleine P",
+        "Gutjahr E",
+        "Donato E",
+        "Thewes V"
+      ],
+      "author_count": 28,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949420/",
+      "doi": "10.1158/2159-8290.CD-26-1312",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Preklinisk/translationell",
+      "why_relevant": "Studien identifierar neuroendokrin differentiering som en ny resistensmekanism mot HER2-riktad behandling i bröstcancer och pekar ut NEUROD1 och FGFR1 som potentiella terapeutiska mål, med stöd av patient-deriverade organoider och xenograftmodeller.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42946309",
+      "title": "Prospective circulating tumour DNA surveillance in patients with early high-risk hormone receptor positive, HER2-negative breast cancer in the TRAK-ER study.",
+      "journal": "Ann Oncol",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "Cunningham N",
+        "Swift C",
+        "Cutts RJ",
+        "Thomas K",
+        "Infirri SS",
+        "Dalenc F"
+      ],
+      "author_count": 22,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946309/",
+      "doi": "10.1016/j.annonc.2026.10.1292",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Övrigt",
+      "why_relevant": "Denna prospektiva multicenterstudie (n=1133) kartlägger ctDNA-surveillance under adjuvant endokrin behandling vid högrisk ER+/HER2- bröstcancer och ger viktiga kliniska data om detektionsfrekvenser, prognostiska faktorer och relation till radiologisk recidiv – med direkt bäring på implementering av liquid biopsy i klinisk praxis.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42945961",
+      "title": "CPS + EG and Neo-Bioscore predict individual outcomes but not trial results after neoadjuvant therapy for early breast cancer.",
+      "journal": "Cancer Cell",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "Conforti F",
+        "Nekljudova V",
+        "Holtschmidt J",
+        "Sala I",
+        "Pagan E",
+        "Solbach C"
+      ],
+      "author_count": 33,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945961/",
+      "doi": "10.1016/j.ccell.2026.10.002",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Studien utvärderar surrogatvärdet av prognostiska poängsystem (CPS+EG och Neo-Bioscore) efter neoadjuvant kemoterapi i nio randomiserade prövningar och visar att de är värdefulla på individnivå men otillförlitliga som surrogat­endpoints på studienivå – ett metodologiskt viktigt fynd för design av framtida neoadjuvanta prövningar.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42945140",
+      "title": "The right drug, the wrong assay: TROP2-ADC assessment in breast cancer.",
+      "journal": "J Natl Cancer Inst",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "He M",
+        "Rimm DL"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945140/",
+      "doi": "10.1093/jnci/djag275",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Artikeln diskuterar metodologiska problem med TROP2-testning vid val av ADC-behandling i bröstcancer, vilket är relevant för klinisk implementering av sacituzumab govitecan men utan abstract är det svårt att bedöma det fulla genomslaget.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Editorial",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "42933638",
+      "title": "Sacituzumab tirumotecan versus chemotherapy in previously treated locally recurrent or metastatic triple-negative breast cancer: final overall survival analysis of the Phase III OptiTROP-Breast01.",
+      "journal": "Ann Oncol",
+      "pub_date": "2026 Dec 31",
+      "authors": [
+        "Xu B",
+        "Yin Y",
+        "Fan Y",
+        "Ouyang Q",
+        "Song L",
+        "Wang X"
+      ],
+      "author_count": 19,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933638/",
+      "doi": "10.1016/j.annonc.2026.10.098",
+      "mesh_terms": [],
+      "relevance_score": 5,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Fas III-studie (OptiTROP-Breast01) som visar signifikant och kliniskt meningsfull OS-fördel (HR 0,60) för sacituzumab tirumotecan versus kemoterapi vid tidigare behandlad avancerad TNBC, med potential att vara praxisförändrande för denna patientgrupp.",
+      "deep_analysis": {
+        "central_finding": "Sacituzumab tirumotecan ger signifikant och bestående OS-fördel versus kemoterapi vid tidigare behandlad avancerad TNBC (median OS 14,7 vs 9,9 månader; HR 0,60; 95% KI 0,45–0,80), med 30-månaders OS-rate 26,8% vs 13,2%, bekräftat i final analys med 29,4 månaders medianuppföljning.",
+        "limitation": "Studien genomfördes primärt i Kina (kinesisk population), vilket begränsar direkt generaliserbarhet till västliga patientpopulationer, och 27,8% av kontrollarmens patienter fick efterföljande ADC-behandling vilket kan ha påverkat OS-utfallet trots RPSFT-justering.",
+        "vs_standard": "Sacituzumab tirumotecan visar överlägsen OS jämfört med standard singelagens kemoterapi och konkurrerar direkt med sacituzumab govitecan (Trodelvy) som nuvarande standardbehandling i denna indikation, men head-to-head-jämförelse saknas.",
+        "applicability": "Bekräftande/uppföljning"
+      },
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42933459",
+      "title": "Izalontamab brengitecan for HR+/HER2- breast cancer in China (PANKU-Breast01): a randomised, phase 3 trial.",
+      "journal": "Lancet",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Lan B",
+        "Shi Y",
+        "Shao X",
+        "Wu F",
+        "Wang S",
+        "Xie W"
+      ],
+      "author_count": 43,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933459/",
+      "doi": "10.1016/S0140-6736(26)02096-9",
+      "mesh_terms": [],
+      "relevance_score": 5,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Fas III-studie i Lancet som visar att den bispecifika ADC:n izalontamab brengitecan halverar progressionsrisken (HR 0,41) jämfört med kemoterapi vid kraftigt förbehandlad HR+/HER2- bröstcancer, vilket potentiellt introducerar en ny behandlingsklass för denna patientgrupp.",
+      "deep_analysis": {
+        "central_finding": "Izalontamab brengitecan (EGFR/HER3-bispecifik ADC med TopoI-hämmare) förbättrade PFS signifikant jämfört med kemoterapi (8,2 vs 4,0 månader, HR 0,41) vid kraftigt förbehandlad HR+/HER2- bröstcancer i kinesisk population.",
+        "limitation": "Studien inkluderar uteslutande kinesiska kvinnor från en enda nation, saknar mogen OS-data, och har hög förekomst av grad ≥3 biverkningar i iza-bren-armen (85%), varav trombocytopeni krävde trombocythöjande behandling hos 73% — toxicitetsprofilen och generaliserbarheten till globala populationer är oklar.",
+        "vs_standard": "Iza-bren ger dubbelt så lång PFS jämfört med standardkemoterapi (eribulin, vinorelbin, gemcitabin eller kapecitabin) i denna sena behandlingslinje, men jämförelse med sakituzumab govitecan eller trastuzumab deruxtecan (vid HER2-low) saknas och OS-fördel är ej fastställd.",
+        "applicability": "Hypotesgenererande"
+      },
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42933438",
+      "title": "There is beauty after breast cancer.",
+      "journal": "Lancet Oncol",
+      "pub_date": "2026 Nov",
+      "authors": [
+        "Wilkinson E"
+      ],
+      "author_count": 1,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933438/",
+      "doi": "10.1016/S1470-2045(26)00466-3",
+      "mesh_terms": [],
+      "relevance_score": 1,
+      "category": "Övrigt",
+      "why_relevant": "Titeln antyder ett personligt eller humanistiskt perspektiv på livet efter bröstcancer, sannolikt ett kort inlägg eller kommentar utan vetenskapligt innehåll av klinisk relevans.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42932883",
+      "title": "Obesity and Cancer Risk in Young Adults in Korea : A Nationwide Health Screening Cohort Study.",
+      "journal": "Ann Intern Med",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "Yun JS",
+        "Mun H",
+        "Jung JH",
+        "Park Y",
+        "Kim SY",
+        "Kim K"
+      ],
+      "author_count": 11,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932883/",
+      "doi": "10.7326/ANNALS-25-02612",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Övrigt",
+      "why_relevant": "Stor kohortstudie om fetma och cancerrisk hos unga vuxna, men bröstcancer är inte huvudfokus och studien visar dessutom ingen association mellan fetma och bröstcancer diagnostiserad före 50 års ålder.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42932238",
+      "title": "Tailoring adjuvant endocrine therapy in patients with estrogen receptor-low breast cancer.",
+      "journal": "J Natl Cancer Inst",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Etessami JD",
+        "Curigliano G",
+        "Valenza C"
+      ],
+      "author_count": 3,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932238/",
+      "doi": "10.1093/jnci/djag354",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Endokrin behandling",
+      "why_relevant": "Artikeln adresserar det kliniskt relevanta men oklara området kring adjuvant endokrin behandling vid ER-låg bröstcancer, ett ämne med direkt terapeutisk implikation men utan abstract tillgängligt för djupare bedömning.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Editorial",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "42932003",
+      "title": "GLP-1 receptor agonist-associated weight loss in breast cancer patients receiving concurrent endocrine therapy: a retrospective cohort analysis.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Cronin KM",
+        "Tiersten A"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932003/",
+      "doi": "10.1007/s10549-026-08096-z",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Weight Loss*",
+        "Glucagon-Like Peptide-1 Receptor Agonists*",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Tirzepatide",
+        "Semaglutide",
+        "Aged",
+        "Antineoplastic Agents, Hormonal*",
+        "Adult",
+        "Treatment Outcome",
+        "Immunoglobulin Fc Fragments",
+        "Glucagon-Like Peptides",
+        "Glucagon-Like Peptide-1 Receptor",
+        "Recombinant Fusion Proteins"
+      ],
+      "relevance_score": 2,
+      "category": "Endokrin behandling",
+      "why_relevant": "Retrospektiv enkeltcenterstudie med begränsat patientantal som undersöker GLP-1-receptoragonisternas viktminskningseffekt hos bröstcancerpatienter på endokrin behandling – kliniskt intressant frågeställning men preliminära och metodologiskt svaga data som ännu inte påverkar praxis.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42931995",
+      "title": "Circulating tumor cells in lobular versus ductal metastatic breast cancer.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Dolce EM",
+        "Darga EP",
+        "Henderson NC",
+        "Thomas DG",
+        "Hanauer DA",
+        "Chinnaiyan AM"
+      ],
+      "author_count": 11,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931995/",
+      "doi": "10.1007/s10549-026-08111-3",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Neoplastic Cells, Circulating*",
+        "Breast Neoplasms*",
+        "Carcinoma, Lobular*",
+        "Carcinoma, Ductal, Breast*",
+        "Middle Aged",
+        "Aged",
+        "Prognosis",
+        "Neoplasm Metastasis",
+        "Adult",
+        "Biomarkers, Tumor"
+      ],
+      "relevance_score": 2,
+      "category": "Övrigt",
+      "why_relevant": "Studien visar att cirkulerande tumörceller är mer frekvent förhöjda vid lobulär jämfört med duktal metastaserad bröstcancer, men resultaten är explorativa och har begränsad omedelbar klinisk konsekvens.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42931983",
+      "title": "Efficacy and toxicity for pembrolizumab-containing therapy in older adults with triple-negative breast cancer: insights from routine oncology practice.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Smith CE",
+        "Rami A",
+        "Li T",
+        "Tayob N",
+        "Patel P",
+        "Burstein HJ"
+      ],
+      "author_count": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931983/",
+      "doi": "10.1007/s10549-026-08112-2",
+      "mesh_terms": [
+        "Humans",
+        "Antibodies, Monoclonal, Humanized*",
+        "Female",
+        "Triple Negative Breast Neoplasms*",
+        "Aged",
+        "Aged, 80 and over",
+        "Antineoplastic Combined Chemotherapy Protocols*",
+        "Middle Aged",
+        "Pathologic Complete Response",
+        "Treatment Outcome",
+        "Antineoplastic Agents, Immunological*"
+      ],
+      "relevance_score": 3,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Retrospektiv kohortstudie i rutinvård som belyser effekt och toxicitet av pembrolizumab-baserad behandling specifikt hos äldre (≥65 år) med TNBC, en underrepresenterad grupp i de pivotala studierna, men begränsas av studiedesign och tidskriftens lägre impactnivå.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42931859",
+      "title": "Risk of malignancy after diagnosis of radial sclerosing lesion with associated atypia.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Delgado Casanova LB",
+        "Dhamne S",
+        "Resetkova E",
+        "Guirguis MS",
+        "Geng Y",
+        "Bevers TB"
+      ],
+      "author_count": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931859/",
+      "doi": "10.1007/s10549-026-08103-3",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Biopsy, Large-Core Needle",
+        "Breast Neoplasms*",
+        "Carcinoma, Intraductal, Noninfiltrating*",
+        "Image-Guided Biopsy",
+        "Incidence",
+        "Sclerosis",
+        "Cohort Studies"
+      ],
+      "relevance_score": 3,
+      "category": "Övrigt",
+      "why_relevant": "Kohortstudie som kvantifierar malignitetsrisk vid radiell sklerosande lesion med atypi och kan bidra till mer personaliserat handläggningsbeslut (excision vs. bildövervakning), men fokuserar på diagnostik/kirurgisk beslutsfattning snarare än behandling.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "42929736",
+      "title": "Patient Sociodemographic Factors Impact the Breast Cancer Microenvironment.",
+      "journal": "Cancer Res",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "DeWitt JT",
+        "Jimenez-Tovar D",
+        "Oropeza E",
+        "Tiftik Karabay E",
+        "Nguyen C",
+        "Lamichhane A"
+      ],
+      "author_count": 24,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929736/",
+      "doi": "10.1158/0008-5472.CAN-25-5500",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Preklinisk/translationell",
+      "why_relevant": "Studien identifierar tumörmikromiljöskillnader (kollagendeposition, T-cellssignaturer) kopplade till ras och socioekonomisk status vid HR+ bröstcancer, med intressanta translationella fynd men utan direkt klinisk implementering.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42929681",
+      "title": "Anbenitamab plus HB1801 for HER2-Positive Advanced Breast Cancer.",
+      "journal": "N Engl J Med",
+      "pub_date": "2026 Oct 24",
+      "authors": [
+        "Wang J",
+        "Li H",
+        "Xu F",
+        "Wu T",
+        "Tong Z",
+        "Cui J"
+      ],
+      "author_count": 42,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929681/",
+      "doi": "10.1056/NEJMoa2610345",
+      "mesh_terms": [],
+      "relevance_score": 5,
+      "category": "Cytotoxisk behandling",
+      "why_relevant": "Denna fas III-studie i NEJM visar att det bispecifika antikroppsbaserade regimen anbenitamab plus HB1801 ger signifikant förbättrad progressionsfri överlevnad jämfört med standardbehandlingen THP vid HER2-positiv avancerad bröstcancer, vilket potentiellt kan förändra förstalinjebehandlingen.",
+      "deep_analysis": {
+        "central_finding": "Anbenitamab (HER2-bispecifik antikropp) plus HB1801 (nab-docetaxel) gav signifikant förbättrad 24-månaders PFS jämfört med THP (58,5% vs 34,4%; HR 0,46; p<0,001) som förstalinjebehandling vid HER2-positiv avancerad bröstcancer.",
+        "limitation": "Studien genomfördes uteslutande i Kina i öppen design, vilket begränsar generaliserbarhet till västerländska populationer och möjliggör bias i bedömning av sekundära endpunkter trots blindad central PFS-granskning; överlevnadsdata är ännu inte mogna.",
+        "vs_standard": "Regimen är överlägsen nuvarande standardvård THP (docetaxel + trastuzumab + pertuzumab) avseende PFS och ORR men med högre frekvens grad ≥3 biverkningar (45,9% vs 34,4%), vilket kräver regulatoriskt godkännande utanför Kina innan klinisk implementering.",
+        "applicability": "Bekräftande/uppföljning"
+      },
+      "scored_at": "2026-11-02",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
     {
       "pmid": "42894091",
       "title": "Associations of surgical breast cancer treatment at regional or community hospitals with patient-reported experience measures.",
@@ -388,312 +1743,31 @@
       "author_count": 24,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892237/",
       "doi": "10.1016/j.ejca.2026.117784",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Middle Aged",
+        "Sex Hormone-Binding Globulin",
+        "Tamoxifen*",
+        "Adult",
+        "Caloric Restriction*",
+        "Quality of Life",
+        "Antineoplastic Agents, Hormonal*",
+        "Intermittent Fasting",
+        "Risk Factors",
+        "Life Style*",
+        "Risk Reduction Behavior*"
+      ],
       "relevance_score": 3,
       "category": "Endokrin behandling",
       "why_relevant": "Fas II-studie som utvärderar lågdos tamoxifen kombinerat med kalorirestriktion för bröstcancerprevention hos högriskkvinnor, med biomarköreffekter som primärt utfall – relevant men begränsad av litet urval och surrogatendpunkt.",
       "deep_analysis": null,
       "scored_at": "2026-10-26",
       "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42928275",
-      "title": "Spatially dissecting drivers of inter- and intra-tumoral heterogeneity in Kenyan breast cancer.",
-      "journal": "Breast Cancer Res",
-      "pub_date": "2026 Jul 29",
-      "authors": [
-        "Abubakar M",
-        "Sayed S",
-        "Koka H",
-        "Lawrence S",
-        "Mutreja K",
-        "Hua X"
-      ],
-      "author_count": 23,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928275/",
-      "doi": "10.1186/s13058-026-02347-z",
-      "mesh_terms": [
-        "Humans",
-        "Female",
-        "Breast Neoplasms*",
-        "Kenya",
-        "Biomarkers, Tumor*",
-        "Middle Aged",
-        "Tumor Microenvironment",
-        "Adult"
-      ],
-      "relevance_score": 2,
-      "category": "Preklinisk/translationell",
-      "why_relevant": "Intressant spatial proteomiksstudie av intratumorheterogenitet i en kenyansk population, men resultaten är metodologiskt explorativa utan direkt klinisk implementering och rör en relativt liten kohort om 31 tumörer.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42928199",
-      "title": "Use of hair relaxers and hair dyes during pregnancy and breast tissue composition in mothers and adolescent daughters.",
-      "journal": "Breast Cancer Res",
-      "pub_date": "2026 Jul 29",
-      "authors": [
-        "Chan M",
-        "Lilge L",
-        "Walter J",
-        "Tehranifar P",
-        "Miller RL",
-        "Hoang A"
-      ],
-      "author_count": 12,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928199/",
-      "doi": "10.1186/s13058-026-02353-1",
-      "mesh_terms": [
-        "Humans",
-        "Female",
-        "Pregnancy",
-        "Adult",
-        "Hair Dyes*",
-        "Adolescent",
-        "Breast Neoplasms*",
-        "Breast Density",
-        "New York City",
-        "Breast*",
-        "Hair Preparations*",
-        "Prospective Studies",
-        "Nuclear Family",
-        "Mothers",
-        "Prenatal Exposure Delayed Effects*",
-        "Maternal Exposure*",
-        "Middle Aged"
-      ],
-      "relevance_score": 2,
-      "category": "Övrigt",
-      "why_relevant": "Studien undersöker association mellan hårvårdsproduktanvändning under graviditet och bröstvävnadskomposition som intermediär riskmarkör, men är begränsad av litet urval, observationell design och surrogatutfall utan direkt klinisk tillämpning.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42926111",
-      "title": "Pembrolizumab Plus Chemotherapy for HR+/HER2- PD-L1‒Positive Advanced Breast Cancer: Final Analysis of the Phase 3 KEYNOTE-B49 Study.",
-      "journal": "Ann Oncol",
-      "pub_date": "2026 Oct 24",
-      "authors": [
-        "Rugo HS",
-        "Kok M",
-        "Goncalves A",
-        "Loirat D",
-        "Bianchini G",
-        "Fasching PA"
-      ],
-      "author_count": 20,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42926111/",
-      "doi": "10.1016/j.annonc.2026.10.1285",
-      "mesh_terms": [],
-      "relevance_score": 5,
-      "category": "Cytotoxisk behandling",
-      "why_relevant": "Fas III-studie (KEYNOTE-B49) i Ann Oncol som utvärderar pembrolizumab plus kemoterapi vid HR+/HER2- avancerad bröstcancer och visar statistiskt signifikant PFS-förbättring men ingen OS-vinst, vilket är ett viktigt negativt/blandat resultat med direkt klinisk relevans för behandlingsval i denna stora patientgrupp.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42926110",
-      "title": "Atirmociclib and fulvestrant for patients with HR+/HER2- advanced/metastatic breast cancer who progressed on a prior cyclin-dependent kinase 4/6 inhibitor: primary analysis of the randomized FourLight-1 trial.",
-      "journal": "Ann Oncol",
-      "pub_date": "2026 Oct 24",
-      "authors": [
-        "Giordano A",
-        "Xu B",
-        "Yoshinami T",
-        "Huang CS",
-        "Park YH",
-        "Lerzo GL"
-      ],
-      "author_count": 20,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42926110/",
-      "doi": "10.1016/j.annonc.2026.10.1282",
-      "mesh_terms": [],
-      "relevance_score": 4,
-      "category": "Endokrin behandling",
-      "why_relevant": "Randomiserad fas II-studie (FourLight-1) i Ann Oncol visar att den selektiva CDK4-hämmaren atirmociclib plus fulvestrant signifikant förbättrar PFS (HR 0,60) efter progress på tidigare CDK4/6-hämmare, vilket är kliniskt relevant för en svårbehandlad patientgrupp.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42926108",
-      "title": "Overall survival from the phase III postMONARCH trial of abemaciclib plus fulvestrant versus placebo plus fulvestrant for HR+, HER2- advanced breast cancer following progression on a prior CDK4/6 inhibitor plus endocrine therapy.",
-      "journal": "Ann Oncol",
-      "pub_date": "2026 Oct 24",
-      "authors": [
-        "Kalinsky K",
-        "Wander SA",
-        "Hamilton E",
-        "Graff SL",
-        "Jeselsohn R",
-        "Park KH"
-      ],
-      "author_count": 16,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42926108/",
-      "doi": "10.1016/j.annonc.2026.10.1283",
-      "mesh_terms": [],
-      "relevance_score": 5,
-      "category": "Endokrin behandling",
-      "why_relevant": "Fas III-studie (postMONARCH) i en topp-tidskrift som rapporterar slutlig OS-analys för abemaciclib plus fulvestrant efter CDK4/6-hämmar-svikt – ett centralt kliniskt scenario där OS-data (numeriskt men ej statistiskt signifikant förbättring) har direkt bäring på behandlingsval i klinisk praxis.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42925007",
-      "title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
-      "journal": "JAMA",
-      "pub_date": "2026 Oct 23",
-      "authors": [
-        "Fan Y",
-        "Liu Y",
-        "Wang Y",
-        "Ouyang Q",
-        "Zhang Q",
-        "Cui J"
-      ],
-      "author_count": 30,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925007/",
-      "doi": "10.1001/jama.2026.21372",
-      "mesh_terms": [],
-      "relevance_score": 5,
-      "category": "Cytotoxisk behandling",
-      "why_relevant": "Fas III-studie i JAMA som visar dramatisk PFS-förbättring (HR 0,27) med en ny HER2-low-riktad ADC (trastuzumab rezetecan) jämfört med kemoterapi, vilket potentiellt etablerar ett nytt behandlingsalternativ för HER2-low metastaserad bröstcancer.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42925005",
-      "title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: Research Summary.",
-      "journal": "JAMA",
-      "pub_date": "2026 Oct 23",
-      "authors": [],
-      "author_count": 0,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925005/",
-      "doi": "10.1001/jama.2026.21700",
-      "mesh_terms": [],
-      "relevance_score": 3,
-      "category": "Cytotoxisk behandling",
-      "why_relevant": "Artikeln berör trastuzumab rezetecan (en ny ADC) vid HER2-låg avancerad bröstcancer, ett kliniskt relevant ämne i en högt rankad tidskrift, men avsaknad av abstract gör det omöjligt att bedöma studiedesign och klinisk signifikans.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42924935",
-      "title": "Trastuzumab Rezetecan in EBBR2-Low Metastatic Breast Cancer: One More ADC or a New Opportunity?",
-      "journal": "JAMA",
-      "pub_date": "2026 Oct 23",
-      "authors": [
-        "Mosele MF",
-        "André F"
-      ],
-      "author_count": 2,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924935/",
-      "doi": "10.1001/jama.2026.22295",
-      "mesh_terms": [],
-      "relevance_score": 2,
-      "category": "Cytotoxisk behandling",
-      "why_relevant": "Utan abstract är det svårt att bedöma innehållet, men titeln antyder en kommentar/editorial om en ny ADC vid HER2-låg metastaserad bröstcancer snarare än primärdata, vilket begränsar klinisk tillämpbarhet trots hög tidskriftsnivå.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42924356",
-      "title": "Employment after curative breast cancer treatment: the breast cancer and the workforce cohort study.",
-      "journal": "J Natl Cancer Inst",
-      "pub_date": "2026 Oct 23",
-      "authors": [
-        "Blinder VS",
-        "Sampathkumar Y",
-        "Patil S",
-        "Eberle CE",
-        "Suarez J",
-        "Narang B"
-      ],
-      "author_count": 14,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924356/",
-      "doi": "10.1093/jnci/djag384",
-      "mesh_terms": [],
-      "relevance_score": 2,
-      "category": "Övrigt",
-      "why_relevant": "Studien belyser arbetsförmåga och socioekonomiska dispariteter efter kurativt syftande bröstcancerbehandling, vilket är relevant för survivorship men har begränsad direkt klinisk/onkologisk praxispåverkan.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42924349",
-      "title": "RE: Endocrine therapy in early-stage estrogen receptor-low breast cancer: a systematic review and meta-analysis.",
-      "journal": "J Natl Cancer Inst",
-      "pub_date": "2026 Oct 23",
-      "authors": [
-        "Zhu L",
-        "Liu L"
-      ],
-      "author_count": 2,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924349/",
-      "doi": "10.1093/jnci/djag362",
-      "mesh_terms": [],
-      "relevance_score": 2,
-      "category": "Endokrin behandling",
-      "why_relevant": "Ett brev/kommentar utan abstract till en metaanalys om endokrin behandling vid ER-låg bröstcancer, vilket begränsar bedömningen av innehållets kliniska värde.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
-      ]
-    },
-    {
-      "pmid": "42921756",
-      "title": "A clinical model incorporating early lymphocyte dynamics in HER2-positive breast cancer.",
-      "journal": "J Natl Cancer Inst",
-      "pub_date": "2026 Oct 24",
-      "authors": [
-        "Bergstrom CP",
-        "Luo I",
-        "Bean GR",
-        "Kotler E",
-        "Satoyoshi M",
-        "Curtis C"
-      ],
-      "author_count": 11,
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921756/",
-      "doi": "10.1093/jnci/djag400",
-      "mesh_terms": [],
-      "relevance_score": 3,
-      "category": "Preklinisk/translationell",
-      "why_relevant": "Studien utvecklar en prediktiv modell baserad på lymfocytdynamik i perifert blod för att förutsäga pCR vid HER2-positiv bröstcancer, vilket är ett intressant biomarkörfynd men ännu utan direkt klinisk implementering.",
-      "deep_analysis": null,
-      "scored_at": "2026-10-26",
-      "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Randomized Controlled Trial"
       ]
     },
     {
@@ -949,13 +2023,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42909645/",
       "doi": "10.1007/s10549-026-08110-4",
       "mesh_terms": [
-        "Humans",
-        "Ethnicity*",
         "Female",
+        "Humans",
         "Breast Neoplasms*",
-        "Racial Groups*",
+        "Ethnicity*",
         "Periodicals as Topic*",
-        "White"
+        "Racial Groups*"
       ],
       "relevance_score": 2,
       "category": "Övrigt",
@@ -2068,14 +3141,30 @@
       "author_count": 17,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42854706/",
       "doi": "10.1016/S1470-2045(26)00341-4",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Breast Neoplasms*",
+        "Carcinoma, Ductal, Breast*",
+        "Carcinoma, Intraductal, Noninfiltrating*",
+        "Early Detection of Cancer*",
+        "Follow-Up Studies",
+        "Germany",
+        "Mammography*",
+        "Neoplasm Invasiveness",
+        "Time Factors"
+      ],
       "relevance_score": 4,
       "category": "Övrigt",
       "why_relevant": "Stor randomiserad kontrollerad studie (TOSYMA) som visar att digital brösttomosyntes reducerar intervallcancerfrekvensen med ~24% jämfört med digital mammografi, vilket ger viktig evidens för screeningmetodik även om det primära utfallsmåttet inte nådde statistisk signifikans.",
       "deep_analysis": null,
       "scored_at": "2026-10-12",
       "publication_types": [
-        "Journal Article"
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study"
       ]
     },
     {
@@ -3229,14 +4318,24 @@
       "author_count": 4,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42810150/",
       "doi": "10.1016/j.ejca.2026.117064",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Antibodies, Monoclonal, Humanized*",
+        "Triple Negative Breast Neoplasms*",
+        "Female",
+        "Chemotherapy, Adjuvant",
+        "Antineoplastic Agents, Immunological*",
+        "Pathologic Complete Response",
+        "Randomized Controlled Trials as Topic"
+      ],
       "relevance_score": 3,
       "category": "Cytotoxisk behandling",
       "why_relevant": "Kommentaren diskuterar en kliniskt relevant och omdebatterad fråga om huruvida den adjuvanta fasen av pembrolizumab i KEYNOTE-522-regimen verkligen bidrar till överlevnadsvinsten vid tidigt TNBC, men utan nya originaldata.",
       "deep_analysis": null,
       "scored_at": "2026-10-05",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ]
     },
     {
@@ -3255,14 +4354,29 @@
       "author_count": 12,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42810148/",
       "doi": "10.1016/j.ejca.2026.117063",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Triple Negative Breast Neoplasms*",
+        "Adult",
+        "Middle Aged",
+        "Aged",
+        "Antigens, Neoplasm*",
+        "Cell Adhesion Molecules*",
+        "Dose-Response Relationship, Drug",
+        "Antineoplastic Agents*",
+        "Aged, 80 and over",
+        "Maximum Tolerated Dose"
+      ],
       "relevance_score": 3,
       "category": "Cytotoxisk behandling",
       "why_relevant": "Fas I-studie av en ny TROP2-riktad ADC (F0024) vid TNBC visar lovande effekt (ORR 37,9% vid 10 mg/kg) men är begränsad av sitt tidiga fas och relativt litet patientantal.",
       "deep_analysis": null,
       "scored_at": "2026-10-05",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Clinical Trial, Phase I",
+        "Multicenter Study"
       ]
     },
     {
@@ -3776,14 +4890,27 @@
       "author_count": 11,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777289/",
       "doi": "10.1016/j.ejca.2026.117041",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Aged",
+        "Middle Aged",
+        "Prostatic Neoplasms, Castration-Resistant*",
+        "Breast Neoplasms*",
+        "Female",
+        "Aged, 80 and over",
+        "Steroid Synthesis Inhibitors*",
+        "Treatment Outcome"
+      ],
       "relevance_score": 1,
       "category": "Övrigt",
       "why_relevant": "Studien fokuserar primärt på prostatacancer och inkluderar endast 4 bröstcancerpatienter utan observerade behandlingssvar, vilket gör den i princip irrelevant för bröstcancerpraktik.",
       "deep_analysis": null,
       "scored_at": "2026-09-28",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Clinical Trial, Phase I",
+        "Multicenter Study"
       ]
     },
     {
@@ -5013,7 +6140,21 @@
       "author_count": 40,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42727044/",
       "doi": "10.1200/JCO-26-00602",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "Middle Aged",
+        "Adult",
+        "Ado-Trastuzumab Emtansine*",
+        "Aged",
+        "Trastuzumab*",
+        "Progression-Free Survival",
+        "Antineoplastic Agents, Immunological*",
+        "Immunoconjugates*",
+        "Antibodies, Monoclonal, Humanized"
+      ],
       "relevance_score": 5,
       "category": "Cytotoxisk behandling",
       "why_relevant": "Fas III-studie i JCO som visar att den nya HER2-riktade ADC:n trastuzumab botidotin ger signifikant längre PFS (11,1 vs 4,4 månader, HR 0,39) jämfört med T-DM1 vid HER2-positiv avancerad bröstcancer, vilket potentiellt kan förändra behandlingslandskapet i andra linjen.",
@@ -5025,7 +6166,14 @@
       },
       "scored_at": "2026-09-14",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "regulatory_substances": [
+        "trastuzumab emtansine"
       ]
     },
     {
@@ -5341,7 +6489,16 @@
       "author_count": 2,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42715513/",
       "doi": "10.1200/JCO-26-01423",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Breast Neoplasms*",
+        "Female",
+        "Neoadjuvant Therapy*",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "Neoplasm Staging",
+        "Antineoplastic Combined Chemotherapy Protocols*",
+        "Biomarkers, Tumor"
+      ],
       "relevance_score": 5,
       "category": "Cytotoxisk behandling",
       "why_relevant": "Denna review i JCO (nivå 3) sammanfattar och föreslår ett riskadapterat ramverk för neoadjuvant behandling vid HER2-positiv bröstcancer, inklusive ny FDA-godkänd användning av T-DXd (DESTINY-Breast11/05), med direkt praxisrelevans.",
@@ -11521,14 +12678,28 @@
       "author_count": 15,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42489683/",
       "doi": "10.1158/1078-0432.CCR-26-1076",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Aged",
+        "Middle Aged",
+        "Neoplasms*",
+        "Adult",
+        "Protein Kinase Inhibitors*",
+        "Aged, 80 and over",
+        "Treatment Outcome"
+      ],
       "relevance_score": 2,
       "category": "Cytotoxisk behandling",
       "why_relevant": "Fas Ib/II-studie av multikinashämmare tinengotinib i solida tumörer där bröstcancer utgör en liten delmängd (n=20) med explorativa, hypotesgenerande fynd, vilket begränsar den direkta kliniska relevansen för bröstcancer specifikt.",
       "deep_analysis": null,
       "scored_at": "2026-07-27",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Clinical Trial, Phase I",
+        "Multicenter Study",
+        "Clinical Trial, Phase II"
       ]
     },
     {
@@ -13067,7 +14238,16 @@
       "author_count": 2,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42441937/",
       "doi": "10.1200/JCO-26-00672",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Breast Neoplasms*",
+        "Female",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "Molecular Targeted Therapy",
+        "Trastuzumab",
+        "Protein Kinase Inhibitors",
+        "Antineoplastic Agents, Immunological"
+      ],
       "relevance_score": 4,
       "category": "Cytotoxisk behandling",
       "why_relevant": "Omfattande review i JCO om aktuell behandlingsstrategi vid HER2-positiv bröstcancer med fokus på T-DXd:s roll och sekvensering av HER2-riktade terapier, vilket är direkt kliniskt relevant för praxis.",
@@ -22136,15 +23316,15 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-10-26T13:52:04+00:00",
+    "checked_at": "2026-11-02T16:50:22+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
-        "data_date": "2026-10-23"
+        "data_date": "2026-10-30"
       },
       "ema": {
         "name": "EMA, centralt godkända läkemedel",
-        "data_date": "2026-10-26"
+        "data_date": "2026-11-02"
       }
     },
     "substances": {
@@ -22421,6 +23601,37 @@
           ]
         }
       },
+      "ribociclib": {
+        "name": "ribociclib",
+        "fda": {
+          "application": "NDA209092",
+          "brands": [
+            "KISQALI"
+          ],
+          "approved": "2017-03-13",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=209092",
+          "label": {
+            "application": "NDA209092",
+            "brands": [
+              "KISQALI"
+            ],
+            "indication": "KISQALI is a kinase inhibitor indicated: in combination with an aromatase inhibitor for the adjuvant treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative stage II and III early breast cancer at high risk of recurrence. ( 1 ) for the treatment of adults with HR-positive, HER2-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy; or fulvestrant as initial endocrine-based therapy or following disease progression on endocrine therapy. ( 1 ) 1.1 Early Breast Cancer KISQALI is indicated in combination with an aromatase inhibitor for the adjuvant treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative stage II and III early breast cancer at high risk of recurrence. 1.2 Advanced or Metastatic Breast Cancer KISQALI is indicated for the treatment of adults with HR-positive, HER2-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy; or fulvestrant as initial endocrine-based therapy or following disease progression on endocrine therapy.",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aaeaef94-f3f5-4367-8ea2-b181d7be2da8",
+            "date": "2026-07-01"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Kisqali",
+              "authorised": "2017-08-22",
+              "number": "EMEA/H/C/004213",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kisqali",
+              "indication": "Early breast cancer Kisqali in combination with an aromatase inhibitor is indicated for the adjuvant treatment of patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative early breast cancer at high risk of recurrence (see section 5.1 for selection criteria). In pre- or perimenopausal women, or in men, the aromatase inhibitor should be combined with a luteinising hormone-releasing hormone (LHRH) agonist. Advanced or metastatic breast cancer Kisqali is indicated for the treatment of women with HR-positive, HER2-negative locally advanced or metastatic breast cancer in combination with an aromatase inhibitor or fulvestrant as initial endocrine-based therapy, or in women who have received prior endocrine therapy. In pre- or perimenopausal women, the endocrine therapy should be combined with a LHRH agonist."
+            }
+          ]
+        }
+      },
       "sacituzumab govitecan": {
         "name": "sacituzumab govitecan",
         "fda": {
@@ -22527,6 +23738,38 @@
               "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/enhertu",
               "indication": "Breast cancerHER2-positive breast cancerEnhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive breast cancer who have received one or more prior anti-HER2-based regimens.HER2-low and HER2-ultralow breast cancerEnhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic hormone receptor (HR)-positive, HER2-low or HER2-ultralow breast cancer who have received at least one endocrine therapy in the metastatic setting and who are not considered suitable for endocrine therapy as the next line of treatment (see sections 4.2 and 5.1). HER2-low breast cancer who have received prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy (see section 4.2). Non-small cell lung cancer (NSCLC)Enhertu as monotherapy is indicated for the treatment of adult patients with advanced NSCLC whose tumours have an activating HER2 (ERBB2) mutation and who require systemic therapy following platinum-based chemotherapy with or without immunotherapy.Gastric cancer Enhertu as monotherapy is indicated for the treatment of adult patients with advanced HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma who have received a prior trastuzumab-based regimen. Other unresectable or metastatic solid tumours Enhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic…",
               "indication_truncated": true
+            }
+          ]
+        }
+      },
+      "trastuzumab emtansine": {
+        "name": "Ado-Trastuzumab Emtansine",
+        "fda": {
+          "application": "BLA125427",
+          "brands": [
+            "KADCYLA"
+          ],
+          "approved": "2013-02-22",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=125427",
+          "label": {
+            "application": "BLA125427",
+            "brands": [
+              "KADCYLA"
+            ],
+            "indication": "KADCYLA is a HER2-targeted antibody and microtubule inhibitor conjugate indicated, as a single agent, for: the treatment of patients with HER2-positive, metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination. Patients should have either: received prior therapy for metastatic disease, or developed disease recurrence during or within six months of completing adjuvant therapy. ( 1.1 ) the adjuvant treatment of patients with HER2-positive early breast cancer who have residual invasive disease after neoadjuvant taxane and trastuzumab-based treatment. ( 1.2 ) Select patients for therapy based on an FDA-authorized test for KADCYLA [see Dosage and Administration (2.1) ] 1.1 Metastatic Breast Cancer (MBC) KADCYLA ® , as a single agent, is indicated for the treatment of patients with HER2-positive, metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination. Patients should have either: Received prior therapy for metastatic disease, or Developed disease recurrence during or within six months of completing adjuvant therapy. Select patients for therapy based on an FDA-authorized test for KADCYLA [ see Dosage and Administration (2.1) ]. 1.2 Early Breast Cancer (EBC) KADCYLA, as a single agent, is indicated for the adjuvant treatment of patients with HER2-positive early breast cancer who have residual invasive disease after neoadjuvant taxane and trastuzumab -based treatment. Select patients for…",
+            "indication_truncated": true,
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=23f3c1f4-0fc8-4804-a9e3-04cf25dd302e",
+            "date": "2026-04-01"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Kadcyla",
+              "authorised": "2013-11-15",
+              "number": "EMEA/H/C/002389",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kadcyla",
+              "indication": "Early Breast Cancer (EBC) Kadcyla, as a single agent, is indicated for the adjuvant treatment of adult patients with HER2-positive early breast cancer who have residual invasive disease, in the breast and/or lymph nodes, after neoadjuvant taxane-based and HER2-targeted therapy. Metastatic Breast Cancer (MBC) Kadcyla, as a single agent, is indicated for the treatment of adult patients with HER2-positive, unresectable locally advanced or metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination. Patients should have either: Received prior therapy for locally advanced or metastatic disease, or Developed disease recurrence during or within six months of completing adjuvant therapy."
             }
           ]
         }
