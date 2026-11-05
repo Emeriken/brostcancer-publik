@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T09:17:25.108239+00:00",
+  "updated": "2026-11-05T19:33:27.537106+00:00",
   "article_count": 687,
   "journals_tracked": [
     "N Engl J Med",
@@ -681,6 +681,10 @@
       "publication_types": [
         "Journal Article",
         "Published Erratum"
+      ],
+      "regulatory_substances": [
+        "trastuzumab",
+        "pertuzumab"
       ]
     },
     {
@@ -730,6 +734,9 @@
         "Research Support, N.I.H., Extramural",
         "Research Support, U.S. Gov't, Non-P.H.S.",
         "Research Support, Non-U.S. Gov't"
+      ],
+      "regulatory_substances": [
+        "lapatinib"
       ]
     },
     {
@@ -851,6 +858,9 @@
       "publication_types": [
         "Journal Article",
         "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "trastuzumab emtansine"
       ]
     },
     {
@@ -1319,6 +1329,9 @@
       "scored_at": "2026-11-02",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "pembrolizumab"
       ]
     },
     {
@@ -2969,6 +2982,9 @@
       "scored_at": "2026-10-19",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "trastuzumab deruxtecan"
       ]
     },
     {
@@ -3889,6 +3905,10 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Published Erratum"
+      ],
+      "regulatory_substances": [
+        "docetaxel",
+        "pembrolizumab"
       ]
     },
     {
@@ -3968,6 +3988,9 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "sacituzumab govitecan"
       ]
     },
     {
@@ -3994,6 +4017,9 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "olaparib"
       ]
     },
     {
@@ -4317,6 +4343,12 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "tucatinib",
+        "trastuzumab",
+        "capecitabine",
+        "trastuzumab deruxtecan"
       ]
     },
     {
@@ -4342,6 +4374,9 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "paclitaxel"
       ]
     },
     {
@@ -4376,6 +4411,9 @@
       "publication_types": [
         "Journal Article",
         "Review"
+      ],
+      "regulatory_substances": [
+        "pembrolizumab"
       ]
     },
     {
@@ -4638,6 +4676,9 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "sacituzumab govitecan"
       ]
     },
     {
@@ -4978,6 +5019,9 @@
       "scored_at": "2026-09-28",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "alpelisib"
       ]
     },
     {
@@ -5313,6 +5357,9 @@
       "scored_at": "2026-09-28",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "olaparib"
       ]
     },
     {
@@ -5559,6 +5606,9 @@
       "scored_at": "2026-09-21",
       "publication_types": [
         "Editorial"
+      ],
+      "regulatory_substances": [
+        "olaparib"
       ]
     },
     {
@@ -5797,6 +5847,9 @@
       "publication_types": [
         "Journal Article",
         "Clinical Trial, Phase II"
+      ],
+      "regulatory_substances": [
+        "eribulin"
       ]
     },
     {
@@ -5957,6 +6010,9 @@
       "scored_at": "2026-09-21",
       "publication_types": [
         "News"
+      ],
+      "regulatory_substances": [
+        "vepdegestrant"
       ]
     },
     {
@@ -6032,6 +6088,9 @@
       "scored_at": "2026-09-21",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "pembrolizumab"
       ]
     },
     {
@@ -6112,6 +6171,9 @@
       "publication_types": [
         "Journal Article",
         "Review"
+      ],
+      "regulatory_substances": [
+        "carboplatin"
       ]
     },
     {
@@ -6364,6 +6426,9 @@
       "scored_at": "2026-09-14",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "tamoxifen"
       ]
     },
     {
@@ -6599,6 +6664,9 @@
       "scored_at": "2026-09-14",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "pertuzumab"
       ]
     },
     {
@@ -6754,6 +6822,9 @@
       "scored_at": "2026-09-14",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "carboplatin"
       ]
     },
     {
@@ -7264,6 +7335,9 @@
       "publication_types": [
         "Journal Article",
         "Observational Study"
+      ],
+      "regulatory_substances": [
+        "abemaciclib"
       ]
     },
     {
@@ -9069,6 +9143,9 @@
       "scored_at": "2026-08-24",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "trastuzumab deruxtecan"
       ]
     },
     {
@@ -9114,6 +9191,10 @@
       "publication_types": [
         "Journal Article",
         "Clinical Trial"
+      ],
+      "regulatory_substances": [
+        "paclitaxel",
+        "carboplatin"
       ]
     },
     {
@@ -9393,6 +9474,9 @@
       "publication_types": [
         "Journal Article",
         "Research Support, N.I.H., Intramural"
+      ],
+      "regulatory_substances": [
+        "sacituzumab govitecan"
       ]
     },
     {
@@ -10045,6 +10129,9 @@
       "publication_types": [
         "Journal Article",
         "Randomized Controlled Trial"
+      ],
+      "regulatory_substances": [
+        "docetaxel"
       ]
     },
     {
@@ -10088,6 +10175,9 @@
       "publication_types": [
         "Journal Article",
         "Observational Study"
+      ],
+      "regulatory_substances": [
+        "capecitabine"
       ]
     },
     {
@@ -10278,6 +10368,9 @@
         "Journal Article",
         "Multicenter Study",
         "Observational Study"
+      ],
+      "regulatory_substances": [
+        "palbociclib"
       ]
     },
     {
@@ -10500,6 +10593,9 @@
       "publication_types": [
         "Journal Article",
         "Observational Study"
+      ],
+      "regulatory_substances": [
+        "trastuzumab deruxtecan"
       ]
     },
     {
@@ -10816,6 +10912,9 @@
       "scored_at": "2026-08-10",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "inavolisib"
       ]
     },
     {
@@ -10885,6 +10984,9 @@
       "scored_at": "2026-08-10",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "sacituzumab govitecan"
       ]
     },
     {
@@ -11566,6 +11668,10 @@
         "Clinical Trial, Phase II",
         "Journal Article",
         "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "neratinib",
+        "trastuzumab emtansine"
       ]
     },
     {
@@ -11888,6 +11994,9 @@
       "scored_at": "2026-08-03",
       "publication_types": [
         "Published Erratum"
+      ],
+      "regulatory_substances": [
+        "indocyanine green"
       ]
     },
     {
@@ -12062,6 +12171,9 @@
       "scored_at": "2026-08-03",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "pertuzumab"
       ]
     },
     {
@@ -12146,6 +12258,9 @@
       "publication_types": [
         "Journal Article",
         "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "palbociclib"
       ]
     },
     {
@@ -12243,6 +12358,9 @@
       "scored_at": "2026-08-03",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "olaparib"
       ]
     },
     {
@@ -13003,6 +13121,9 @@
       "scored_at": "2026-07-27",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "eribulin"
       ]
     },
     {
@@ -13473,6 +13594,9 @@
         "Journal Article",
         "Clinical Trial, Phase II",
         "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "abemaciclib"
       ]
     },
     {
@@ -14508,6 +14632,10 @@
       "publication_types": [
         "Journal Article",
         "Clinical Trial, Phase I"
+      ],
+      "regulatory_substances": [
+        "abemaciclib",
+        "fulvestrant"
       ]
     },
     {
@@ -14932,6 +15060,9 @@
       "scored_at": "2026-07-13",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "trastuzumab"
       ]
     },
     {
@@ -15060,6 +15191,9 @@
         "Comparative Study",
         "Journal Article",
         "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "everolimus"
       ]
     },
     {
@@ -15440,6 +15574,9 @@
       "publication_types": [
         "Journal Article",
         "Research Support, Non-U.S. Gov't"
+      ],
+      "regulatory_substances": [
+        "doxorubicin"
       ]
     },
     {
@@ -15597,6 +15734,9 @@
       "publication_types": [
         "Journal Article",
         "Clinical Trial, Phase II"
+      ],
+      "regulatory_substances": [
+        "olaparib"
       ]
     },
     {
@@ -15701,6 +15841,13 @@
         "Randomized Controlled Trial",
         "Multicenter Study",
         "Clinical Trial, Phase III"
+      ],
+      "regulatory_substances": [
+        "eribulin",
+        "docetaxel",
+        "paclitaxel",
+        "trastuzumab",
+        "pertuzumab"
       ]
     },
     {
@@ -16054,6 +16201,9 @@
       "scored_at": "2026-07-13",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "olaparib"
       ]
     },
     {
@@ -16261,6 +16411,9 @@
       "scored_at": "2026-07-06",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "fulvestrant"
       ]
     },
     {
@@ -16454,6 +16607,10 @@
       "publication_types": [
         "Journal Article",
         "Observational Study"
+      ],
+      "regulatory_substances": [
+        "trastuzumab",
+        "pertuzumab"
       ]
     },
     {
@@ -17476,6 +17633,9 @@
       "publication_types": [
         "Journal Article",
         "Systematic Review"
+      ],
+      "regulatory_substances": [
+        "tucatinib"
       ]
     },
     {
@@ -17793,6 +17953,9 @@
       "scored_at": "2026-06-29",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "pembrolizumab"
       ]
     },
     {
@@ -17819,6 +17982,10 @@
       "scored_at": "2026-06-29",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "atezolizumab",
+        "paclitaxel"
       ]
     },
     {
@@ -17880,6 +18047,9 @@
       "scored_at": "2026-06-29",
       "publication_types": [
         "Letter"
+      ],
+      "regulatory_substances": [
+        "capecitabine"
       ]
     },
     {
@@ -18791,6 +18961,10 @@
         "Journal Article",
         "Clinical Trial, Phase III",
         "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "atezolizumab",
+        "paclitaxel"
       ]
     },
     {
@@ -20094,6 +20268,9 @@
       "scored_at": "2026-06-22",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "pertuzumab"
       ]
     },
     {
@@ -21790,6 +21967,9 @@
       "scored_at": "2026-06-08",
       "publication_types": [
         "Expression of Concern"
+      ],
+      "regulatory_substances": [
+        "ivermectin"
       ]
     },
     {
@@ -22096,6 +22276,9 @@
       "scored_at": "2026-06-08",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "olaparib"
       ]
     },
     {
@@ -22202,6 +22385,11 @@
       "publication_types": [
         "Journal Article",
         "Published Erratum"
+      ],
+      "regulatory_substances": [
+        "gedatolisib",
+        "fulvestrant",
+        "palbociclib"
       ]
     },
     {
@@ -22318,6 +22506,9 @@
       "publication_types": [
         "Journal Article",
         "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "neratinib"
       ]
     },
     {
@@ -22364,6 +22555,9 @@
       "scored_at": "2026-06-08",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "abemaciclib"
       ]
     },
     {
@@ -22463,6 +22657,9 @@
       "scored_at": "2026-06-08",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "pembrolizumab"
       ]
     },
     {
@@ -22951,6 +23148,9 @@
         "Journal Article",
         "Multicenter Study",
         "Observational Study"
+      ],
+      "regulatory_substances": [
+        "palbociclib"
       ]
     },
     {
@@ -23374,6 +23574,11 @@
         "Clinical Trial, Phase II",
         "Randomized Controlled Trial",
         "Multicenter Study"
+      ],
+      "regulatory_substances": [
+        "durvalumab",
+        "paclitaxel",
+        "capivasertib"
       ]
     },
     {
@@ -23556,7 +23761,7 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-11-05T09:17:24+00:00",
+    "checked_at": "2026-11-05T19:33:27+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
@@ -23615,6 +23820,52 @@
           }
         }
       },
+      "alpelisib": {
+        "name": "alpelisib",
+        "fda": {
+          "application": "NDA212526",
+          "brands": [
+            "PIQRAY"
+          ],
+          "approved": "2019-05-24",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=212526",
+          "label": {
+            "application": "NDA212526",
+            "brands": [
+              "PIQRAY"
+            ],
+            "indication": "PIQRAY is indicated in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer as detected by an FDA-approved test following progression on or after an endocrine-based regimen. PIQRAY is a kinase inhibitor indicated in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer as detected by an FDA-approved test following progression on or after an endocrine-based regimen.",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b",
+            "date": "2025-12-15"
+          },
+          "breast": {
+            "text": "PIQRAY is indicated in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer as detected by an FDA-approved test following progression on or after an endocrine-based regimen.",
+            "application": "NDA212526",
+            "brands": [
+              "PIQRAY"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b",
+            "date": "2025-12-15"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Piqray",
+              "authorised": "2020-07-27",
+              "number": "EMEA/H/C/004804",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/piqray",
+              "indication": "Piqray is indicated in combination with fulvestrant for the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with a PIK3CA mutation after disease progression following an endocrine-based regimen (see section 5.1 and for biomarker-based patient selection see section 4.2)."
+            }
+          ],
+          "breast": {
+            "name": "Piqray",
+            "text": "Piqray is indicated in combination with fulvestrant for the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with a PIK3CA mutation after disease progression following an endocrine-based regimen (see section 5.1 and for biomarker-based patient selection see…",
+            "number": "EMEA/H/C/004804",
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/piqray"
+          }
+        }
+      },
       "anastrozole": {
         "name": "anastrozole",
         "fda": {
@@ -23662,7 +23913,8 @@
             "indication_truncated": true,
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee",
             "date": "2026-05-20"
-          }
+          },
+          "breast_absent": true
         },
         "ema": {
           "products": [
@@ -23701,7 +23953,8 @@
             "indication_truncated": true,
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118",
             "date": "2026-08-25"
-          }
+          },
+          "breast_absent": true
         },
         "ema": {
           "products": [
@@ -23712,7 +23965,8 @@
               "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bavencio",
               "indication": "Bavencio is indicated as monotherapy for the treatment of adult patients with metastatic Merkel cell carcinoma (MCC). Bavencio in combination with axitinib is indicated for the first-line treatment of adult patients with advanced renal cell carcinoma (RCC). Bavencio is indicated as monotherapy for the first?line maintenance treatment of adult patients with locally advanced or metastatic urothelial carcinoma (UC) who are progression-free following platinum?based chemotherapy."
             }
-          ]
+          ],
+          "breast_absent": true
         }
       },
       "cabergoline": {
@@ -23732,7 +23986,8 @@
             "indication": "CABERGOLINE is an ergot derivative indicated for the treatment of hyperprolactinemic disorders, either idiopathic or due to pituitary adenomas in adults. Limitations of Use Avoid use of CABERGOLINE for the inhibition or suppression of postpartum physiologic lactation because of the risk of serious adverse reactions [see Warnings and Precautions (5.4) ] . CABERGOLINE is an ergot derivative indicated for the treatment of hyperprolactinemic disorders, either idiopathic or due to pituitary adenomas in adults. ( 1 ) Limitations of Use Avoid use of CABERGOLINE for the inhibition or suppression of postpartum physiologic lactation because of the risk of serious adverse reactions. ( 5.4 )",
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb",
             "date": "2026-06-30"
-          }
+          },
+          "breast_absent": true
         }
       },
       "camizestrant": {
@@ -23828,6 +24083,53 @@
           }
         }
       },
+      "capivasertib": {
+        "name": "capivasertib",
+        "fda": {
+          "application": "NDA218197",
+          "brands": [
+            "TRUQAP"
+          ],
+          "approved": "2023-11-16",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=218197",
+          "label": {
+            "application": "NDA218197",
+            "brands": [
+              "TRUQAP"
+            ],
+            "indication": "TRUQAP is a kinase inhibitor indicated: HR positive, HER2 negative locally advanced or metastatic breast cancer • in combination with fulvestrant for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN -alterations as detected by an FDA-authorized test following progression on at least one endocrine-based regimen in the metastatic setting or recurrence on or within 12 months of completing adjuvant therapy. ( 1.1 ) PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive (mAPMN/S) prostate cancer • in combination with abiraterone and prednisone for the treatment of adult patients with metastatic androgen pathway modulation-naïve or -sensitive (mAPMN/S) prostate cancer that is PTEN-deficient as detected by an FDA-authorized test. ( 1.2 ) 1.1 HR-positive, HER2-negative locally advanced or metastatic breast cancer TRUQAP, in combination with fulvestrant, is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN -alteration as detected by an FDA-authorized test following progression on at least one endocrine-based regimen in the metastatic setting or recurrence on or within 12 months of completing adjuvant therapy. 1.2 PTEN-deficient metastatic…",
+            "indication_truncated": true,
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d698c106-2322-401e-b738-cbd83c843ecf",
+            "date": "2026-06-12"
+          },
+          "breast": {
+            "text": "TRUQAP is a kinase inhibitor indicated: HR positive, HER2 negative locally advanced or metastatic breast cancer",
+            "application": "NDA218197",
+            "brands": [
+              "TRUQAP"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d698c106-2322-401e-b738-cbd83c843ecf",
+            "date": "2026-06-12"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Truqap",
+              "authorised": "2024-06-17",
+              "number": "EMEA/H/C/006017",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/truqap",
+              "indication": "Truqap is indicated in combination with fulvestrant for the treatment of adult patients with oestrogen receptor (ER)-positive, HER2-negative locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN-alterations following recurrence or progression on or after an endocrine-based regimen. In pre- or perimenopausal women, Truqap plus fulvestrant should be combined with a luteinising hormone releasing hormone (LHRH) agonist. For men, administration of LHRH agonist according to current clinical practice standards should be considered."
+            }
+          ],
+          "breast": {
+            "name": "Truqap",
+            "text": "Truqap is indicated in combination with fulvestrant for the treatment of adult patients with oestrogen receptor (ER)-positive, HER2-negative locally advanced or metastatic breast cancer with one or more PIK3CA/AKT1/PTEN-alterations following recurrence or progression on or after an endocrine-based regimen.",
+            "number": "EMEA/H/C/006017",
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/truqap"
+          }
+        }
+      },
       "carboplatin": {
         "name": "carboplatin",
         "fda": {
@@ -23845,7 +24147,8 @@
             "indication": "INDICATIONS Initial Treatment of Advanced Ovarian Carcinoma Paraplatin ® injection is indicated for the initial treatment of advanced ovarian carcinoma in established combination with other approved chemotherapeutic agents. One established combination regimen consists of Paraplatin ® and cyclophosphamide. Two randomized controlled studies conducted by the NCIC and SWOG with carboplatin versus cisplatin, both in combination with cyclophosphamide, have demonstrated equivalent overall survival between the two groups (see CLINICAL STUDIES ). There is limited statistical power to demonstrate equivalence in overall pathologic complete response rates and long-term survival (≥ 3 years) because of the small number of patients with these outcomes: the small number of patients with residual tumor < 2 cm after initial surgery also limits the statistical power to demonstrate equivalence in this subgroup. Secondary Treatment of Advanced Ovarian Carcinoma Paraplatin ® is indicated for the palliative treatment of patients with ovarian carcinoma recurrent after prior chemotherapy, including patients who have been previously treated with cisplatin. Within the group of patients previously treated with cisplatin, those who have developed progressive disease while receiving cisplatin therapy may have a decreased response rate.",
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f88e0483-09be-4f60-be8f-964c02e3ece0",
             "date": "2025-09-08"
-          }
+          },
+          "breast_absent": true
         }
       },
       "cemiplimab": {
@@ -23866,7 +24169,8 @@
             "indication_truncated": true,
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4347ae1f-d397-4f18-8b70-03897e1c054a",
             "date": "2026-08-31"
-          }
+          },
+          "breast_absent": true
         },
         "ema": {
           "products": [
@@ -23878,7 +24182,8 @@
               "indication": "Cutaneous Squamous Cell Carcinoma Libtayo as monotherapy is indicated for the treatment of adult patients with metastatic or locally advanced cutaneous squamous cell carcinoma (mCSCC or laCSCC) who are not candidates for curative surgery or curative radiation. Libtayo as monotherapy is indicated for the adjuvant treatment of adult patients with CSCC at high risk of recurrence after surgery and radiation (see section 5.1 for selection criteria). Basal Cell Carcinoma Libtayo as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic basal cell carcinoma (laBCC or mBCC) who have progressed on or are intolerant to a hedgehog pathway inhibitor (HHI). Non-Small Cell Lung Cancer Libtayo as monotherapy is indicated for the first-line treatment of adult patients with non-small cell lung cancer (NSCLC) expressing PD-L1 (in ? 50% tumour cells), with no EGFR, ALK or ROS1 aberrations, who have: locally advanced NSCLC who are not candidates for definitive chemoradiation, or metastatic NSCLC. Libtayo in combination with platinum?based chemotherapy is indicated for the first?line treatment of adult patients with NSCLC expressing PD-L1 (in ? 1% of tumour cells), with no EGFR, ALK or ROS1 aberrations, who have: locally advanced NSCLC who are not candidates for definitive chemoradiation, or metastatic NSCLC. Cervical Cancer Libtayo as monotherapy is indicated for the treatment of adult patients with recurrent or metastatic cervical cancer and disease…",
               "indication_truncated": true
             }
-          ]
+          ],
+          "breast_absent": true
         }
       },
       "datopotamab deruxtecan": {
@@ -23976,6 +24281,52 @@
           }
         }
       },
+      "doxorubicin": {
+        "name": "doxorubicin",
+        "fda": {
+          "application": "NDA050467",
+          "brands": [
+            "DOXORUBICIN HYDROCHLORIDE"
+          ],
+          "approved": "1974-08-07",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=050467",
+          "label": {
+            "application": "NDA050629",
+            "brands": [
+              "DOXORUBICIN HYDROCHLORIDE"
+            ],
+            "indication": "Doxorubicin Hydrochloride Injection is an anthracycline topoisomerase inhibitor indicated: • as a component of multi‑agent adjuvant chemotherapy for treatment of women with axillary lymph node involvement following resection of primary breast cancer ( 1.1 ) • for the treatment of: acute lymphoblastic leukemia, acute myeloblastic leukemia, Hodgkin lymphoma, Non-Hodgkin lymphoma, metastatic breast cancer, metastatic Wilms' tumor, metastatic neuroblastoma, metastatic soft tissue sarcoma, metastatic bone sarcomas, metastatic ovarian carcinoma, metastatic transitional cell bladder carcinoma, metastatic thyroid carcinoma, metastatic gastric carcinoma, metastatic bronchogenic carcinoma ( 1.2 ) 1.1 Adjuvant Breast Cancer Doxorubicin Hydrochloride Injection is indicated as a component of multi-agent adjuvant chemotherapy for treatment of women with axillary lymph node involvement following resection of primary breast cancer . 1.2 Other Cancers Doxorubicin Hydrochloride Injection is indicated for the treatment of • acute lymphoblastic leukemia • acute myeloblastic leukemia • Hodgkin lymphoma • non-Hodgkin lymphoma (NHL) • metastatic breast cancer • metastatic Wilms' tumor • metastatic neuroblastoma • metastatic soft tissue sarcoma • metastatic bone sarcoma • metastatic ovarian carcinoma • metastatic transitional cell bladder carcinoma • metastatic thyroid carcinoma • metastatic gastric carcinoma • metastatic bronchogenic carcinoma",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1fd148fb-0fbc-4b6f-b790-23546fb46a71",
+            "date": "2026-05-05"
+          },
+          "breast": {
+            "text": "as a component of multi‑agent adjuvant chemotherapy for treatment of women with axillary lymph node involvement following resection of primary breast cancer ( 1.1 )",
+            "application": "NDA050629",
+            "brands": [
+              "DOXORUBICIN HYDROCHLORIDE"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1fd148fb-0fbc-4b6f-b790-23546fb46a71",
+            "date": "2026-05-05"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Caelyx pegylated liposomal",
+              "authorised": "1996-06-20",
+              "number": "EMEA/H/C/000089",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/caelyx-pegylated-liposomal",
+              "indication": "Caelyx pegylated liposomal is indicated: as monotherapy for patients with metastatic breast cancer, where there is an increased cardiac risk; for treatment of advanced ovarian cancer in women who have failed a first-line platinum-based chemotherapy regimen; in combination with bortezomib for the treatment of progressive multiple myeloma in patients who have received at least one prior therapy and who have already undergone or are unsuitable for bone marrow transplant; for treatment of AIDS-related Kaposi’s sarcoma (KS) in patients with low CD4 counts (<200 CD4 lymphocytes/mm3) and extensive mucocutaneous or visceral disease. Caelyx pegylated liposomal may be used as first-line systemic chemotherapy, or as second line chemotherapy in AIDS-KS patients with disease that has progressed with, or in patients intolerant to, prior combination systemic chemotherapy comprising at least two of the following agents: a vinca alkaloid, bleomycin and standarddoxorubicin (or other anthracycline)."
+            }
+          ],
+          "breast": {
+            "name": "Caelyx pegylated liposomal",
+            "text": "Caelyx pegylated liposomal is indicated: as monotherapy for patients with metastatic breast cancer, where there is an increased cardiac risk;",
+            "number": "EMEA/H/C/000089",
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/caelyx-pegylated-liposomal"
+          }
+        }
+      },
       "durvalumab": {
         "name": "durvalumab",
         "fda": {
@@ -23994,7 +24345,8 @@
             "indication_truncated": true,
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3",
             "date": "2026-08-31"
-          }
+          },
+          "breast_absent": true
         },
         "ema": {
           "products": [
@@ -24006,7 +24358,8 @@
               "indication": "Non-Small Cell Lung Cancer (NSCLC)Imfinzi in combination with platinum-based chemotherapy as neoadjuvant treatment, followed by Imfinzi as monotherapy as adjuvant treatment, is indicated for the treatment of adults with resectable NSCLC at high risk of recurrence and no EGFR mutations or ALK rearrangements (for selection criteria, see section 5.1). Imfinzi as monotherapy is indicated for the treatment of locally advanced, unresectable non small cell lung cancer (NSCLC) in adults whose tumours express PD-L1 on ≥ 1% of tumour cells and whose disease has not progressed following platinum based chemoradiation therapy (see section 5.1).Imfinzi in combination with tremelimumab and platinum-based chemotherapy is indicated for the first-line treatment of adults with metastatic NSCLC with no sensitising EGFR mutations or ALK positive mutations. Small Cell Lung Cancer (SCLC)Imfinzi in combination with etoposide and either carboplatin or cisplatin is indicated for the first-line treatment of adults with extensive-stage small cell lung cancer (ES-SCLC). Biliary Tract Cancer (BTC)Imfinzi in combination with gemcitabine and cisplatin is indicated for the first line treatment of adults with unresectable or metastatic biliary tract cancer (BTC). Hepatocellular Carcinoma (HCC)Imfinzi as monotherapy is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC). Imfinzi in combination with tremelimumab is indicated for the first line treatment…",
               "indication_truncated": true
             }
-          ]
+          ],
+          "breast_absent": true
         }
       },
       "elacestrant": {
@@ -24052,6 +24405,51 @@
             "text": "Orserdu monotherapy is indicated for the treatment of postmenopausal women, and men, with estrogen receptor (ER) positive, HER2-negative, locally advanced or metastatic breast cancer with an activating ESR1 mutation who have disease progression following at least one line of endocrine therapy including a CDK 4/6 inhibitor.",
             "number": "EMEA/H/C/005898",
             "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/orserdu"
+          }
+        }
+      },
+      "eribulin": {
+        "name": "eribulin",
+        "fda": {
+          "application": "NDA201532",
+          "brands": [
+            "HALAVEN"
+          ],
+          "approved": "2010-11-15",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=201532",
+          "label": {
+            "application": "NDA201532",
+            "brands": [
+              "HALAVEN"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8fc8fe1d-59fe-4e43-a95c-e7aa13422cd6",
+            "date": "2026-01-26"
+          },
+          "breast": {
+            "text": "HALAVEN is a microtubule inhibitor indicated for the treatment of patients with: Metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease.",
+            "application": "NDA201532",
+            "brands": [
+              "HALAVEN"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822",
+            "date": "2025-11-07"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Halaven",
+              "authorised": "2011-03-17",
+              "number": "EMEA/H/C/002084",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/halaven",
+              "indication": "Halaven monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer who have progressed after at least one chemotherapeutic regimens for advanced disease (see section 5.1). Prior therapy should have included an anthracycline and a taxane unless patients were not suitable for these treatments. Halaven is indicated for the treatment of adult patients with unresectable liposarcoma who have received prior anthracycline containing therapy (unless unsuitable) for advanced or metastatic disease (see section 5.1)."
+            }
+          ],
+          "breast": {
+            "name": "Halaven",
+            "text": "Halaven monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer who have progressed after at least one chemotherapeutic regimens for advanced disease (see section 5.1).",
+            "number": "EMEA/H/C/002084",
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/halaven"
           }
         }
       },
@@ -24146,6 +24544,217 @@
             "text": "Faslodex is indicated as monotherapy for the treatment of estrogen receptor positive, locally advanced or metastatic breast cancer in postmenopausal women: not previously treated with endocrine therapy, or with disease relapse on or after adjuvant antiestrogen therapy, or disease progression on antiestrogen therapy.",
             "number": "EMEA/H/C/000540",
             "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/faslodex"
+          }
+        }
+      },
+      "gedatolisib": {
+        "name": "gedatolisib",
+        "fda": {
+          "application": "NDA219908",
+          "brands": [
+            "REVTORPYK"
+          ],
+          "approved": "2026-07-14",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219908",
+          "label": {
+            "application": "NDA219908",
+            "brands": [
+              "REVTORPYK"
+            ],
+            "indication": "REVTORPYK is indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting [see Dosage and Administration (2.1) and Clinical Studies (14) ] . REVTORPYK is a kinase inhibitor indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. (1)",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=959d73ef-831f-4005-956c-210702270bda",
+            "date": "2026-07-14"
+          },
+          "breast": {
+            "text": "REVTORPYK is indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the…",
+            "application": "NDA219908",
+            "brands": [
+              "REVTORPYK"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=959d73ef-831f-4005-956c-210702270bda",
+            "date": "2026-07-14"
+          }
+        }
+      },
+      "inavolisib": {
+        "name": "inavolisib",
+        "fda": {
+          "application": "NDA219249",
+          "brands": [
+            "ITOVEBI"
+          ],
+          "approved": "2024-10-10",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219249",
+          "label": {
+            "application": "NDA219249",
+            "brands": [
+              "ITOVEBI"
+            ],
+            "indication": "ITOVEBI, in combination with palbociclib and fulvestrant, is indicated for the treatment of adults with endocrine-resistant, PIK3CA -mutated, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer, as detected by an FDA-approved test, following recurrence on or after completing adjuvant endocrine therapy [see Clinical Studies (14.1) ] . ITOVEBI is a kinase inhibitor indicated in combination with palbociclib and fulvestrant for the treatment of adults with endocrine-resistant, PIK3CA -mutated, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer, as detected by an FDA-approved test, following recurrence on or after completing adjuvant endocrine therapy. ( 1 , 14.1 )",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5de59f5b-e5db-410f-b692-658686ef4107",
+            "date": "2026-04-21"
+          },
+          "breast": {
+            "text": "ITOVEBI, in combination with palbociclib and fulvestrant, is indicated for the treatment of adults with endocrine-resistant, PIK3CA -mutated, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer, as detected by an FDA-approved test, following recurrence on or after completing adjuvant endocrine therapy [see Clinical…",
+            "application": "NDA219249",
+            "brands": [
+              "ITOVEBI"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5de59f5b-e5db-410f-b692-658686ef4107",
+            "date": "2026-04-21"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Itovebi",
+              "authorised": "2025-07-18",
+              "number": "EMEA/H/C/006353",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/itovebi",
+              "indication": "Itovebi, in combination with palbociclib and fulvestrant, is indicated for the treatment of adult patients with PIK3CA-mutated, oestrogen receptor (ER)-positive, HER2-negative, locally advanced or metastatic breast cancer, following recurrence on or within 12 months of completing adjuvant endocrine treatment (see section 5.1). Patients previously treated with a CDK 4/6 inhibitor in the (neo)adjuvant setting should have had an interval of at least 12 months between termination of CDK 4/6 inhibitor treatment and the detection of recurrence. In pre/perimenopausal women and in men, endocrine therapy should be combined with a luteinising hormone releasing hormone (LHRH) agonist."
+            }
+          ],
+          "breast": {
+            "name": "Itovebi",
+            "text": "Itovebi, in combination with palbociclib and fulvestrant, is indicated for the treatment of adult patients with PIK3CA-mutated, oestrogen receptor (ER)-positive, HER2-negative, locally advanced or metastatic breast cancer, following recurrence on or within 12 months of completing adjuvant endocrine treatment (see section 5.1).",
+            "number": "EMEA/H/C/006353",
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/itovebi"
+          }
+        }
+      },
+      "indocyanine green": {
+        "name": "indocyanine green",
+        "fda": {
+          "application": "NDA011525",
+          "brands": [
+            "IC-GREEN"
+          ],
+          "approved": "1959-02-09",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=011525",
+          "label": {
+            "application": "NDA011525",
+            "brands": [
+              "IC-GREEN"
+            ],
+            "indication": "• Fluorescence imaging of vessels (micro- and macro-vasculature), blood flow and tissue perfusion before, during and after vascular, gastrointestinal, organ transplant, plastic, micro- and reconstructive surgeries, including general minimally invasive surgical procedures, in adults and pediatric patients aged 1 month and older ( 1.1 ) • Fluorescence imaging of extrahepatic biliary ducts in adults and pediatric patients aged 12 years and older ( 1.2 ) • Fluorescence imaging of lymph nodes and lymphatic vessels during lymphatic mapping in adults with cervical and uterine cancer ( 1.3 ) • Ophthalmic angiography in adults and pediatric patients ( 1.4 ) 1.1 Visualization of Vessels, Blood Flow and Tissue Perfusion IC-GREEN is indicated for fluorescence imaging of vessels (micro- and macro- vasculature), blood flow and tissue perfusion before, during and after vascular, gastrointestinal, organ transplant, plastic, micro- and reconstructive surgeries, including general minimally invasive surgical procedures in adults and pediatric patients aged 1 month and older. 1.2 Visualization of Extrahepatic Biliary Ducts IC-GREEN is indicated for fluorescence imaging of extrahepatic biliary ducts in adults and pediatric patients aged 12 years and older . 1.3 Lymphatic Mapping of Cervical and Uterine Cancer IC-GREEN is indicated for fluorescence imaging of lymph nodes and delineation of lymphatic vessels during lymphatic mapping in adults with cervical and uterine cancer for which this…",
+            "indication_truncated": true,
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccd92843-1f0a-4ece-9978-4b300d158886",
+            "date": "2026-01-30"
+          },
+          "breast_absent": true
+        }
+      },
+      "ivermectin": {
+        "name": "ivermectin",
+        "fda": {
+          "application": "NDA050742",
+          "brands": [
+            "STROMECTOL"
+          ],
+          "approved": "1996-11-22",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=050742",
+          "label": {
+            "application": "NDA050742",
+            "brands": [
+              "STROMECTOL"
+            ],
+            "indication": "STROMECTOL is indicated for the treatment of the following infections: Strongyloidiasis of the intestinal tract . STROMECTOL is indicated for the treatment of intestinal (i.e., nondisseminated) strongyloidiasis due to the nematode parasite Strongyloides stercoralis . This indication is based on clinical studies of both comparative and open-label designs, in which 64-100% of infected patients were cured following a single 200-mcg/kg dose of ivermectin. (See CLINICAL PHARMACOLOGY, Clinical Studies .) Onchocerciasis . STROMECTOL is indicated for the treatment of onchocerciasis due to the nematode parasite Onchocerca volvulus . This indication is based on randomized, double-blind, placebo-controlled and comparative studies conducted in 1427 patients in onchocerciasis-endemic areas of West Africa. The comparative studies used diethylcarbamazine citrate (DEC-C). NOTE: STROMECTOL has no activity against adult Onchocerca volvulus parasites. The adult parasites reside in subcutaneous nodules which are infrequently palpable. Surgical excision of these nodules (nodulectomy) may be considered in the management of patients with onchocerciasis, since this procedure will eliminate the microfilariae-producing adult parasites.",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd",
+            "date": "2024-09-20"
+          },
+          "breast_absent": true
+        }
+      },
+      "lapatinib": {
+        "name": "lapatinib",
+        "fda": {
+          "application": "NDA022059",
+          "brands": [
+            "TYKERB"
+          ],
+          "approved": "2007-03-13",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022059",
+          "label": {
+            "application": "NDA022059",
+            "brands": [
+              "TYKERB"
+            ],
+            "indication": "TYKERB ® is indicated in combination with: capecitabine for the treatment of patients with advanced or metastatic breast cancer whose tumors overexpress human epidermal growth factor receptor 2 (HER2) and who have received prior therapy, including an anthracycline, a taxane, and trastuzumab. Limitations of Use : Patients should have disease progression on trastuzumab prior to initiation of treatment with TYKERB in combination with capecitabine. letrozole for the treatment of postmenopausal women with hormone receptor-positive metastatic breast cancer that overexpresses the HER2 receptor for whom hormonal therapy is indicated. TYKERB in combination with an aromatase inhibitor has not been compared to a trastuzumab-containing chemotherapy regimen for the treatment of metastatic breast cancer. TYKERB is a kinase inhibitor indicated in combination with: ( 1 ) capecitabine for the treatment of patients with advanced or metastatic breast cancer whose tumors overexpress human epidermal growth factor receptor 2 (HER2) and who have received prior therapy, including an anthracycline, a taxane, and trastuzumab. Limitations of Use : Patients should have disease progression on trastuzumab prior to initiation of treatment with TYKERB in combination with capecitabine. letrozole for the treatment of postmenopausal women with hormone receptor-positive metastatic breast cancer that overexpresses the HER2 receptor for whom hormonal therapy is indicated. TYKERB in combination with an aromatase…",
+            "indication_truncated": true,
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eee37f88-ec6a-4c30-b8aa-e2c71f93088c",
+            "date": "2026-01-27"
+          },
+          "breast": {
+            "text": "TYKERB ® is indicated in combination with: capecitabine for the treatment of patients with advanced or metastatic breast cancer whose tumors overexpress human epidermal growth factor receptor 2 (HER2) and who have received prior therapy, including an anthracycline, a taxane, and trastuzumab.",
+            "application": "NDA022059",
+            "brands": [
+              "TYKERB"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eee37f88-ec6a-4c30-b8aa-e2c71f93088c",
+            "date": "2026-01-27"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Tyverb",
+              "authorised": "2008-06-10",
+              "number": "EMEA/H/C/000795",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tyverb",
+              "indication": "Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2): in combination with capecitabine for patients with advanced or metastatic disease with progression following prior therapy, which must have included anthracyclines and taxanes and therapy with trastuzumab in the metastatic setting; in combination with trastuzumab for patients with hormone-receptor-negative metastatic disease that has progressed on prior trastuzumab therapy or therapies in combination with chemotherapy; in combination with an aromatase inhibitor for post-menopausal women with hormone-receptor-positive metastatic disease, not currently intended for chemotherapy. The patients in the registration study had not previously been treated with trastuzumab or an aromatase inhibitor. No data are available on the efficacy of this combination relative to trastuzumab in combination with an aromatase inhibitor in this patient population."
+            }
+          ],
+          "breast": {
+            "name": "Tyverb",
+            "text": "Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2): in combination with capecitabine for patients with advanced or metastatic disease with progression following prior therapy, which must have included anthracyclines and taxanes and therapy with trastuzumab in the metastatic setting;",
+            "number": "EMEA/H/C/000795",
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tyverb"
+          }
+        }
+      },
+      "neratinib": {
+        "name": "neratinib",
+        "fda": {
+          "application": "NDA208051",
+          "brands": [
+            "NERLYNX"
+          ],
+          "approved": "2017-07-17",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=208051",
+          "label": {
+            "application": "NDA208051",
+            "brands": [
+              "NERLYNX"
+            ],
+            "indication": "NERLYNX is a kinase inhibitor indicated: As a single agent, for the extended adjuvant treatment of adult patients with early-stage HER2-positive breast cancer, to follow adjuvant trastuzumab-based therapy. ( 1.1 ) In combination with capecitabine, for the treatment of adult patients with advanced or metastatic HER2-positive breast cancer who have received two or more prior anti-HER2 based regimens in the metastatic setting. ( 1.2 ) 1.1 Extended Adjuvant Treatment of Early-Stage Breast Cancer NERLYNX as a single agent is indicated for the extended adjuvant treatment of adult patients with early-stage human epidermal growth factor receptor 2 (HER2)-positive breast cancer, to follow adjuvant trastuzumab based therapy [see Clinical Studies ( 14.1 )] . 1.2 Advanced or Metastatic Breast Cancer NERLYNX in combination with capecitabine is indicated for the treatment of adult patients with advanced or metastatic HER2-positive breast cancer who have received two or more prior anti-HER2 based regimens in the metastatic setting [see Clinical Studies ( 14.2 )] .",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d1e41dcf-e82a-47c2-a0ad-6c6eef621834",
+            "date": "2026-07-02"
+          },
+          "breast": {
+            "text": "NERLYNX is a kinase inhibitor indicated: As a single agent, for the extended adjuvant treatment of adult patients with early-stage HER2-positive breast cancer, to follow adjuvant trastuzumab-based therapy.",
+            "application": "NDA208051",
+            "brands": [
+              "NERLYNX"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d1e41dcf-e82a-47c2-a0ad-6c6eef621834",
+            "date": "2026-07-02"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Nerlynx",
+              "authorised": "2018-08-31",
+              "number": "EMEA/H/C/004030",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nerlynx",
+              "indication": "Nerlynx is indicated for the extended adjuvant treatment of adult patients with early stage hormone receptor positive HER2-overexpressed/amplified breast cancer and who are less than one year from the completion of prior adjuvant trastuzumab based therapy."
+            }
+          ],
+          "breast": {
+            "name": "Nerlynx",
+            "text": "Nerlynx is indicated for the extended adjuvant treatment of adult patients with early stage hormone receptor positive HER2-overexpressed/amplified breast cancer and who are less than one year from the completion of prior adjuvant trastuzumab based therapy.",
+            "number": "EMEA/H/C/004030",
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nerlynx"
           }
         }
       },
@@ -24649,6 +25258,82 @@
             "text": "Early Breast Cancer (EBC) Kadcyla, as a single agent, is indicated for the adjuvant treatment of adult patients with HER2-positive early breast cancer who have residual invasive disease, in the breast and/or lymph nodes, after neoadjuvant taxane-based and HER2-targeted therapy.",
             "number": "EMEA/H/C/002389",
             "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kadcyla"
+          }
+        }
+      },
+      "tucatinib": {
+        "name": "tucatinib",
+        "fda": {
+          "application": "NDA213411",
+          "brands": [
+            "TUKYSA"
+          ],
+          "approved": "2020-04-17",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=213411",
+          "label": {
+            "application": "NDA213411",
+            "brands": [
+              "TUKYSA"
+            ],
+            "indication": "TUKYSA is a kinase inhibitor indicated: • in combination with trastuzumab and capecitabine for treatment of adult patients with advanced unresectable or metastatic HER2-positive breast cancer, including patients with brain metastases, who have received one or more prior anti-HER2-based regimens in the metastatic setting. ( 1.1 ) • in combination with trastuzumab for the treatment of adult patients with RAS wild-type HER2-positive unresectable or metastatic colorectal cancer that has progressed following treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy. ( 1.2 ) This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.2) ]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials. 1.1 Metastatic Breast Cancer TUKYSA is indicated in combination with trastuzumab and capecitabine for treatment of adult patients with advanced unresectable or metastatic HER2-positive breast cancer, including patients with brain metastases, who have received one or more prior anti-HER2-based regimens in the metastatic setting. 1.2 Unresectable or Metastatic Colorectal Cancer TUKYSA is indicated in combination with trastuzumab for the treatment of adult patients with RAS wild-type, HER2-positive unresectable or metastatic colorectal cancer that has progressed following treatment with fluoropyrimidine-…",
+            "indication_truncated": true,
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f27eb1b9-b7fc-424e-988f-84dd7bb195a3",
+            "date": "2024-11-04"
+          },
+          "breast": {
+            "text": "in combination with trastuzumab and capecitabine for treatment of adult patients with advanced unresectable or metastatic HER2-positive breast cancer, including patients with brain metastases, who have received one or more prior anti-HER2-based regimens in the metastatic setting.",
+            "application": "NDA213411",
+            "brands": [
+              "TUKYSA"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f27eb1b9-b7fc-424e-988f-84dd7bb195a3",
+            "date": "2024-11-04"
+          }
+        },
+        "ema": {
+          "products": [
+            {
+              "name": "Tukysa",
+              "authorised": "2021-02-11",
+              "number": "EMEA/H/C/005263",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tukysa",
+              "indication": "Tukysa is indicated in combination with trastuzumab and capecitabine for the treatment of adult patients with HER2?positive locally advanced or metastatic breast cancer who have received at least 2 prior anti-HER2 treatment regimens."
+            }
+          ],
+          "breast": {
+            "name": "Tukysa",
+            "text": "Tukysa is indicated in combination with trastuzumab and capecitabine for the treatment of adult patients with HER2?positive locally advanced or metastatic breast cancer who have received at least 2 prior anti-HER2 treatment regimens.",
+            "number": "EMEA/H/C/005263",
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tukysa"
+          }
+        }
+      },
+      "vepdegestrant": {
+        "name": "vepdegestrant",
+        "fda": {
+          "application": "NDA219835",
+          "brands": [
+            "VEPPANU"
+          ],
+          "approved": "2026-05-01",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219835",
+          "label": {
+            "application": "NDA219835",
+            "brands": [
+              "VEPPANU"
+            ],
+            "indication": "VEPPANU is indicated for the treatment of adults with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative, estrogen receptor-1 (ESR1) -mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test, with disease progression following at least one line of endocrine therapy. VEPPANU is a heterobifunctional protein degrader indicated for the treatment of adults with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative, estrogen receptor-1 ( ESR1) -mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test, with disease progression following at least one line of endocrine therapy. ( 1 )",
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=484e21ba-8fe1-4c6d-b923-8ba4cf5b2f20",
+            "date": "2026-06-12"
+          },
+          "breast": {
+            "text": "VEPPANU is indicated for the treatment of adults with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative, estrogen receptor-1 (ESR1) -mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test, with disease progression following at least one line of endocrine therapy.",
+            "application": "NDA219835",
+            "brands": [
+              "VEPPANU"
+            ],
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=484e21ba-8fe1-4c6d-b923-8ba4cf5b2f20",
+            "date": "2026-06-12"
           }
         }
       }
