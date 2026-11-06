@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:33:27.537106+00:00",
+  "updated": "2026-11-06T13:14:37.941841+00:00",
   "article_count": 687,
   "journals_tracked": [
     "N Engl J Med",
@@ -3166,7 +3166,18 @@
       "author_count": 21,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42863096/",
       "doi": "10.1200/JCO-26-00474",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Mammaplasty*",
+        "Middle Aged",
+        "Radiation Dose Hypofractionation*",
+        "Mastectomy*",
+        "Radiotherapy, Adjuvant",
+        "Breast Neoplasms*",
+        "Aged",
+        "Adult"
+      ],
       "relevance_score": 5,
       "category": "Strålbehandling",
       "why_relevant": "Denna fas III-studie (RT CHARM) visar att hypofraktionerad postmastektomistrålning (16 fraktioner) är icke-underlägsen konventionell strålning hos patienter med bröstrekonstruktion, vilket har direkt praxisförändrande potential för en vanlig och kliniskt utmanande patientgrupp.",
@@ -3178,7 +3189,9 @@
       },
       "scored_at": "2026-10-19",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Equivalence Trial"
       ]
     },
     {
@@ -7921,7 +7934,22 @@
       "author_count": 8,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42661023/",
       "doi": "10.1038/s41416-026-03583-y",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Pathologic Complete Response",
+        "Biopsy, Large-Core Needle",
+        "Prospective Studies",
+        "Middle Aged",
+        "Axilla",
+        "Neoadjuvant Therapy",
+        "Aged",
+        "Adult",
+        "Lymphatic Metastasis",
+        "Prognosis",
+        "Lymph Nodes"
+      ],
       "relevance_score": 3,
       "category": "Övrigt",
       "why_relevant": "Prospektiv kohortstudie som visar att on-treatment biopsi efter 2–4 NACT-cykler kan identifiera tidiga responders med hög sannolikhet för axillär pCR, vilket kan vägleda de-eskalering av axillärkirurgi, men det är fortfarande en observationsstudie utan randomiserad design.",
@@ -8606,7 +8634,22 @@
       "author_count": 21,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624887/",
       "doi": "10.1038/s41416-026-03565-0",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Receptors, G-Protein-Coupled*",
+        "Animals",
+        "Female",
+        "Zebrafish",
+        "MDA-MB-231 Cells",
+        "Neoplasm Invasiveness",
+        "Triple Negative Breast Neoplasms*",
+        "Cyclic AMP",
+        "Cell Line, Tumor",
+        "Breast Neoplasms*",
+        "CRISPR-Cas Systems",
+        "Spheroids, Cellular",
+        "Gene Knockout Techniques"
+      ],
       "relevance_score": 2,
       "category": "Preklinisk/translationell",
       "why_relevant": "Preklinisk studie med cellinje- och zebrafiskmodeller som identifierar GPR52 som potentiell tumörsuppressor i TNBC, men befinner sig långt från klinisk tillämpning och saknar validering i patientmaterial.",
@@ -9165,23 +9208,25 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42608991/",
       "doi": "10.1002/ijc.70666",
       "mesh_terms": [
-        "Humans",
-        "Female",
-        "Paclitaxel*",
-        "Carboplatin*",
-        "Neoadjuvant Therapy*",
-        "Middle Aged",
-        "Antineoplastic Combined Chemotherapy Protocols*",
-        "Albumins*",
         "Adult",
         "Aged",
-        "Prospective Studies",
-        "Pathologic Complete Response",
-        "Erb-b2 Receptor Tyrosine Kinases",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Albumins*",
         "Anthracyclines",
-        "Triple Negative Breast Neoplasms*",
+        "Antineoplastic Combined Chemotherapy Protocols*",
         "Breast Neoplasms*",
-        "Trastuzumab"
+        "Carboplatin*",
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "Neoadjuvant Therapy*",
+        "Paclitaxel*",
+        "Pathologic Complete Response",
+        "Prospective Studies",
+        "Trastuzumab",
+        "Triple Negative Breast Neoplasms*",
+        "Antineoplastic Agents, Immunological",
+        "Antibodies, Monoclonal, Humanized"
       ],
       "relevance_score": 3,
       "category": "Cytotoxisk behandling",
@@ -9189,8 +9234,8 @@
       "deep_analysis": null,
       "scored_at": "2026-08-24",
       "publication_types": [
-        "Journal Article",
-        "Clinical Trial"
+        "Clinical Trial, Phase II",
+        "Journal Article"
       ],
       "regulatory_substances": [
         "paclitaxel",
@@ -13962,21 +14007,21 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42463458/",
       "doi": "10.1002/ijc.70658",
       "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
         "Humans",
         "Male",
-        "Breast Neoplasms, Male*",
-        "Axilla*",
-        "Palpation*",
-        "Lymphatic Metastasis",
-        "Registries",
-        "Neoplasm Recurrence, Local*",
-        "Ultrasonography",
-        "Aged",
         "Middle Aged",
+        "Axilla*",
+        "Breast Neoplasms, Male*",
         "Lymph Nodes*",
+        "Lymphatic Metastasis",
+        "Neoplasm Recurrence, Local*",
+        "Palpation*",
+        "Registries*",
         "Sensitivity and Specificity",
-        "Adult",
-        "Aged, 80 and over"
+        "Ultrasonography"
       ],
       "relevance_score": 2,
       "category": "Övrigt",
@@ -23761,15 +23806,15 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-11-05T19:33:27+00:00",
+    "checked_at": "2026-11-06T13:14:37+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
-        "data_date": "2026-11-05"
+        "data_date": "2026-11-06"
       },
       "ema": {
         "name": "EMA, centralt godkända läkemedel",
-        "data_date": "2026-11-05"
+        "data_date": "2026-11-06"
       }
     },
     "substances": {
