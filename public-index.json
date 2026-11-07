@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:14:37.941841+00:00",
+  "updated": "2026-11-07T11:32:54.789562+00:00",
   "article_count": 687,
   "journals_tracked": [
     "N Engl J Med",
@@ -160,6 +160,9 @@
       ],
       "regulatory_substances": [
         "pembrolizumab"
+      ],
+      "trial_ids": [
+        "NCT04895358"
       ]
     },
     {
@@ -224,6 +227,9 @@
       "regulatory_substances": [
         "abemaciclib",
         "fulvestrant"
+      ],
+      "trial_ids": [
+        "NCT05169567"
       ]
     },
     {
@@ -255,6 +261,9 @@
       "scored_at": "2026-11-02",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT05814354"
       ]
     },
     {
@@ -419,6 +428,9 @@
       ],
       "regulatory_substances": [
         "ribociclib"
+      ],
+      "trial_ids": [
+        "NCT03701334"
       ]
     },
     {
@@ -445,6 +457,9 @@
       "scored_at": "2026-11-02",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT04829643"
       ]
     },
     {
@@ -768,6 +783,9 @@
       "scored_at": "2026-11-02",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT03161353"
       ]
     },
     {
@@ -1141,6 +1159,9 @@
       "scored_at": "2026-11-02",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT06343948"
       ]
     },
     {
@@ -1429,6 +1450,9 @@
       "scored_at": "2026-11-02",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT05838066"
       ]
     },
     {
@@ -1874,6 +1898,9 @@
       ],
       "regulatory_substances": [
         "ribociclib"
+      ],
+      "trial_ids": [
+        "NCT03701334"
       ]
     },
     {
@@ -1953,6 +1980,9 @@
       ],
       "regulatory_substances": [
         "trastuzumab deruxtecan"
+      ],
+      "trial_ids": [
+        "NCT01042379"
       ]
     },
     {
@@ -2516,6 +2546,9 @@
       "scored_at": "2026-10-26",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT03856372"
       ]
     },
     {
@@ -3192,6 +3225,9 @@
         "Journal Article",
         "Randomized Controlled Trial",
         "Equivalence Trial"
+      ],
+      "trial_ids": [
+        "NCT03414970"
       ]
     },
     {
@@ -3234,6 +3270,9 @@
         "Equivalence Trial",
         "Journal Article",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT03377036"
       ]
     },
     {
@@ -4033,6 +4072,9 @@
       ],
       "regulatory_substances": [
         "olaparib"
+      ],
+      "trial_ids": [
+        "NCT02264678"
       ]
     },
     {
@@ -4051,7 +4093,13 @@
       "author_count": 28,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815776/",
       "doi": "10.1016/j.radonc.2026.111800",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Immunoconjugates*",
+        "Chemoradiotherapy*"
+      ],
       "relevance_score": 3,
       "category": "Strålbehandling",
       "why_relevant": "Denna systematiska översikt och metaanalys (del av ESTRO konsensus) ger kliniskt användbar säkerhetsdata för kombinationen av strålbehandling och ADC:er (T-DM1, T-DXd, SG) vid bröstcancer, med viktigt fynd om ökad risk för strålnekros vid intrakraniell stereotaktisk RT i kombination med T-DM1.",
@@ -4059,6 +4107,8 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
         "Review"
       ]
     },
@@ -4174,6 +4224,9 @@
       ],
       "regulatory_substances": [
         "everolimus"
+      ],
+      "trial_ids": [
+        "NCT05306340"
       ]
     },
     {
@@ -4226,6 +4279,9 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT01993498"
       ]
     },
     {
@@ -4252,6 +4308,9 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT04049695"
       ]
     },
     {
@@ -4278,6 +4337,9 @@
       "scored_at": "2026-10-05",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT04049695"
       ]
     },
     {
@@ -4468,6 +4530,9 @@
         "Journal Article",
         "Clinical Trial, Phase I",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT05174637"
       ]
     },
     {
@@ -4538,6 +4603,9 @@
         "Journal Article",
         "Randomized Controlled Trial",
         "Research Support, Non-U.S. Gov't"
+      ],
+      "trial_ids": [
+        "NCT05347134"
       ]
     },
     {
@@ -4590,6 +4658,9 @@
         "Equivalence Trial",
         "Randomized Controlled Trial",
         "Comparative Study"
+      ],
+      "trial_ids": [
+        "NCT00793962"
       ]
     },
     {
@@ -5006,6 +5077,9 @@
         "Journal Article",
         "Clinical Trial, Phase I",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT03878823"
       ]
     },
     {
@@ -5373,6 +5447,9 @@
       ],
       "regulatory_substances": [
         "olaparib"
+      ],
+      "trial_ids": [
+        "NCT03330847"
       ]
     },
     {
@@ -5523,6 +5600,9 @@
         "Clinical Trial, Phase I",
         "Multicenter Study",
         "Research Support, Non-U.S. Gov't"
+      ],
+      "trial_ids": [
+        "NCT03207672"
       ]
     },
     {
@@ -5863,6 +5943,9 @@
       ],
       "regulatory_substances": [
         "eribulin"
+      ],
+      "trial_ids": [
+        "NCT02035813"
       ]
     },
     {
@@ -6002,6 +6085,9 @@
       "scored_at": "2026-09-21",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT05322460"
       ]
     },
     {
@@ -6104,6 +6190,9 @@
       ],
       "regulatory_substances": [
         "pembrolizumab"
+      ],
+      "trial_ids": [
+        "NCT03036488"
       ]
     },
     {
@@ -6308,6 +6397,9 @@
       ],
       "regulatory_substances": [
         "trastuzumab emtansine"
+      ],
+      "trial_ids": [
+        "NCT06968585"
       ]
     },
     {
@@ -6442,6 +6534,9 @@
       ],
       "regulatory_substances": [
         "tamoxifen"
+      ],
+      "trial_ids": [
+        "NCT03346200"
       ]
     },
     {
@@ -7196,6 +7291,9 @@
       "scored_at": "2026-09-07",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT06747338"
       ]
     },
     {
@@ -7402,6 +7500,9 @@
       ],
       "regulatory_substances": [
         "atezolizumab"
+      ],
+      "trial_ids": [
+        "NCT03281954"
       ]
     },
     {
@@ -7655,6 +7756,9 @@
       "publication_types": [
         "Journal Article",
         "Clinical Trial, Phase II"
+      ],
+      "trial_ids": [
+        "NCT05556200"
       ]
     },
     {
@@ -8244,6 +8348,9 @@
       ],
       "regulatory_substances": [
         "olaparib"
+      ],
+      "trial_ids": [
+        "NCT02032823"
       ]
     },
     {
@@ -8402,6 +8509,9 @@
         "Journal Article",
         "Clinical Trial, Phase I",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT05701709"
       ]
     },
     {
@@ -8798,6 +8908,9 @@
       "regulatory_substances": [
         "trastuzumab",
         "pertuzumab"
+      ],
+      "trial_ids": [
+        "NCT04266249"
       ]
     },
     {
@@ -8989,6 +9102,9 @@
       "scored_at": "2026-08-24",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT01993498"
       ]
     },
     {
@@ -9240,6 +9356,9 @@
       "regulatory_substances": [
         "paclitaxel",
         "carboplatin"
+      ],
+      "trial_ids": [
+        "NCT03907800"
       ]
     },
     {
@@ -10104,6 +10223,9 @@
         "Journal Article",
         "Clinical Trial, Phase II",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT05227664"
       ]
     },
     {
@@ -10368,6 +10490,9 @@
       "publication_types": [
         "Journal Article",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT03673306"
       ]
     },
     {
@@ -11717,6 +11842,9 @@
       "regulatory_substances": [
         "neratinib",
         "trastuzumab emtansine"
+      ],
+      "trial_ids": [
+        "NCT01494662"
       ]
     },
     {
@@ -11877,6 +12005,9 @@
       ],
       "regulatory_substances": [
         "cemiplimab"
+      ],
+      "trial_ids": [
+        "NCT01042379"
       ]
     },
     {
@@ -12306,6 +12437,9 @@
       ],
       "regulatory_substances": [
         "palbociclib"
+      ],
+      "trial_ids": [
+        "NCT04025541"
       ]
     },
     {
@@ -12344,6 +12478,9 @@
       "publication_types": [
         "Journal Article",
         "Randomized Controlled Trial"
+      ],
+      "trial_ids": [
+        "NCT00000611"
       ]
     },
     {
@@ -12953,6 +13090,9 @@
       "publication_types": [
         "Journal Article",
         "Clinical Trial"
+      ],
+      "trial_ids": [
+        "NCT04826211"
       ]
     },
     {
@@ -13002,6 +13142,9 @@
         "Comparative Study",
         "Multicenter Study",
         "Research Support, Non-U.S. Gov't"
+      ],
+      "trial_ids": [
+        "NCT02384733"
       ]
     },
     {
@@ -13042,6 +13185,9 @@
         "Clinical Trial, Phase I",
         "Multicenter Study",
         "Clinical Trial, Phase II"
+      ],
+      "trial_ids": [
+        "NCT04742959"
       ]
     },
     {
@@ -13293,6 +13439,9 @@
         "Journal Article",
         "Clinical Trial, Phase II",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT05431504"
       ]
     },
     {
@@ -14181,6 +14330,9 @@
         "Clinical Trial, Phase III",
         "Journal Article",
         "Randomized Controlled Trial"
+      ],
+      "trial_ids": [
+        "NCT01272037"
       ]
     },
     {
@@ -14577,6 +14729,9 @@
       ],
       "regulatory_substances": [
         "camizestrant"
+      ],
+      "trial_ids": [
+        "NCT04964934"
       ]
     },
     {
@@ -15539,6 +15694,9 @@
       "publication_types": [
         "Journal Article",
         "Randomized Controlled Trial"
+      ],
+      "trial_ids": [
+        "NCT02793921"
       ]
     },
     {
@@ -15893,6 +16051,9 @@
         "paclitaxel",
         "trastuzumab",
         "pertuzumab"
+      ],
+      "trial_ids": [
+        "NCT03264547"
       ]
     },
     {
@@ -16503,6 +16664,9 @@
         "Clinical Trial, Phase III",
         "Journal Article",
         "Randomized Controlled Trial"
+      ],
+      "trial_ids": [
+        "NCT00433420"
       ]
     },
     {
@@ -16725,6 +16889,9 @@
       "scored_at": "2026-07-06",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT04496739"
       ]
     },
     {
@@ -16896,6 +17063,9 @@
       ],
       "regulatory_substances": [
         "capecitabine"
+      ],
+      "trial_ids": [
+        "NCT05424835"
       ]
     },
     {
@@ -17394,6 +17564,9 @@
         "Randomized Controlled Trial",
         "Clinical Trial, Phase III",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT00002851"
       ]
     },
     {
@@ -17446,6 +17619,9 @@
         "Journal Article",
         "Multicenter Study",
         "Observational Study"
+      ],
+      "trial_ids": [
+        "NCT01279304"
       ]
     },
     {
@@ -17503,6 +17679,9 @@
       ],
       "regulatory_substances": [
         "olaparib"
+      ],
+      "trial_ids": [
+        "NCT02810743"
       ]
     },
     {
@@ -18001,6 +18180,9 @@
       ],
       "regulatory_substances": [
         "pembrolizumab"
+      ],
+      "trial_ids": [
+        "NCT02819518"
       ]
     },
     {
@@ -18374,6 +18556,9 @@
       ],
       "regulatory_substances": [
         "durvalumab"
+      ],
+      "trial_ids": [
+        "NCT03875573"
       ]
     },
     {
@@ -18576,6 +18761,9 @@
         "paclitaxel",
         "trastuzumab",
         "pertuzumab"
+      ],
+      "trial_ids": [
+        "NCT03716180"
       ]
     },
     {
@@ -18763,6 +18951,9 @@
       "scored_at": "2026-06-29",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT06734533"
       ]
     },
     {
@@ -19010,6 +19201,9 @@
       "regulatory_substances": [
         "atezolizumab",
         "paclitaxel"
+      ],
+      "trial_ids": [
+        "NCT04148911"
       ]
     },
     {
@@ -19863,6 +20057,9 @@
         "Journal Article",
         "Randomized Controlled Trial",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT02273973"
       ]
     },
     {
@@ -20059,6 +20256,9 @@
       "scored_at": "2026-06-22",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT03077841"
       ]
     },
     {
@@ -21193,6 +21393,9 @@
         "Clinical Study",
         "Journal Article",
         "Research Support, Non-U.S. Gov't"
+      ],
+      "trial_ids": [
+        "NCT01993498"
       ]
     },
     {
@@ -21269,6 +21472,9 @@
       "publication_types": [
         "Journal Article",
         "Randomized Controlled Trial"
+      ],
+      "trial_ids": [
+        "NCT02758756"
       ]
     },
     {
@@ -21387,6 +21593,9 @@
       "regulatory_substances": [
         "durvalumab",
         "trastuzumab deruxtecan"
+      ],
+      "trial_ids": [
+        "NCT03742102"
       ]
     },
     {
@@ -21486,6 +21695,9 @@
       "scored_at": "2026-06-15",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT05705401"
       ]
     },
     {
@@ -21668,6 +21880,9 @@
       "scored_at": "2026-06-08",
       "publication_types": [
         "Journal Article"
+      ],
+      "trial_ids": [
+        "NCT02620852"
       ]
     },
     {
@@ -21713,6 +21928,9 @@
       ],
       "regulatory_substances": [
         "tamoxifen"
+      ],
+      "trial_ids": [
+        "NCT06982313"
       ]
     },
     {
@@ -21906,6 +22124,9 @@
         "Randomized Controlled Trial",
         "Clinical Trial, Phase III",
         "Multicenter Study"
+      ],
+      "trial_ids": [
+        "NCT05439499"
       ]
     },
     {
@@ -22857,6 +23078,9 @@
       "publication_types": [
         "Journal Article",
         "Randomized Controlled Trial"
+      ],
+      "trial_ids": [
+        "NCT06484140"
       ]
     },
     {
@@ -23392,6 +23616,9 @@
       "publication_types": [
         "Journal Article",
         "Clinical Trial, Phase I"
+      ],
+      "trial_ids": [
+        "NCT06592092"
       ]
     },
     {
@@ -23578,6 +23805,9 @@
       ],
       "regulatory_substances": [
         "paclitaxel"
+      ],
+      "trial_ids": [
+        "NCT00129922"
       ]
     },
     {
@@ -23624,6 +23854,9 @@
         "durvalumab",
         "paclitaxel",
         "capivasertib"
+      ],
+      "trial_ids": [
+        "NCT03742102"
       ]
     },
     {
@@ -23670,6 +23903,13 @@
         "Multicenter Study",
         "Randomized Controlled Trial",
         "Research Support, Non-U.S. Gov't"
+      ],
+      "trial_ids": [
+        "NCT00121992",
+        "NCT00129389",
+        "NCT00129922",
+        "NCT00129935",
+        "NCT00543127"
       ]
     },
     {
@@ -23717,6 +23957,9 @@
       "regulatory_substances": [
         "datopotamab deruxtecan",
         "durvalumab"
+      ],
+      "trial_ids": [
+        "NCT03742102"
       ]
     },
     {
@@ -23806,7 +24049,7 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-11-06T13:14:37+00:00",
+    "checked_at": "2026-11-07T11:32:51+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
@@ -23814,7 +24057,7 @@
       },
       "ema": {
         "name": "EMA, centralt godkända läkemedel",
-        "data_date": "2026-11-06"
+        "data_date": "2026-11-07"
       }
     },
     "substances": {
@@ -25381,6 +25624,3196 @@
             "date": "2026-06-12"
           }
         }
+      }
+    }
+  },
+  "trials": {
+    "source": "ClinicalTrials.gov",
+    "checked_at": "2026-11-07T11:32:54.786032+00:00",
+    "studies": {
+      "NCT00793962": {
+        "nct": "NCT00793962",
+        "title": "A Phase Ⅲ Randomized Clinical Trial of Postmastectomy Hypofractionation Radiotherapy in High-risk Breast Cancer",
+        "status": "COMPLETED",
+        "start": "2008-06",
+        "primary_completion": "2016-05",
+        "sponsor": "Chinese Academy of Medical Sciences",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 810,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "hypofractionation radiotherapy",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Radiation: hypofractionation radiotherapy"
+            ]
+          },
+          {
+            "label": "conventional fractionation radiotherapy",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Radiation: conventional fractionation radiotherapy"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "locoregional control rate",
+            "time_frame": "5 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT04049695": {
+        "nct": "NCT04049695",
+        "title": "Improving Cognition After Cancer",
+        "acronym": "ICAN",
+        "status": "UNKNOWN",
+        "start": "2019-09-09",
+        "primary_completion": "2024-01-19",
+        "sponsor": "University of California, San Diego",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "SINGLE",
+        "enrollment": 253,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Exercise Intervention",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Behavioral: Exercise"
+            ]
+          },
+          {
+            "label": "Health & Wellness Intervention",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Behavioral: Control"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "National Institutes of Health Toolbox - Cognition Domain - Oral Symbol Digital Test",
+            "time_frame": "Baseline to 6 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03077841": {
+        "nct": "NCT03077841",
+        "title": "Hypofractionated Partial Breast Irradiation in Treating Patients With Early Stage Breast Cancer",
+        "status": "SUSPENDED",
+        "start": "2017-03-06",
+        "primary_completion": "2027-11-08",
+        "sponsor": "M.D. Anderson Cancer Center",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2",
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 928,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Arm I (hypofractionated partial breast irradiation)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Other: Laboratory Biomarker Analysis",
+              "Radiation: Partial Breast Irradiation",
+              "Other: Questionnaire Administration"
+            ]
+          },
+          {
+            "label": "Arm II (hypofractionated partial breast irradiation)",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Other: Laboratory Biomarker Analysis",
+              "Radiation: Partial Breast Irradiation"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Risk of grade 2 or higher toxicity",
+            "time_frame": "At 6 months post radiation"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT04742959": {
+        "nct": "NCT04742959",
+        "title": "Study of TT-00420 (Tinengotinib) Tablet as Monotherapy and Combination Therapy in Patients With Advanced Solid Tumors",
+        "status": "COMPLETED",
+        "start": "2021-03-14",
+        "primary_completion": "2024-02-20",
+        "sponsor": "TransThera Sciences (Nanjing), Inc.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 203,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Monotherapy Cohorts",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: TT-00420"
+            ]
+          },
+          {
+            "label": "Dose Escalation Cohorts (Combination Therapy)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: TT-00420",
+              "Combination Product: Nab-Paclitaxel"
+            ]
+          },
+          {
+            "label": "PK Run-in Cohorts",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: TT-00420"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Number of Participants With Abnormal Laboratory Values and/or Adverse Events That Are Related to Treatment",
+            "time_frame": "Up to 30 days from study discontinuation"
+          },
+          {
+            "measure": "Dose limiting toxicity (DLT)",
+            "time_frame": "Up to 28 days from the first dose"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT02819518": {
+        "nct": "NCT02819518",
+        "title": "Study of Pembrolizumab (MK-3475) Plus Chemotherapy vs. Placebo Plus Chemotherapy for Previously Untreated Locally Recurrent Inoperable or Metastatic Triple Negative Breast Cancer (MK-3475-355/KEYNOTE-355)",
+        "status": "COMPLETED",
+        "start": "2016-07-27",
+        "primary_completion": "2021-06-15",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "QUADRUPLE",
+        "enrollment": 882,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Part 1: Pembrolizumab + Nab-paclitaxel",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Biological: Pembrolizumab",
+              "Drug: Nab-paclitaxel"
+            ]
+          },
+          {
+            "label": "Part 1: Pembrolizumab + Paclitaxel",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Biological: Pembrolizumab",
+              "Drug: Paclitaxel"
+            ]
+          },
+          {
+            "label": "Part 1: Pembrolizumab + Gemcitabine/Carboplatin",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Biological: Pembrolizumab",
+              "Drug: Gemcitabine",
+              "Drug: Carboplatin"
+            ]
+          },
+          {
+            "label": "Part 2: Pembrolizumab + Chemotherapy",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Biological: Pembrolizumab",
+              "Drug: Nab-paclitaxel",
+              "Drug: Paclitaxel",
+              "Drug: Gemcitabine",
+              "Drug: Carboplatin"
+            ]
+          },
+          {
+            "label": "Part 2: Placebo + Chemotherapy",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Nab-paclitaxel",
+              "Drug: Paclitaxel",
+              "Drug: Gemcitabine",
+              "Drug: Carboplatin",
+              "Drug: Normale Saline Solution"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Part 1: Percentage of Participants Who Experienced an Adverse Event (AE) - All Participants",
+            "time_frame": "Up to approximately 39 months"
+          },
+          {
+            "measure": "Part 1: Percentage of Participants Who Discontinued Study Drug Due to an AE - All Participants",
+            "time_frame": "Up to approximately 39 months"
+          },
+          {
+            "measure": "Part 2: Progression-Free Survival (PFS) - All Participants",
+            "time_frame": "Up to approximately 53 months"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT02264678": {
+        "nct": "NCT02264678",
+        "title": "Ascending Doses of Ceralasertib in Combination With Chemotherapy and/or Novel Anti Cancer Agents",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2014-10-31",
+        "primary_completion": "2025-03-04",
+        "sponsor": "AstraZeneca",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 358,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Module 2 Part A1",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Administration of ceralasertib"
+            ]
+          },
+          {
+            "label": "Module 2 Part A2",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Administration of ceralasertib in combination with olaparib"
+            ]
+          },
+          {
+            "label": "Module 2 Part B1",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Administration of ceralasertib in combination with olaparib"
+            ]
+          },
+          {
+            "label": "Module 2 Part B2",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Administration of ceralasertib in combination with olaparib"
+            ]
+          },
+          {
+            "label": "Module 2 Part B3",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Administration of ceralasertib in combination with olaparib"
+            ]
+          },
+          {
+            "label": "Module 2 Part B4",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Administration of ceralasertib in combination with olaparib"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "The number of subjects with adverse events/serious adverse events",
+            "time_frame": "From baseline until 28 days after discontinuation of study treatment for Module 1, 2 and 5 or until 90 days after discontinuation of study treatment for Module 3 and 4"
+          },
+          {
+            "measure": "Module 4 only: Effect of food on ceralasertib absorption by Intensive PK assessments after a single oral dose of ceralasertib (Part A)",
+            "time_frame": "From 0h to 24h on Day 2 and Day15 in Cycle 0 (Part A) - Cycle 0 is 15 days"
+          },
+          {
+            "measure": "Module 4 only: Effect of ceralasertib on ECG parameters (HR, PR, QRS and QTcF) by ECG recordings",
+            "time_frame": "From 0h to 24h on Day 2, Day 8 and Day15 in Cycle 0 (Part A) - Cycle 0 is 15 days"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT00543127": {
+        "nct": "NCT00543127",
+        "title": "Fulvestrant (Faslodex) + Anastrozole (Arimidex) vs Anastrozole",
+        "status": "TERMINATED",
+        "start": "2007-11",
+        "primary_completion": "2016-07",
+        "sponsor": "Spanish Breast Cancer Research Group",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 870,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Fulvestrant + Anastrozole",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Fulvestrant",
+              "Drug: Anastrozole"
+            ]
+          },
+          {
+            "label": "Anastrozole",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Anastrozole"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Disease Free Survival (DFS) Events",
+            "time_frame": "Up to 5 years"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT00129922": {
+        "nct": "NCT00129922",
+        "title": "Fluorouracil, Epirubicin, and Cyclophosphamide Alone or Followed by Paclitaxel for Early Breast Cancer",
+        "status": "COMPLETED",
+        "start": "1999-11",
+        "primary_completion": "2005-12",
+        "sponsor": "Spanish Breast Cancer Research Group",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 1289,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Fluorouracil+Epirubicin+Cyclophosphamide",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Fluorouracil",
+              "Drug: Epirubicin",
+              "Drug: Cyclophosphamide"
+            ]
+          },
+          {
+            "label": "FEC followed by Paclitaxel",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: paclitaxel",
+              "Drug: Fluorouracil",
+              "Drug: Epirubicin",
+              "Drug: Cyclophosphamide"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "disease-free survival",
+            "time_frame": "5 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT00002851": {
+        "nct": "NCT00002851",
+        "title": "Lymph Node Radiation Therapy in Patients With Stage I, Stage II, or Stage III Breast Cancer That Has Been Surgically Removed",
+        "status": "UNKNOWN",
+        "start": "1996-07",
+        "sponsor": "European Organisation for Research and Treatment of Cancer - EORTC",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "enrollment": 4000,
+        "enrollment_type": "ESTIMATED",
+        "has_results": false
+      },
+      "NCT03716180": {
+        "nct": "NCT03716180",
+        "title": "DAPHNe: Paclitaxel/Trastuzumab/Pertuzumab in HER2-Positive BC",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2018-11-05",
+        "primary_completion": "2020-10-08",
+        "sponsor": "Dana-Farber Cancer Institute",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 100,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Paclitaxel+Trastuzumab+Pertuzumab",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Paclitaxel",
+              "Drug: Trastuzumab",
+              "Drug: Pertuzumab"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Adjuvant chemotherapy Received",
+            "time_frame": "2.5 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03377036": {
+        "nct": "NCT03377036",
+        "title": "Breast Cancer Screening: Digital Breast Tomosynthesis Versus Digital 2D Mammography",
+        "acronym": "TOSYMA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2018-07-05",
+        "primary_completion": "2027-03-31",
+        "sponsor": "University Hospital Muenster",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 99689,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "DBT+s2D",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Diagnostic Test: DBT+s2D"
+            ]
+          },
+          {
+            "label": "2D-FFDM",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Diagnostic Test: 2D-FFDM"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Detection rate of invasive breast cancers",
+            "time_frame": "Routine screening visit"
+          },
+          {
+            "measure": "Cumulative 24 months incidence of interval cancers",
+            "time_frame": "24 months after routine screening visit"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT00000611": {
+        "nct": "NCT00000611",
+        "title": "Women's Health Initiative (WHI)",
+        "status": "COMPLETED",
+        "primary_completion": "2005-03",
+        "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "has_results": false
+      },
+      "NCT01272037": {
+        "nct": "NCT01272037",
+        "title": "Tamoxifen Citrate, Letrozole, Anastrozole, or Exemestane With or Without Chemotherapy in Treating Patients With Invasive RxPONDER Breast Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2011-02-28",
+        "primary_completion": "2023-02-01",
+        "sponsor": "National Cancer Institute (NCI)",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 5018,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Arm I (chemotherapy and endocrine therapy)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Anastrozole",
+              "Drug: Exemestane",
+              "Other: Laboratory Biomarker Analysis",
+              "Drug: Letrozole",
+              "Other: Quality-of-Life Assessment",
+              "Drug: Systemic Chemotherapy"
+            ]
+          },
+          {
+            "label": "Arm II (endocrine therapy)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Anastrozole",
+              "Drug: Exemestane",
+              "Other: Laboratory Biomarker Analysis",
+              "Drug: Letrozole",
+              "Other: Quality-of-Life Assessment",
+              "Drug: Tamoxifen Citrate"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Invasive Disease-Free Survival (IDFS)",
+            "time_frame": "5 years after randomization"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT01042379": {
+        "nct": "NCT01042379",
+        "title": "I-SPY TRIAL: Neoadjuvant and Personalized Adaptive Novel Agents to Treat Breast Cancer",
+        "acronym": "I-SPY",
+        "status": "RECRUITING",
+        "start": "2010-03-01",
+        "primary_completion": "2030-12",
+        "sponsor": "QuantumLeap Healthcare Collaborative",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 5000,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Standard Therapy",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Standard Therapy"
+            ]
+          },
+          {
+            "label": "AMG 386 with or without Trastuzumab",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: AMG 386 with or without Trastuzumab",
+              "Drug: AMG 386 and Trastuzumab"
+            ]
+          },
+          {
+            "label": "AMG 479 plus Metformin",
+            "type": "OTHER",
+            "interventions": [
+              "Drug: AMG 479 (Ganitumab) plus Metformin"
+            ]
+          },
+          {
+            "label": "MK-2206 with or without Trastuzumab",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: MK-2206 with or without Trastuzumab"
+            ]
+          },
+          {
+            "label": "T-DM1 and Pertuzumab",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: T-DM1 and Pertuzumab"
+            ]
+          },
+          {
+            "label": "Pertuzumab and Trastuzumab",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Pertuzumab and Trastuzumab"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Determine whether adding experimental agents to standard neoadjuvant medications increases the probability of pathologic complete response (pCR) over standard neoadjuvant chemotherapy for each biomarker signature established at trial entry.",
+            "time_frame": "Post surgery based on upto 36-week treatment"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT01279304": {
+        "nct": "NCT01279304",
+        "title": "Radiotherapy After Primary Chemotherapy for Breastcancer",
+        "acronym": "RAPCHEM",
+        "status": "COMPLETED",
+        "start": "2011-01",
+        "primary_completion": "2017-12",
+        "sponsor": "Maastricht Radiation Oncology",
+        "study_type": "OBSERVATIONAL",
+        "enrollment": 851,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Group 1. Low risk",
+            "interventions": [
+              "Radiation: radiation - no radiation see intervention description"
+            ]
+          },
+          {
+            "label": "Group 2: Intermediate risk",
+            "interventions": [
+              "Radiation: radiation: see intervention description"
+            ]
+          },
+          {
+            "label": "Group 3. High risk",
+            "interventions": [
+              "Radiation: radiation: see intervention description"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "locoregional recurrence rate",
+            "time_frame": "5 Yr"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT01494662": {
+        "nct": "NCT01494662",
+        "title": "HKI-272 for HER2-Positive Breast Cancer and Brain Metastases",
+        "status": "COMPLETED",
+        "start": "2012-02",
+        "primary_completion": "2023-02-01",
+        "sponsor": "Dana-Farber Cancer Institute",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 140,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Cohort 1",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: HKI-272"
+            ]
+          },
+          {
+            "label": "Cohort 2",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Procedure: Surgical Resection"
+            ]
+          },
+          {
+            "label": "Cohort 3a/3b",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Capecitabine"
+            ]
+          },
+          {
+            "label": "Cohort 4a/4b/4c",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: HKI-272",
+              "Drug: Ado-Trastuzumab Emtansine"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Objective Response Rate Per Composite Response Criteria",
+            "time_frame": "2 years"
+          },
+          {
+            "measure": "Objective Response Rate Per RANO-BM Criteria",
+            "time_frame": "2 years"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT02035813": {
+        "nct": "NCT02035813",
+        "title": "DETECT IV - A Study in Patients With HER2-negative Metastatic Breast Cancer and Persisting HER2-negative Circulating Tumor Cells (CTCs).",
+        "status": "COMPLETED",
+        "start": "2014-01",
+        "primary_completion": "2024-01-10",
+        "sponsor": "Prof. Wolfgang Janni",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 116,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Ribociclib in combination with standard endocrine therapy",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Ribociclib"
+            ]
+          },
+          {
+            "label": "Eriubulin",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Eribulin"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression free survival (PFS)",
+            "time_frame": "8-12 weeks"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03856372": {
+        "nct": "NCT03856372",
+        "title": "Hypofractionated Vs Conventional Fractionated Postmastectomy Radiotherapy for High Risk Breast Cancer",
+        "status": "COMPLETED",
+        "start": "2018-09-01",
+        "primary_completion": "2022-08-30",
+        "sponsor": "Fudan University",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 1494,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Hypofractionated",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Radiation: Hypofractionated"
+            ]
+          },
+          {
+            "label": "Conventional",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Radiation: Conventional"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Loco-regional recurrence (LRR)",
+            "time_frame": "every 3 months during the first 2 years after the last fraction received, every 6 months during 3-5 years, every year during 6-10 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT04829643": {
+        "nct": "NCT04829643",
+        "title": "Axillary Staging in Early Breast Cancer: SNB vs PET/MRI",
+        "status": "COMPLETED",
+        "start": "2020-06-01",
+        "primary_completion": "2024-10-30",
+        "sponsor": "IRCCS San Raffaele",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 246,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "PET/MRI",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Diagnostic Test: PET/MRI"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "SNB vs PET/MRI",
+            "time_frame": "Within 1 month after surgery"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT02620852": {
+        "nct": "NCT02620852",
+        "title": "Women Informed to Screen Depending on Measures of Risk (Wisdom Study)",
+        "acronym": "WISDOM",
+        "status": "RECRUITING",
+        "start": "2016-08-31",
+        "primary_completion": "2029-09-30",
+        "sponsor": "University of California, San Francisco",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 100000,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Annual Arm",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Other: Complete a health questionnaire",
+              "Other: Screening advice based on a basic risk assessment"
+            ]
+          },
+          {
+            "label": "Risk-Based Arm",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Other: Complete a health questionnaire",
+              "Device: Provide a saliva sample for genetic testing",
+              "Other: Screening advice based on a comprehensive risk assessment"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Late-stage cancer",
+            "time_frame": "5 years (minimum)"
+          },
+          {
+            "measure": "Biopsy rate",
+            "time_frame": "5 years (minimum)"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03264547": {
+        "nct": "NCT03264547",
+        "title": "A Study to Compare Eribulin Mesylate + Pertuzumab + Trastuzumab With Paclitaxel or Docetaxel + Pertuzumab + Trastuzumab",
+        "status": "COMPLETED",
+        "start": "2017-08-28",
+        "primary_completion": "2024-12-31",
+        "sponsor": "Japan Breast Cancer Research Group",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 446,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Arm A",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Pertuzumab",
+              "Drug: Trastuzumab",
+              "Drug: Docetaxel",
+              "Drug: Paclitaxel"
+            ]
+          },
+          {
+            "label": "Arm B",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Pertuzumab",
+              "Drug: Trastuzumab",
+              "Drug: Eribulin"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "PFS",
+            "time_frame": "5.75 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03701334": {
+        "nct": "NCT03701334",
+        "title": "A Trial to Evaluate Efficacy and Safety of Ribociclib With Endocrine Therapy as Adjuvant Treatment in Patients With HR+/HER2- Early Breast Cancer",
+        "acronym": "NATALEE",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2018-12-07",
+        "primary_completion": "2030-05-29",
+        "sponsor": "Novartis Pharmaceuticals",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 5101,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Ribociclib + Endocrine Therapy (ET)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Ribociclib",
+              "Other: Endocrine Therapy (ET)"
+            ]
+          },
+          {
+            "label": "Endocrine Therapy (ET)",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Other: Endocrine Therapy (ET)"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Invasive Disease-Free Survival (iDFS)",
+            "time_frame": "Up to approximately 139 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT04266249": {
+        "nct": "NCT04266249",
+        "title": "CompassHER2-pCR: Decreasing Chemotherapy for Breast Cancer Patients After Pre-surgery Chemo and Targeted Therapy",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2020-03-13",
+        "primary_completion": "2027-10-31",
+        "sponsor": "ECOG-ACRIN Cancer Research Group",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 2175,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Arm A (pCR after surgery)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Docetaxel",
+              "Procedure: Lumpectomy",
+              "Procedure: Mastectomy",
+              "Drug: Nab-paclitaxel",
+              "Drug: Paclitaxel",
+              "Biological: Pertuzumab"
+            ]
+          },
+          {
+            "label": "Arm B (residual invasive disease after surgery)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Docetaxel",
+              "Procedure: Lumpectomy",
+              "Procedure: Mastectomy",
+              "Drug: Nab-paclitaxel",
+              "Drug: Paclitaxel",
+              "Biological: Pertuzumab"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Recurrence-free survival (RFS)",
+            "time_frame": "Up to 3 years after end of treatment"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT02032823": {
+        "nct": "NCT02032823",
+        "title": "Olaparib as Adjuvant Treatment in Patients With Germline BRCA Mutated High Risk HER2 Negative Primary Breast Cancer",
+        "acronym": "OlympiA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2014-04-22",
+        "primary_completion": "2020-03-27",
+        "sponsor": "AstraZeneca",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "TRIPLE",
+        "enrollment": 1837,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Olaparib",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Olaparib"
+            ]
+          },
+          {
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "interventions": [
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Invasive Disease Free Survival (IDFS)",
+            "time_frame": "From date of randomisation to data cut off: 27 March 2020 (approximately 5 years 11 months)"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT04826211": {
+        "nct": "NCT04826211",
+        "title": "Axillary Staging in Node Positive Breast Cancer Patients Receiving PST. SNB vs PET/MRI",
+        "status": "COMPLETED",
+        "start": "2019-11-04",
+        "primary_completion": "2024-04-30",
+        "sponsor": "IRCCS San Raffaele",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 109,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Node positive BC patients undergoing PST",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Diagnostic Test: PET/MRI"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Axillary surgery vs PET/MRI.",
+            "time_frame": "Within 1 month after surgery results from axillary surgery will be available and compared to preoperative PET/MRI"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03742102": {
+        "nct": "NCT03742102",
+        "title": "A Study of Novel Anti-cancer Agents in Patients With Metastatic Triple Negative Breast Cancer",
+        "acronym": "BEGONIA",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2018-12-21",
+        "primary_completion": "2024-11-29",
+        "sponsor": "AstraZeneca",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 243,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Arm 1",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Durvalumab",
+              "Drug: Paclitaxel"
+            ]
+          },
+          {
+            "label": "Arm 2",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Durvalumab",
+              "Drug: Capivasertib",
+              "Drug: Paclitaxel"
+            ]
+          },
+          {
+            "label": "Arm 5",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Durvalumab",
+              "Drug: Oleclumab",
+              "Drug: Paclitaxel"
+            ]
+          },
+          {
+            "label": "Arm 6",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Durvalumab",
+              "Drug: Trastuzumab deruxtecan"
+            ]
+          },
+          {
+            "label": "Arm 7",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Durvalumab",
+              "Drug: Datopotamab deruxtecan"
+            ]
+          },
+          {
+            "label": "Arm 8",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Durvalumab",
+              "Drug: Datopotamab deruxtecan"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Dose Limiting Toxicity (DLT) Events",
+            "time_frame": "From the time of first dose until completion of the first cycle (28 days for Arms 2-5, 21 days for Arms 6-7 (no safety run-in for Arms 1 and 8))"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT03161353": {
+        "nct": "NCT03161353",
+        "title": "Chemotherapy-free Trastuzumab and Pertuzumab in HER2-positive Breast Cancer: FDG-PET Response-adapted Strategy.",
+        "acronym": "PHERGain",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2017-06-26",
+        "primary_completion": "2023-11-01",
+        "sponsor": "MedSIR",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 377,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Cohort A",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Perjeta",
+              "Drug: Herceptin",
+              "Drug: Docetaxel",
+              "Drug: Carboplatin",
+              "Drug: Letrozole",
+              "Drug: Tamoxifen"
+            ]
+          },
+          {
+            "label": "Cohort B",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Perjeta",
+              "Drug: Herceptin",
+              "Drug: Docetaxel",
+              "Drug: Carboplatin",
+              "Drug: Letrozole",
+              "Drug: Tamoxifen"
+            ]
+          },
+          {
+            "label": "Cohort C",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Perjeta",
+              "Drug: Herceptin",
+              "Drug: Docetaxel",
+              "Drug: Carboplatin",
+              "Drug: Letrozole",
+              "Drug: Tamoxifen"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Evaluate the rate of pCR",
+            "time_frame": "After Cycle 6 or 8 (each cycle 21 days- After 4.2 or 5.6 months)"
+          },
+          {
+            "measure": "3-year iDFS rate",
+            "time_frame": "After 3 years (36 months)"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT00121992": {
+        "nct": "NCT00121992",
+        "title": "Docetaxel, Doxorubicin (A), Cyclophosphamide (C) (TAC) vs 5-Fluorouracil, A, C (5FAC) Breast Cancer Adjuvant Treatment",
+        "status": "COMPLETED",
+        "start": "1999-07",
+        "primary_completion": "2010-12-02",
+        "sponsor": "Spanish Breast Cancer Research Group",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 1060,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Arm A: FAC",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: 5-fluorouracil",
+              "Drug: Doxorubicin",
+              "Drug: Cyclophosphamide"
+            ]
+          },
+          {
+            "label": "Arm B: TAC",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Docetaxel",
+              "Drug: Doxorubicin",
+              "Drug: Cyclophosphamide"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Disease-free Survival (DFS) Events",
+            "time_frame": "10 years"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT00129389": {
+        "nct": "NCT00129389",
+        "title": "FAC Versus FAC Plus Weekly Paclitaxel as Adjuvant Treatment of Node Negative High Risk Breast Cancer Patients",
+        "status": "COMPLETED",
+        "start": "2003-09-19",
+        "primary_completion": "2013-10-01",
+        "sponsor": "Spanish Breast Cancer Research Group",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 1925,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Arm A: FAC",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Fluorouracil",
+              "Drug: Doxorubicin",
+              "Drug: Cyclophosphamide"
+            ]
+          },
+          {
+            "label": "Arm B: FAC-wP",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Fluorouracil",
+              "Drug: Doxorubicin",
+              "Drug: Cyclophosphamide",
+              "Drug: Paclitaxel"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Disease-free Survival (DFS) Event",
+            "time_frame": "Up to 5 years"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT02758756": {
+        "nct": "NCT02758756",
+        "title": "Pilot Study on Energy Therapy or Massage to Reduce Fatigue",
+        "status": "COMPLETED",
+        "start": "2016-06-20",
+        "primary_completion": "2019-04",
+        "sponsor": "University of Rochester",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 87,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Massage",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Other: Massage"
+            ]
+          },
+          {
+            "label": "Two Reiki Tx",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Other: Reiki"
+            ]
+          },
+          {
+            "label": "Four Reiki Tx",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Other: Reiki"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "The revised Brief Fatigue Inventory (BFI)",
+            "time_frame": "The primary outcome measure for this study is fatigue assessed on Friday during study week 6 by the BFI."
+          }
+        ],
+        "has_results": false
+      },
+      "NCT02810743": {
+        "nct": "NCT02810743",
+        "title": "Substantially Improving the Cure Rate of High-risk BRCA1-like Breast Cancer",
+        "acronym": "Subito",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2017-01-25",
+        "primary_completion": "2024-07-18",
+        "sponsor": "The Netherlands Cancer Institute",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 174,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "ddAC-CP-Olaparib",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: ddAC-CP-Olaparib"
+            ]
+          },
+          {
+            "label": "ddAC-mini CTC",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: ddAC-mini CTC"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Overall survival in all patients",
+            "time_frame": "assessed up to 120 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT02793921": {
+        "nct": "NCT02793921",
+        "title": "Exercise Program in Cancer and Cognition",
+        "acronym": "EPICC",
+        "status": "COMPLETED",
+        "start": "2016-04",
+        "primary_completion": "2023-01-10",
+        "sponsor": "University of Pittsburgh",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "SINGLE",
+        "enrollment": 153,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Moderate-intensity aerobic exercise",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Behavioral: Moderate-Intensity Aerobic Exercise Intervention"
+            ]
+          },
+          {
+            "label": "Usual Care",
+            "type": "NO_INTERVENTION"
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Change in Cognitive Function",
+            "time_frame": "Baseline to 6 months"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT03414970": {
+        "nct": "NCT03414970",
+        "title": "Hypofractionated Radiation Therapy After Mastectomy in Preventing Recurrence in Patients With Stage IIa-IIIa Breast Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2018-03-12",
+        "primary_completion": "2024-02-01",
+        "sponsor": "Alliance for Clinical Trials in Oncology",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 898,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Group I (radiation therapy)",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Radiation: Radiation Therapy",
+              "Other: Questionnaire Administration",
+              "Other: Quality-of-Life Assessment",
+              "Other: Laboratory Biomarker Analysis"
+            ]
+          },
+          {
+            "label": "Group II (hypofractionated radiation therapy)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Other: Questionnaire Administration",
+              "Other: Quality-of-Life Assessment",
+              "Other: Laboratory Biomarker Analysis",
+              "Radiation: Hypofractionated Radiation Therapy"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Proportion of Breast Reconstruction Complications",
+            "time_frame": "24 months"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT03346200": {
+        "nct": "NCT03346200",
+        "title": "Low Dose Tamoxifen for Mammographic Density Reduction",
+        "acronym": "KARISMA2",
+        "status": "COMPLETED",
+        "start": "2016-11",
+        "primary_completion": "2019-10",
+        "sponsor": "Per Hall",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "TRIPLE",
+        "enrollment": 1440,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "20 mg tamoxifen",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Tamoxifen Oral Tablet"
+            ]
+          },
+          {
+            "label": "10 mg tamoxifen",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Tamoxifen Oral Tablet"
+            ]
+          },
+          {
+            "label": "5 mg tamoxifen",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Tamoxifen Oral Tablet"
+            ]
+          },
+          {
+            "label": "2.5 mg tamoxifen",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Tamoxifen Oral Tablet"
+            ]
+          },
+          {
+            "label": "1 mg tamoxifen",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Tamoxifen Oral Tablet"
+            ]
+          },
+          {
+            "label": "0 mg tamoxifen",
+            "type": "PLACEBO_COMPARATOR",
+            "interventions": [
+              "Drug: Placebo Oral Tablet"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Mammograpic Density Change",
+            "time_frame": "6 months treatment"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT01993498": {
+        "nct": "NCT01993498",
+        "title": "Chronic Toxicities Related to Treatment in Patients With Localized Cancer",
+        "acronym": "CANTO",
+        "status": "RECRUITING",
+        "start": "2012-02-20",
+        "primary_completion": "2034-03",
+        "sponsor": "UNICANCER",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 14750,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "breast cancer treatment + blood sampling",
+            "type": "OTHER",
+            "interventions": [
+              "Procedure: blood sampling"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Evaluation of chronic toxicity in patients treated for non-metastatic breast cancer",
+            "time_frame": "8 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03207672": {
+        "nct": "NCT03207672",
+        "title": "Study of E7389 Liposomal Formulation in Participants With Solid Tumor",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2017-08-18",
+        "primary_completion": "2018-07-19",
+        "sponsor": "Eisai Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 140,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Schedule 1: E7389-LF",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: E7389-LF"
+            ]
+          },
+          {
+            "label": "Schedule 2: E7389-LF",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: E7389-LF"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Maximum tolerated dose (MTD) of E7389 liposomal formulation (E7389-LF)",
+            "time_frame": "Cycle 1 (21 days): Schedule 1; Cycle 1 (28 days): Schedule 2"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT02273973": {
+        "nct": "NCT02273973",
+        "title": "A Study of Neoadjuvant Letrozole + Taselisib Versus Letrozole + Placebo in Post-Menopausal Women With Breast Cancer (LORELEI)",
+        "status": "COMPLETED",
+        "start": "2014-11-12",
+        "primary_completion": "2017-03-13",
+        "sponsor": "Genentech, Inc.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "DOUBLE",
+        "enrollment": 334,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Letrozole + Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "interventions": [
+              "Drug: Letrozole",
+              "Other: Placebo"
+            ]
+          },
+          {
+            "label": "Letrozole + Taselisib",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Letrozole",
+              "Drug: Taselisib"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of Participants With Objective Response (OR) by Centrally Assessed Breast Magnetic Resonance Imaging (MRI) Via Modified Response Evaluation Criteria in Solid Tumors (mRECIST) Version 1.1",
+            "time_frame": "From Baseline to 16 weeks"
+          },
+          {
+            "measure": "Percentage of Participants With Total Pathologic Complete Response (Total pCR), Defined as Having pCR in Both Breast and Axilla, Using American Joint Committee on Cancer (AJCC) Staging System",
+            "time_frame": "From Baseline to 16 weeks"
+          },
+          {
+            "measure": "Percentage of Participants With OR by Centrally Assessed Breast MRI Via mRECIST Version 1.1 in Phosphatidylinositol-4,5-Bisphosphate 3-Kinase, Catalytic Subunit Alpha (PIK3CA) Mutant (MT) Participants",
+            "time_frame": "From Baseline to 16 weeks"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT02384733": {
+        "nct": "NCT02384733",
+        "title": "Hypofractionated Loco-regional Adjuvant Radiation Therapy of Breast Cancer Combined With a Simultaneous Integrated Boost",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2015-03",
+        "primary_completion": "2021-07-01",
+        "sponsor": "Danish Breast Cancer Cooperative Group",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 2963,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Hypofractionated loco-regional RT",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Radiation: Loco-regional RT"
+            ]
+          },
+          {
+            "label": "Normofractionated loco-regional RT",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Radiation: Loco-regional RT"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Development of ipsilateral arm lymphedema",
+            "time_frame": "3 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03036488": {
+        "nct": "NCT03036488",
+        "title": "Study of Pembrolizumab (MK-3475) Plus Chemotherapy vs Placebo Plus Chemotherapy as Neoadjuvant Therapy and Pembrolizumab vs Placebo as Adjuvant Therapy in Participants With Triple Negative Breast Cancer (TNBC) (MK-3475-522/KEYNOTE-522)",
+        "status": "COMPLETED",
+        "start": "2017-03-07",
+        "primary_completion": "2025-10-14",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "QUADRUPLE",
+        "enrollment": 1174,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Pembrolizumab + Chemotherapy",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Biological: Pembrolizumab",
+              "Drug: Carboplatin",
+              "Drug: Paclitaxel",
+              "Drug: Doxorubicin",
+              "Drug: Epirubicin",
+              "Drug: Cyclophosphamide"
+            ]
+          },
+          {
+            "label": "Placebo + Chemotherapy",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Carboplatin",
+              "Drug: Paclitaxel",
+              "Drug: Doxorubicin",
+              "Drug: Epirubicin",
+              "Drug: Cyclophosphamide",
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Pathological Complete Response (pCR) Rate Using the Definition of ypT0/Tis ypN0 (i.e., no Invasive Residual in Breast or Nodes; Noninvasive Breast Residuals Allowed) as Assessed at the Time of Definitive Surgery in All Participants",
+            "time_frame": "Up to approximately 27-30 weeks"
+          },
+          {
+            "measure": "Event-free Survival (EFS) in All Participants",
+            "time_frame": "Up to approximately 102 months"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT03878823": {
+        "nct": "NCT03878823",
+        "title": "Safety and Pharmacokinetics of ODM-209",
+        "acronym": "STESIDES",
+        "status": "COMPLETED",
+        "start": "2019-04-17",
+        "primary_completion": "2024-01-09",
+        "sponsor": "Orion Corporation, Orion Pharma",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 38,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "ODM-209 Part 1 Dose escalation",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: ODM-209"
+            ]
+          },
+          {
+            "label": "ODM-209 Part 2 Dose expansion",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: ODM-209"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Maximum tolerated dose (MTD)",
+            "time_frame": "Within first 28 days of treatment"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03281954": {
+        "nct": "NCT03281954",
+        "title": "Clinical Trial of Neoadjuvant Chemotherapy With Atezolizumab or Placebo in Patients With Triple-Negative Breast Cancer Followed After Surgery by Atezolizumab or Placebo",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2017-12-19",
+        "primary_completion": "2024-12-31",
+        "sponsor": "NSABP Foundation Inc",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "TRIPLE",
+        "enrollment": 1550,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR",
+            "interventions": [
+              "Drug: Placebo"
+            ]
+          },
+          {
+            "label": "Atezolizumab",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Atezolizumab"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Event-free survival (EFS)",
+            "time_frame": "From randomization until event, through study follow up to the time target number of events is obtained, up to 5 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03907800": {
+        "nct": "NCT03907800",
+        "title": "Neoadjuvant Nab-paclitaxel in Triple-negative or HER2-positive Breast Cancer",
+        "acronym": "NeoPATH",
+        "status": "UNKNOWN",
+        "start": "2019-04-01",
+        "primary_completion": "2022-10",
+        "sponsor": "Ruijin Hospital",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 100,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Nab-paclitaxel + Carboplatin ± Herceptin",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Nab-paclitaxel",
+              "Drug: Carboplatin",
+              "Drug: Herceptin"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Pathological complete response (ypT0/is ypN0) rate",
+            "time_frame": "16 weeks (at the time of definitive surgery)"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT04148911": {
+        "nct": "NCT04148911",
+        "title": "A Study of Atezolizumab Plus Nab-Paclitaxel in the Treatment of Unresectable Locally Advanced or Metastatic PD-L1-Positive Triple-Negative Breast Cancer",
+        "acronym": "EL1SSAR",
+        "status": "COMPLETED",
+        "start": "2019-12-10",
+        "primary_completion": "2024-12-15",
+        "sponsor": "Hoffmann-La Roche",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 184,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Atezolizumab plus Nab-Paclitaxel",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Atezolizumab",
+              "Drug: Nab-Paclitaxel"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Percentage of Participants With Treatment-emergent Grade ≥3 Adverse Events (AEs)",
+            "time_frame": "Up to 60 months"
+          },
+          {
+            "measure": "Percentage of Participants With Treatment-emergent Grade ≥2 Immune-mediated AEs (imAEs)",
+            "time_frame": "Up to 60 months"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT03673306": {
+        "nct": "NCT03673306",
+        "title": "Safety of Pregnancy in BRCA Mutated Breast Cancer Patients",
+        "status": "COMPLETED",
+        "start": "2017-01-16",
+        "primary_completion": "2023-12",
+        "sponsor": "Jules Bordet Institute",
+        "study_type": "OBSERVATIONAL",
+        "enrollment": 4732,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Pregnant cohort",
+            "interventions": [
+              "Other: Clinical outcomes"
+            ]
+          },
+          {
+            "label": "Non-pregnant cohort",
+            "interventions": [
+              "Other: Clinical outcomes"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Disease-free Survival",
+            "time_frame": "10 years"
+          },
+          {
+            "measure": "Cumulative Incidence of Pregnancy After Breast Cancer",
+            "time_frame": "10 years"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT04025541": {
+        "nct": "NCT04025541",
+        "title": "Analysis of Circulating Tumor Markers in Blood",
+        "acronym": "ALCINA2",
+        "status": "RECRUITING",
+        "start": "2018-05-29",
+        "primary_completion": "2026-05-29",
+        "sponsor": "Institut du Cancer de Montpellier - Val d'Aurelle",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 992,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "COHORT 1 BREAST TUMOR/PALBOCICLIB",
+            "type": "OTHER",
+            "interventions": [
+              "Biological: Blood sampling"
+            ]
+          },
+          {
+            "label": "COHORT 2 BREAST TUMOR / RIBOCICLIB",
+            "type": "OTHER",
+            "interventions": [
+              "Biological: Blood sampling"
+            ]
+          },
+          {
+            "label": "COHORT 3 - LUNG CANCER",
+            "type": "OTHER",
+            "interventions": [
+              "Biological: Blood sampling C3"
+            ]
+          },
+          {
+            "label": "COHORT 4 - CCRm",
+            "type": "OTHER",
+            "interventions": [
+              "Biological: Blood sampling C4/7/10/13"
+            ]
+          },
+          {
+            "label": "COHORT 5 - T-DXd",
+            "type": "OTHER",
+            "interventions": [
+              "Biological: Blood sampling C5"
+            ]
+          },
+          {
+            "label": "COHORT 6 - Glioma",
+            "type": "OTHER",
+            "interventions": [
+              "Biological: Blood sampling C6"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Estimation of the feasibility of the various blood tumoral biomarkers analysis",
+            "time_frame": "4 YEARS"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT03330847": {
+        "nct": "NCT03330847",
+        "title": "To Assess Safety and Efficacy of Agents Targeting DNA Damage Repair With Olaparib Versus Olaparib Monotherapy.",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2018-03-07",
+        "primary_completion": "2020-11-13",
+        "sponsor": "AstraZeneca",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 273,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Olaparib monotherapy",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Olaparib Continuous (28-Day cycle) 300 mg BD."
+            ]
+          },
+          {
+            "label": "Olaparib+Ceralasertib",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Ceralasertib 160 mg OD + olaparib continuous 300 mg BD (28-day cycle)."
+            ]
+          },
+          {
+            "label": "Olaparib+adavosertib",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Adavosertib 150 mg BD + olaparib 200 mg BD (21-day cycle)."
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-free Survival Per Stratum (BICR)",
+            "time_frame": "Until date of first documented progression or censoring date or date of death from any cause, whichever came first (assessed up to 32 months)"
+          },
+          {
+            "measure": "Progression-free Survival Per Stratum (Sensitivity Analysis)",
+            "time_frame": "Until date of first documented progression or censoring date or date of death from any cause, whichever came first (assessed up to 32 months)"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT03875573": {
+        "nct": "NCT03875573",
+        "title": "Neo-adjuvant Chemotherapy Combined With Stereotactic Body Radiotherapy to the Primary Tumour +/- Durvalumab, +/- Oleclumab in Luminal B Breast Cancer:",
+        "acronym": "Neo-CheckRay",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2019-11-06",
+        "primary_completion": "2024-11-30",
+        "sponsor": "Jules Bordet Institute",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 147,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Chemotherapy and radiotherapy",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Radiation: Stereotactic Body Radiotherapy"
+            ]
+          },
+          {
+            "label": "Chemotherapy and pre-operative radiotherapy plus durvalumab",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Durvalumab",
+              "Radiation: Stereotactic Body Radiotherapy"
+            ]
+          },
+          {
+            "label": "Chemotherapy & pre-op radiotherapy + durvalumab + oleclumab",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Durvalumab",
+              "Radiation: Stereotactic Body Radiotherapy",
+              "Drug: Oleclumab"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Safety Run-in: Evaluation of the immune related or radiation therapy related toxicity of special interest",
+            "time_frame": "7 months"
+          },
+          {
+            "measure": "Safety Run-in: Evaluation of the feasibility of the primary surgery",
+            "time_frame": "7 months"
+          },
+          {
+            "measure": "Phase II: Demonstration of the tumour response in arms 2 or 3 versus arm 1",
+            "time_frame": "24 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT04496739": {
+        "nct": "NCT04496739",
+        "title": "Making Informed Choices on Incorporating Chemoprevention Into Care (MiCHOICE)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2020-10-23",
+        "primary_completion": "2025-09-01",
+        "sponsor": "SWOG Cancer Research Network",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 412,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Group I (educational materials)",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Behavioral: Cancer Educational Materials",
+              "Other: Questionnaire Administration"
+            ]
+          },
+          {
+            "label": "Group II (educational materials, decision support, interview)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Behavioral: Cancer Educational Materials",
+              "Other: Decision Aid",
+              "Other: Interview",
+              "Other: Questionnaire Administration"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Chemoprevention informed choice",
+            "time_frame": "At 6 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT00433420": {
+        "nct": "NCT00433420",
+        "title": "Combination Chemotherapy With or Without Fluorouracil and/or Pegfilgrastim in Treating Women With Node-Positive Breast Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2003-04",
+        "primary_completion": "2006-05",
+        "sponsor": "IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "enrollment": 2000,
+        "enrollment_type": "ESTIMATED",
+        "primary_outcomes": [
+          {
+            "measure": "Disease-free survival"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT00129935": {
+        "nct": "NCT00129935",
+        "title": "EC Followed Docetaxel Versus ET Followed Capecitabine as Adjuvant Chemotherapy for Node Positive Operable Breast Cancer",
+        "status": "COMPLETED",
+        "start": "2004-02",
+        "primary_completion": "2013-06",
+        "sponsor": "Spanish Breast Cancer Research Group",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 1384,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Arm A: EC-T",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Docetaxel",
+              "Drug: Epirubicin",
+              "Drug: Cyclophosphamide"
+            ]
+          },
+          {
+            "label": "Arm B: ET-X",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Docetaxel",
+              "Drug: Capecitabine",
+              "Drug: Epirubicin"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Number of Participants With Disease-free Survival (DFS) Event",
+            "time_frame": "5 years"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT06968585": {
+        "nct": "NCT06968585",
+        "title": "A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Positive Unresectable or Metastatic Breast Cancer Previously Treated With Trastuzumab and Taxane Therapy",
+        "acronym": "A166",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2023-07-18",
+        "primary_completion": "2026-11-30",
+        "sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 365,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "A166",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: A166"
+            ]
+          },
+          {
+            "label": "T-DM1",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: T-DM1"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-free survival (PFS)",
+            "time_frame": "Randomization up to approximately 39 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05322460": {
+        "nct": "NCT05322460",
+        "title": "Web-based Intervention for Long-term Breast Cancer Survivors",
+        "acronym": "CUMACA-M",
+        "status": "RECRUITING",
+        "start": "2023-12-15",
+        "primary_completion": "2025-09-30",
+        "sponsor": "Cristina García-Vivar",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 182,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Intervention group",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Other: CUMACA-M Program"
+            ]
+          },
+          {
+            "label": "Control group",
+            "type": "NO_INTERVENTION"
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Quality of life Cancer Survivor (QOL-CS)",
+            "time_frame": "Changes from baseline, 3-months, 6 months, and 9 month"
+          },
+          {
+            "measure": "Self-Efficacy for Managing Chronic Disease",
+            "time_frame": "Changes from baseline, 3-months, 6 months, and 9 month"
+          },
+          {
+            "measure": "Sociodemographic data of LS-BC",
+            "time_frame": "Baseline"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05424835": {
+        "nct": "NCT05424835",
+        "title": "A Trial of SHR-A1811versus Pyrotinib in Combination With Capecitabine in HER2-Positive, Unresectable and/or Metastatic Breast Cancer Subjects Previously Treated With Trastuzumab and Taxane",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2022-08-04",
+        "primary_completion": "2026-12-31",
+        "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 381,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Treatment group A",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: SHR-A1811"
+            ]
+          },
+          {
+            "label": "Treatment group B",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Pyrotinib in combination with Capecitabine."
+            ]
+          },
+          {
+            "label": "Treatment group C",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: SHR-A1811"
+            ]
+          },
+          {
+            "label": "Treatment group D",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Pyrotinib in combination with Capecitabine."
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "PFS（BIRC assessment）between SHR-A1811 4.8mg/kg Q3W and Pyrotinib in combination with Capecitabine.",
+            "time_frame": "6 weeks after the first study drug administration，about 2 years."
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05347134": {
+        "nct": "NCT05347134",
+        "title": "SKB264 Injection vs Investigator Selected Regimens to Treat Locally Advanced, Recurrent or Metastatic Triple-negative Breast Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2022-06-10",
+        "primary_completion": "2023-11-30",
+        "sponsor": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 254,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "SKB264",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: SKB264"
+            ]
+          },
+          {
+            "label": "Eribulin or Capecitabine or Gemcitabine or Vinorelbine",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: SKB264"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-free survival (PFS)",
+            "time_frame": "up to 24 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05838066": {
+        "nct": "NCT05838066",
+        "title": "Efficacy and Safety of KN026 in Combination With HB1801 in the First-line Treatment of Subjects With HER2-positive Recurrent or Metastatic Breast Cancer.",
+        "status": "RECRUITING",
+        "start": "2023-07-23",
+        "primary_completion": "2025-07-31",
+        "sponsor": "Shanghai JMT-Bio Inc.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 880,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "KN026+HB1801",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Recombinant Humanized Bispecific antibody against HER2，KN026",
+              "Drug: HB1801"
+            ]
+          },
+          {
+            "label": "Trastuzumab + Pertuzumab + Docetaxel",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Pertuzumab",
+              "Drug: Trastuzumab",
+              "Drug: Docetaxel"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Free-progression survival (PFS) as evaluated by BIRC (RECIST1.1).",
+            "time_frame": "Up to approximately 4 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05705401": {
+        "nct": "NCT05705401",
+        "title": "Testing Radiation and HER2-targeted Therapy Versus HER2-targeted Therapy Alone for Low-risk HER2-positive Breast Cancer",
+        "acronym": "HERO",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2023-05-19",
+        "primary_completion": "2034-02-01",
+        "sponsor": "NRG Oncology",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 1300,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Standard of Care Adjuvant Breast Radiation",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Radiation: Standard of Care Adjuvant Breast Radiation"
+            ]
+          },
+          {
+            "label": "Standard of Care HER2-targeted Therapy Without Adjuvant Breast Radiation",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Standard of Care HER2-targeted Therapy Without Adjuvant Breast Radiation"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "recurrence-free interval (RFI)",
+            "time_frame": "From randomization to first recurrence event or censoring for the duration of the trial, at 10.5 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05227664": {
+        "nct": "NCT05227664",
+        "title": "A Study of AK117/AK112 in Metastatic Triple-Negative Breast Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2022-03-23",
+        "primary_completion": "2026-12-30",
+        "sponsor": "Akeso",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 120,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "cohort1(AK117 +AK112 +Nab-Paclitaxel/ Paclitaxel)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: AK117",
+              "Drug: AK112",
+              "Drug: Nab paclitaxel",
+              "Drug: paclitaxel"
+            ]
+          },
+          {
+            "label": "cohort2(AK117 +Nab-Paclitaxel/ Paclitaxel)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: AK117",
+              "Drug: Nab paclitaxel",
+              "Drug: paclitaxel"
+            ]
+          },
+          {
+            "label": "cohort3(AK112 +Nab-Paclitaxel/ Paclitaxel)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: AK112",
+              "Drug: Nab paclitaxel",
+              "Drug: paclitaxel"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Objective response rates (ORR)",
+            "time_frame": "Up to approximately 2 years"
+          },
+          {
+            "measure": "Number of participants with adverse events (AEs)",
+            "time_frame": "Up to approximately 2 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05701709": {
+        "nct": "NCT05701709",
+        "title": "Phase I Study of SHR-A2102 in Patients With Advanced Solid Tumors",
+        "status": "RECRUITING",
+        "start": "2023-04-06",
+        "primary_completion": "2025-08-31",
+        "sponsor": "Shanghai Hengrui Pharmaceutical Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 395,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "SHR-A2102",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: SHR-A2102"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Number of participants with adverse events",
+            "time_frame": "24 months"
+          },
+          {
+            "measure": "Maximum tolerated dose (MTD)",
+            "time_frame": "12 weeks"
+          },
+          {
+            "measure": "Recommended Phase 2 dose (RP2D)",
+            "time_frame": "24 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05556200": {
+        "nct": "NCT05556200",
+        "title": "A Phase II Trial of Camrelizumab in Combination With Apatinib for Neoadjuvant Treatment of Early-stage TNBC With a High Proportion of TILs",
+        "status": "UNKNOWN",
+        "start": "2022-12-01",
+        "primary_completion": "2025-09-01",
+        "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 58,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Experiment",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Anti-PD-1 monoclonal antibody",
+              "Drug: VEGFR2 Tyrosine Kinase Inhibitor"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Pathological Complete Remission (pCR) rate",
+            "time_frame": "After neoadjuvant study treatment and surgery, up to approximately 24-26 weeks"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT06982313": {
+        "nct": "NCT06982313",
+        "title": "Long-term Follow-up of the TAM-01 Study and Pooled Analysis of Low-dose Tamoxifen Studies in Non-invasive or Microinvasive Breast Neoplasms",
+        "acronym": "Babytam long",
+        "status": "COMPLETED",
+        "start": "1996-07-01",
+        "primary_completion": "2026-03-01",
+        "sponsor": "Ente Ospedaliero Ospedali Galliera",
+        "study_type": "OBSERVATIONAL",
+        "enrollment": 1545,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Tamoxifen",
+            "interventions": [
+              "Drug: Tamoxifen (Nolvadex)"
+            ]
+          },
+          {
+            "label": "Placebo",
+            "interventions": [
+              "Drug: Tamoxifen (Nolvadex) placebo"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of invasive breast cancer and breast cancer-free interval",
+            "time_frame": "Each patient will be followed for a total period of 20 years from the date of randomization in the TAM-01 trial, with data collected and updated annually."
+          },
+          {
+            "measure": "Incidence of invasive breast cancer and ductal carcinoma in situ (DCIS) considering tumor laterality and menopausal status",
+            "time_frame": "Each patient will be followed for a total period of 20 years from the date of randomization in the TAM-01 trial, with data collected and updated annually."
+          }
+        ],
+        "has_results": false
+      },
+      "NCT06484140": {
+        "nct": "NCT06484140",
+        "title": "Financial Navigation Program for Improving Financial Toxicity Among Breast Cancer in China",
+        "status": "COMPLETED",
+        "start": "2024-06-17",
+        "primary_completion": "2024-11-11",
+        "sponsor": "Fudan University",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "SINGLE",
+        "enrollment": 82,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Financial Navigation",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Behavioral: Financial Navigation"
+            ]
+          },
+          {
+            "label": "Usual Care",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Other: Usual Care"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Financial toxicity",
+            "time_frame": "Baseline, 1st month and 3rd month since baseline"
+          },
+          {
+            "measure": "Material domain of financial toxicity",
+            "time_frame": "1st month and 3rd month since baseline"
+          },
+          {
+            "measure": "Behavioral domain of financial toxicity",
+            "time_frame": "1st month and 3rd month since baseline"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT04895358": {
+        "nct": "NCT04895358",
+        "title": "Study of Pembrolizumab (MK-3475) Plus Chemotherapy Versus Placebo Plus Chemotherapy for HR+/HER2- Locally Recurrent Inoperable or Metastatic Breast Cancer (MK-3475-B49/KEYNOTE-B49)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2021-06-18",
+        "primary_completion": "2026-04-24",
+        "sponsor": "Merck Sharp & Dohme LLC",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "DOUBLE",
+        "enrollment": 342,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Pembrolizumab + Chemotherapy",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Biological: pembrolizumab",
+              "Drug: paclitaxel",
+              "Drug: nab-paclitaxel",
+              "Drug: liposomal doxorubicin",
+              "Drug: capecitabine"
+            ]
+          },
+          {
+            "label": "Placebo + Chemotherapy",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: paclitaxel",
+              "Drug: nab-paclitaxel",
+              "Drug: liposomal doxorubicin",
+              "Drug: capecitabine",
+              "Drug: normal saline",
+              "Drug: dextrose"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-free Survival (PFS) per Response Evaluation Criteria in Solid Tumors 1.1 (RECIST 1.1) by Blinded Independent Central Review (BICR) in Participants With Combined Positive Score (CPS) ≥1",
+            "time_frame": "Up to approximately 50 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT04964934": {
+        "nct": "NCT04964934",
+        "title": "Phase III Study to Assess AZD9833+ CDK4/6 Inhibitor in HR+/HER2-MBC With Detectable ESR1m Before Progression (SERENA-6)",
+        "acronym": "SERENA-6",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2021-06-30",
+        "primary_completion": "2025-06-30",
+        "sponsor": "AstraZeneca",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "TRIPLE",
+        "enrollment": 315,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "AZD9833 + palbociclib, abemaciclib or ribociclib",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: AZD9833",
+              "Drug: Anastrozole placebo",
+              "Drug: Letrozole placebo",
+              "Drug: Palbociclib",
+              "Drug: Abemaciclib",
+              "Drug: Luteinizing hormone-releasing hormone (LHRH) agonist"
+            ]
+          },
+          {
+            "label": "Anastrozole or letrozole + palbociclib, abemaciclib or ribociclib",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: AZD9833 Placebo",
+              "Drug: Anastrozole",
+              "Drug: Letrozole",
+              "Drug: Palbociclib",
+              "Drug: Abemaciclib",
+              "Drug: Luteinizing hormone-releasing hormone (LHRH) agonist"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-free survival (PFS) assessed by the Investigator as defined by response evaluation criteria in solid tumors (RECIST version 1.1)",
+            "time_frame": "From randomization until the earlier of the progression event or death (approximately 2 years)"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05174637": {
+        "nct": "NCT05174637",
+        "title": "A Study of FDA018-ADC in Patients With Advanced Solid Tumors",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2021-10-22",
+        "primary_completion": "2029-12",
+        "sponsor": "Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE1"
+        ],
+        "allocation": "NON_RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 78,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "FDA018-ADC A mg/kg",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: FDA018-ADC"
+            ]
+          },
+          {
+            "label": "FDA018-ADC B mg/kg",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: FDA018-ADC"
+            ]
+          },
+          {
+            "label": "FDA018-ADC C mg/kg",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: FDA018-ADC"
+            ]
+          },
+          {
+            "label": "FDA018-ADC D mg/kg",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: FDA018-ADC"
+            ]
+          },
+          {
+            "label": "FDA018-ADC E mg/kg",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: FDA018-ADC"
+            ]
+          },
+          {
+            "label": "FDA018-ADC F mg/kg",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: FDA018-ADC"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "The dose limiting toxicity ( DLT)",
+            "time_frame": "From first dose to the end of Cycle 1, up to 35 days."
+          },
+          {
+            "measure": "The maximum tolerated dose (MTD)",
+            "time_frame": "From first dose to the end of Cycle 1, up to 35 days."
+          },
+          {
+            "measure": "Adverse Events",
+            "time_frame": "From subject randomization up to 60 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT06734533": {
+        "nct": "NCT06734533",
+        "title": "Anlotinib-based Combination Therapy in Patients with Hormone Receptor-positive（HR+） Metastatic Breast Cancer(MBC) .",
+        "status": "RECRUITING",
+        "start": "2024-12-05",
+        "primary_completion": "2025-12-01",
+        "sponsor": "Hunan Cancer Hospital",
+        "study_type": "OBSERVATIONAL",
+        "enrollment": 80,
+        "enrollment_type": "ESTIMATED",
+        "primary_outcomes": [
+          {
+            "measure": "Progression free survival (PFS)",
+            "time_frame": "through study completion, an average of 1 year"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT06343948": {
+        "nct": "NCT06343948",
+        "title": "A Study Comparing BL-B01D1 With Chemotherapy of Physician's Choice in Patients With Unresectable Locally Advanced, Recurrent, or Metastatic HR+HER2- Breast Cancer(PANKU-Breast01)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2024-04-24",
+        "primary_completion": "2026-08",
+        "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 383,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "BL-B01D1",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: BL-B01D1"
+            ]
+          },
+          {
+            "label": "Eribulin or Vinorelbine or Gemcitabine or Capecitabine",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Eribulin",
+              "Drug: Vinorelbine",
+              "Drug: Gemcitabine",
+              "Drug: Capecitabine"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-free survival (PFS)",
+            "time_frame": "Up to approximately 24 months"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05814354": {
+        "nct": "NCT05814354",
+        "title": "SHR-A1811 Versus Investigator's Chemotherapy in Recurrent/Metastatic Breast Cancer Clinical Trial",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2023-06-30",
+        "primary_completion": "2026-03-20",
+        "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 551,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "SHR-A1811",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: SHR-A1811"
+            ]
+          },
+          {
+            "label": "Physician's Choice",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Capecitabine/Eribulin/Gemcitabine/Paclitaxel/Nab-paclitaxel"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-free Survival (PFS) Based on Blind Independent Video Review Committee (BIRC)",
+            "time_frame": "within approximately 2 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05431504": {
+        "nct": "NCT05431504",
+        "title": "The Efficacy and Safety of Dalpiciclib Plus Endocrine Therapy in HR-positive / HER2-negative Advanced Breast Cancer Patients With Visceral Crisis",
+        "status": "NOT_YET_RECRUITING",
+        "start": "2022-06",
+        "primary_completion": "2025-12",
+        "sponsor": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE2"
+        ],
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 53,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "Treatment group",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Dalpiciclib in combination with endocrine therapy by Physicians choice"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "6-month-OS rate",
+            "time_frame": "From the start of treatment to 6 month"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05439499": {
+        "nct": "NCT05439499",
+        "title": "This is a Multicenter, Randomized, Double-blind, Placebo-controlled Phase III Clinical Study Evaluating the Efficacy and Safety of FCN-437c Versus Placebo in Combination With Letrozole or Anastrozole ± Goserelin in Women With HR+ and HER2- Advanced Breast Cancer.",
+        "status": "UNKNOWN",
+        "start": "2022-03-02",
+        "primary_completion": "2024-09-20",
+        "sponsor": "Ahon Pharmaceutical Co., Ltd.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "QUADRUPLE",
+        "enrollment": 434,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "FCN-437c+Letrozole/anastrozole ± Goserelin acetate",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: FCN-437c, Letrozole or anastrozole, Goserelin acetate"
+            ]
+          },
+          {
+            "label": "Placebo+Letrozole/anastrozole ± Goserelin acetate",
+            "type": "PLACEBO_COMPARATOR",
+            "interventions": [
+              "Drug: Placebo, Letrozole or anastrozole, Goserelin acetate"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "PFS is determined by IRC",
+            "time_frame": "3 years"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT06592092": {
+        "nct": "NCT06592092",
+        "title": "Clinical Study of QH104 Cell Injection for the Treatment of Meningeal Metastases of B7H3+ Solid Tumors",
+        "status": "COMPLETED",
+        "start": "2024-04-01",
+        "primary_completion": "2025-05-31",
+        "sponsor": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "NA",
+        "masking": "NONE",
+        "enrollment": 3,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "QH104 cell Injection(Allogenic B7H3 CAR-γδT cell)",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Biological: QH104 Cell injection"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Clinical response",
+            "time_frame": "day14"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT05169567": {
+        "nct": "NCT05169567",
+        "title": "Abemaciclib (LY2835219) Plus Fulvestrant Compared to Placebo Plus Fulvestrant in Previously Treated Breast Cancer",
+        "acronym": "postMONARCH",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2022-03-11",
+        "primary_completion": "2024-02-08",
+        "sponsor": "Eli Lilly and Company",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "DOUBLE",
+        "enrollment": 368,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Arm A: Abemaciclib plus Fulvestrant",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Abemaciclib",
+              "Drug: Fulvestrant"
+            ]
+          },
+          {
+            "label": "Arm B: Placebo plus Fulvestrant",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Fulvestrant",
+              "Drug: Placebo"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-Free Survival (PFS)",
+            "time_frame": "Randomization to the date of first documented progression of disease or death from any cause (Up to 21 Months)"
+          }
+        ],
+        "has_results": true
+      },
+      "NCT05306340": {
+        "nct": "NCT05306340",
+        "title": "A Study Evaluating the Efficacy and Safety of Giredestrant Plus Everolimus Compared With the Physician's Choice of Endocrine Therapy Plus Everolimus in Participants With Estrogen Receptor-Positive, HER2-Negative, Locally Advanced or Metastatic Breast Cancer (evERA Breast Cancer)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2022-08-03",
+        "primary_completion": "2025-07-16",
+        "sponsor": "Genentech, Inc.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 373,
+        "enrollment_type": "ACTUAL",
+        "arms": [
+          {
+            "label": "Giredestrant plus Everolimus",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: Giredestrant",
+              "Drug: Everolimus",
+              "Drug: LHRH Agonist",
+              "Drug: Dexamethasone Mouth Rinse"
+            ]
+          },
+          {
+            "label": "Physician's Choice of Endocrine Therapy plus Everolimus",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Exemestane",
+              "Drug: Fulvestrant",
+              "Drug: Tamoxifen",
+              "Drug: Everolimus",
+              "Drug: LHRH Agonist",
+              "Drug: Dexamethasone Mouth Rinse"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "Progression-Free Survival, as Determined by the Investigator According to RECIST v1.1, in the ESR1m Subpopulation and ITT Population",
+            "time_frame": "From randomization until the first occurrence of disease progression or death from any cause, whichever occurs first (up to 42 months)"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT06747338": {
+        "nct": "NCT06747338",
+        "title": "A Phase III Study of KN026 in Combination With HB1801 ± Carboplatin as Neoadjuvant Treatment for Early or Locally Advanced HER2-Positive Breast Cancer",
+        "acronym": "Neo-Healer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "start": "2024-12-16",
+        "primary_completion": "2026-12-16",
+        "sponsor": "Shanghai JMT-Bio Inc.",
+        "study_type": "INTERVENTIONAL",
+        "phases": [
+          "PHASE3"
+        ],
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 520,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "KN026 plus HB1801 ± Carboplatin",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Drug: KN026",
+              "Drug: HB1801"
+            ]
+          },
+          {
+            "label": "Pertuzumab and trastuzumab plus docetaxel ± Carboplatin",
+            "type": "ACTIVE_COMPARATOR",
+            "interventions": [
+              "Drug: Pertuzumab",
+              "Drug: Trastuzumab",
+              "Drug: Docetaxel",
+              "Drug: Carboplatin"
+            ]
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "tpCR (BIRC, AJCC 8th)",
+            "time_frame": "Through study completion, an average of 1 year"
+          }
+        ],
+        "has_results": false
       }
     }
   }
