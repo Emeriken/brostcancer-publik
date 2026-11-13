@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:02:39.982184+00:00",
+  "updated": "2026-11-13T06:36:50.446487+00:00",
   "article_count": 717,
   "journals_tracked": [
     "N Engl J Med",
@@ -43,6 +43,7 @@
     "Strålbehandling",
     "Ärftlighet",
     "Preklinisk/translationell",
+    "Komplementär/integrativ onkologi",
     "Övrigt"
   ],
   "articles": [
@@ -4598,7 +4599,22 @@
       "author_count": 17,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42838084/",
       "doi": "10.6004/jnccn.2026.7050",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Mammography*",
+        "Adult",
+        "Middle Aged",
+        "Male",
+        "Aged",
+        "Transgender Persons*",
+        "Early Detection of Cancer*",
+        "Gender-Nonconforming Persons",
+        "Breast Neoplasms*",
+        "Young Adult",
+        "Vulnerable Populations*",
+        "Qualitative Research"
+      ],
       "relevance_score": 2,
       "category": "Övrigt",
       "why_relevant": "Kvalitativ studie om barriärer för mammografiscreening hos transpersoner och könsdiversa individer – relevant för hälsoequity men smal nisch med begränsat direkt kliniskt genomslag i bröstcancervården.",
@@ -5098,7 +5114,20 @@
       "author_count": 7,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42815529/",
       "doi": "10.6004/jnccn.2026.7044",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Neoplasm Recurrence, Local*",
+        "Middle Aged",
+        "Delivery of Health Care, Integrated",
+        "Aged",
+        "Prospective Studies",
+        "Neoplasms, Second Primary*",
+        "Mammography",
+        "California",
+        "Early Detection of Cancer*"
+      ],
       "relevance_score": 3,
       "category": "Övrigt",
       "why_relevant": "Stor prospektiv kohortstudie som kartlägger hur återfall och kontralaterala primärtumörer faktiskt detekteras i klinisk praxis, med relevans för optimering av uppföljningsstrategier för bröstcanceröverlevare, men utan direkt behandlingsfokus.",
@@ -10347,7 +10376,8 @@
       "scored_at": "2026-08-24",
       "publication_types": [
         "Clinical Trial, Phase II",
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ],
       "regulatory_substances": [
         "paclitaxel",
@@ -10418,7 +10448,7 @@
       "doi": "10.6004/jnccn.2026.7064",
       "mesh_terms": [],
       "relevance_score": 1,
-      "category": "Övrigt",
+      "category": "Komplementär/integrativ onkologi",
       "why_relevant": "Ett kort insändarbrev utan abstract om vitamin D-screening vid bröstcancer har mycket begränsad klinisk relevans.",
       "deep_analysis": null,
       "scored_at": "2026-08-24",
@@ -10443,7 +10473,7 @@
       "doi": "10.6004/jnccn.2026.7063",
       "mesh_terms": [],
       "relevance_score": 1,
-      "category": "Övrigt",
+      "category": "Komplementär/integrativ onkologi",
       "why_relevant": "Ett redaktionellt svar på ett läsarbrev om vitamin D och bröstcancer – inga primärdata och marginell klinisk relevans.",
       "deep_analysis": null,
       "scored_at": "2026-08-24",
@@ -12203,7 +12233,8 @@
       "deep_analysis": null,
       "scored_at": "2026-08-10",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
       ]
     },
     {
@@ -12349,7 +12380,8 @@
       "deep_analysis": null,
       "scored_at": "2026-08-10",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
       ]
     },
     {
@@ -15210,7 +15242,8 @@
       "publication_types": [
         "Journal Article",
         "Multicenter Study",
-        "Observational Study"
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
       ]
     },
     {
@@ -16005,7 +16038,7 @@
         "Survivors*"
       ],
       "relevance_score": 1,
-      "category": "Övrigt",
+      "category": "Komplementär/integrativ onkologi",
       "why_relevant": "Ett brev/kommentar utan abstract som kommenterar en pilotstudie om elektroakupunktur mot kognitiv funktion hos bröstcancerpatienter – marginellt relevant och preliminära data.",
       "deep_analysis": null,
       "scored_at": "2026-07-13",
@@ -21670,7 +21703,7 @@
       "doi": "10.1093/jnci/djag188",
       "mesh_terms": [],
       "relevance_score": 1,
-      "category": "Övrigt",
+      "category": "Komplementär/integrativ onkologi",
       "why_relevant": "Ett brev/kommentar utan abstract om en pilotstudie på elektroakupunktur och kognitiv funktion hos bröstcanceroverlevare – marginell klinisk relevans.",
       "deep_analysis": null,
       "scored_at": "2026-06-20",
@@ -22541,7 +22574,7 @@
         "Treatment Outcome"
       ],
       "relevance_score": 2,
-      "category": "Övrigt",
+      "category": "Komplementär/integrativ onkologi",
       "why_relevant": "Liten randomiserad pilotstudie om Reiki och massage mot cancerrelaterad fatigue hos patienter på hormonterapi – preliminära data med begränsat kliniskt genomslag för bröstcancerbehandling i sig.",
       "deep_analysis": null,
       "scored_at": "2026-06-15",
@@ -25195,15 +25228,15 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-11-12T13:59:55+00:00",
+    "checked_at": "2026-11-13T06:35:58+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
-        "data_date": "2026-11-12"
+        "data_date": "2026-11-13"
       },
       "ema": {
         "name": "EMA, centralt godkända läkemedel",
-        "data_date": "2026-11-12"
+        "data_date": "2026-11-13"
       }
     },
     "substances": {
@@ -26775,7 +26808,7 @@
   },
   "trials": {
     "source": "ClinicalTrials.gov",
-    "checked_at": "2026-11-12T14:02:39.979186+00:00",
+    "checked_at": "2026-11-13T06:36:50.443478+00:00",
     "studies": {
       "NCT00129935": {
         "nct": "NCT00129935",
