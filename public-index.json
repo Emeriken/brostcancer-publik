@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:23:10.308927+00:00",
+  "updated": "2026-11-21T13:43:56.212770+00:00",
   "article_count": 755,
   "journals_tracked": [
     "N Engl J Med",
@@ -5233,21 +5233,21 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42880094/",
       "doi": "10.1016/j.breast.2026.104933",
       "mesh_terms": [
-        "Humans",
-        "Female",
-        "Breast Neoplasms*",
-        "Erb-b2 Receptor Tyrosine Kinases*",
-        "France",
-        "Middle Aged",
         "Adult",
         "Aged",
-        "Databases, Factual",
+        "Female",
+        "Humans",
+        "Middle Aged",
         "Antineoplastic Combined Chemotherapy Protocols*",
-        "Receptors, Progesterone",
+        "Breast Neoplasms*",
+        "Databases, Factual",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "France",
         "Progression-Free Survival",
         "Receptors, Estrogen",
-        "Treatment Outcome",
-        "Trastuzumab"
+        "Receptors, Progesterone",
+        "Trastuzumab",
+        "Treatment Outcome"
       ],
       "relevance_score": 3,
       "category": "Cytotoxisk behandling",
@@ -5256,7 +5256,8 @@
       "scored_at": "2026-10-19",
       "publication_types": [
         "Journal Article",
-        "Multicenter Study"
+        "Multicenter Study",
+        "Observational Study"
       ],
       "trial_ids": [
         "NCT03275311"
@@ -6360,21 +6361,21 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42826677/",
       "doi": "10.1016/j.breast.2026.104942",
       "mesh_terms": [
-        "Humans",
-        "Female",
-        "Breast Neoplasms*",
-        "Receptors, Estrogen*",
-        "Chemotherapy, Adjuvant",
-        "Paclitaxel",
-        "Antineoplastic Combined Chemotherapy Protocols*",
-        "Middle Aged",
-        "Disease-Free Survival",
         "Adult",
-        "Treatment Outcome",
         "Aged",
-        "Lymphatic Metastasis",
+        "Female",
+        "Humans",
+        "Middle Aged",
         "Anthracyclines",
-        "Proportional Hazards Models"
+        "Antineoplastic Combined Chemotherapy Protocols*",
+        "Breast Neoplasms*",
+        "Chemotherapy, Adjuvant",
+        "Disease-Free Survival",
+        "Lymphatic Metastasis",
+        "Paclitaxel",
+        "Proportional Hazards Models",
+        "Receptors, Estrogen*",
+        "Treatment Outcome"
       ],
       "relevance_score": 3,
       "category": "Cytotoxisk behandling",
@@ -8486,20 +8487,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42748847/",
       "doi": "10.1016/j.breast.2026.104912",
       "mesh_terms": [
-        "Humans",
-        "Female",
-        "Breast Neoplasms*",
-        "Signal Transduction",
-        "Down-Regulation",
-        "Middle Aged",
-        "Transcriptome*",
-        "Interferons*",
         "Adult",
-        "Gene Expression Profiling",
-        "Inflammation",
         "Aged",
-        "Myxovirus Resistance Proteins",
+        "Female",
+        "Humans",
+        "Middle Aged",
         "Adaptor Proteins, Signal Transducing",
+        "Breast Neoplasms*",
+        "Down-Regulation",
+        "Gene Expression Profiling",
+        "Inflammation*",
+        "Interferons*",
+        "Signal Transduction",
+        "Transcriptome*",
+        "Mind-Body Therapies*",
         "RNA-Binding Proteins"
       ],
       "relevance_score": 2,
@@ -9456,15 +9457,16 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42715877/",
       "doi": "10.1016/j.breast.2026.104911",
       "mesh_terms": [
-        "Humans",
-        "Breast Neoplasms*",
-        "Quality of Life*",
         "Female",
-        "Patient Reported Outcome Measures*",
-        "Surveys and Questionnaires",
-        "Neoplasm Metastasis",
+        "Humans",
+        "Middle Aged",
+        "Breast Neoplasms*",
         "Europe",
-        "Middle Aged"
+        "Neoplasm Metastasis",
+        "Patient Reported Outcome Measures*",
+        "Quality of Life*",
+        "Surveys and Questionnaires",
+        "Review Literature as Topic"
       ],
       "relevance_score": 2,
       "category": "Övrigt",
@@ -9472,8 +9474,7 @@
       "deep_analysis": null,
       "scored_at": "2026-09-14",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ]
     },
     {
@@ -9920,7 +9921,27 @@
       "author_count": 5,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42703975/",
       "doi": "10.1002/ijc.70734",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Black or African American*",
+        "Middle Aged",
+        "United States",
+        "Receptors, Estrogen",
+        "Body Mass Index",
+        "Risk Factors",
+        "Diabetes Mellitus, Type 2*",
+        "Hypertension*",
+        "Aged",
+        "Prospective Studies",
+        "Hypercholesterolemia",
+        "Incidence",
+        "Adult",
+        "Postmenopause",
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "Proportional Hazards Models"
+      ],
       "relevance_score": 3,
       "category": "Övrigt",
       "why_relevant": "Stor prospektiv kohortstudie som visar att kardiometabola riskfaktorer (särskilt BMI) är associerade med ER+ bröstcancer hos postmenopausala svarta kvinnor, vilket ger viktig epidemiologisk kunskap om hälsoklyftor och etiologi men har begränsad direkt klinisk implementering.",
@@ -10626,7 +10647,20 @@
       "author_count": 3,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42670811/",
       "doi": "10.1002/ijc.70730",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Middle Aged",
+        "Republic of Korea",
+        "Neoplasms*",
+        "Adult",
+        "Cohort Studies",
+        "Aged",
+        "Risk Factors",
+        "Genetic Predisposition to Disease",
+        "Medical History Taking",
+        "Early Detection of Cancer"
+      ],
       "relevance_score": 2,
       "category": "Ärftlighet",
       "why_relevant": "Stor kohort men fokuserar på familjär cancerrisk generellt i koreanska kvinnor snarare än specifikt på bröstcancer eller kliniskt handlingsbar genetik, vilket gör bröstcancerrelevansen begränsad.",
@@ -10737,7 +10771,19 @@
       "author_count": 4,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42665873/",
       "doi": "10.1002/ijc.70721",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Sweden",
+        "Middle Aged",
+        "Disease Progression",
+        "Triple Negative Breast Neoplasms*",
+        "Aged",
+        "Early Detection of Cancer",
+        "Prognosis",
+        "Adult"
+      ],
       "relevance_score": 3,
       "category": "Övrigt",
       "why_relevant": "Artikeln kvantifierar subtypspecifik tumörtillväxtdynamik och intervallcancerproportioner i bröstcancerscreening, vilket kan informera om subgruppsanpassade screeningstrategier men är primärt epidemiologisk/metodologisk snarare än direkt behandlingsinriktad.",
@@ -11100,7 +11146,18 @@
       "author_count": 5,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42638516/",
       "doi": "10.1002/ijc.70718",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Neoplasm Recurrence, Local*",
+        "Mastectomy, Segmental*",
+        "Patient Selection*",
+        "Re-Irradiation*",
+        "Breast Neoplasms*",
+        "Treatment Outcome",
+        "Salvage Therapy",
+        "Brachytherapy"
+      ],
       "relevance_score": 3,
       "category": "Strålbehandling",
       "why_relevant": "En kliniskt relevant genomgång av rebestrålningstekniker och patienturval vid ipsilateral bröstrecidiv, men begränsad av att vara en narrativ review utan ny primärdata.",
@@ -27048,7 +27105,7 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-11-20T14:22:21+00:00",
+    "checked_at": "2026-11-21T13:42:57+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
@@ -27056,7 +27113,7 @@
       },
       "ema": {
         "name": "EMA, centralt godkända läkemedel",
-        "data_date": "2026-11-20"
+        "data_date": "2026-11-21"
       }
     },
     "substances": {
@@ -27695,7 +27752,7 @@
             ],
             "indication": "ORSERDU is indicated for the treatment of postmenopausal women or adult men with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)‑negative, ESR1 -mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test [see Dosage and Administration ( 2.1 )] , with disease progression following at least one line of endocrine therapy. ORSERDU is an estrogen receptor antagonist indicated for: treatment of postmenopausal women or adult men, with ER-positive, HER2-negative, ESR1 -mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test, with disease progression following at least one line of endocrine therapy ( 1 )",
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa66ae5c-2bd2-4444-8178-b55651e054ef",
-            "date": "2026-06-24"
+            "date": "2026-11-11"
           },
           "breast": {
             "text": "ORSERDU is indicated for the treatment of postmenopausal women or adult men with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)‑negative, ESR1 -mutated advanced or metastatic breast cancer, as detected by an FDA-authorized test [see Dosage and Administration ( 2.1 )] , with disease progression following at least one line of endocrine therapy.",
@@ -27704,7 +27761,7 @@
               "ORSERDU"
             ],
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa66ae5c-2bd2-4444-8178-b55651e054ef",
-            "date": "2026-06-24"
+            "date": "2026-11-11"
           }
         },
         "ema": {
@@ -28732,7 +28789,7 @@
   },
   "trials": {
     "source": "ClinicalTrials.gov",
-    "checked_at": "2026-11-20T14:23:10.304977+00:00",
+    "checked_at": "2026-11-21T13:43:56.209592+00:00",
     "studies": {
       "NCT02364557": {
         "nct": "NCT02364557",
