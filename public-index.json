@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:43:56.212770+00:00",
+  "updated": "2026-11-22T13:37:54.949959+00:00",
   "article_count": 755,
   "journals_tracked": [
     "N Engl J Med",
@@ -27105,7 +27105,7 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-11-21T13:42:57+00:00",
+    "checked_at": "2026-11-22T13:36:57+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
@@ -27113,7 +27113,7 @@
       },
       "ema": {
         "name": "EMA, centralt godkända läkemedel",
-        "data_date": "2026-11-21"
+        "data_date": "2026-11-22"
       }
     },
     "substances": {
@@ -28789,7 +28789,7 @@
   },
   "trials": {
     "source": "ClinicalTrials.gov",
-    "checked_at": "2026-11-21T13:43:56.209592+00:00",
+    "checked_at": "2026-11-22T13:37:54.946388+00:00",
     "studies": {
       "NCT02364557": {
         "nct": "NCT02364557",
