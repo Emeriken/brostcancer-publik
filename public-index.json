@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:04:09.704501+00:00",
+  "updated": "2026-11-26T15:47:17.356647+00:00",
   "article_count": 791,
   "journals_tracked": [
     "N Engl J Med",
@@ -99,7 +99,11 @@
       ],
       "regulatory_substances": [
         "docetaxel"
-      ]
+      ],
+      "trial_ids": [
+        "NCT04787029"
+      ],
+      "trial_source": "europepmc"
     },
     {
       "pmid": "43069272",
@@ -2636,20 +2640,21 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42967455/",
       "doi": "10.1016/j.ejca.2026.117809",
       "mesh_terms": [
-        "Humans",
+        "Adult",
+        "Aged",
         "Female",
-        "Breast Neoplasms*",
-        "Magnetic Resonance Imaging*",
-        "Fluorodeoxyglucose F18*",
-        "Positron-Emission Tomography*",
-        "Neoplasm Staging",
+        "Humans",
         "Middle Aged",
+        "Breast Neoplasms*",
+        "Fluorodeoxyglucose F18*",
+        "Magnetic Resonance Imaging*",
+        "Multimodal Imaging",
+        "Neoplasm Staging",
+        "Patient Care Planning",
+        "Positron-Emission Tomography*",
         "Prospective Studies",
         "Radiopharmaceuticals",
-        "Aged",
-        "Multimodal Imaging",
-        "Adult",
-        "Patient Care Planning"
+        "Clinical Trials as Topic"
       ],
       "relevance_score": 3,
       "category": "Övrigt",
@@ -2657,7 +2662,8 @@
       "deep_analysis": null,
       "scored_at": "2026-11-09",
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Observational Study"
       ],
       "trial_ids": [
         "NCT04829643"
@@ -28311,15 +28317,15 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-11-25T16:03:07+00:00",
+    "checked_at": "2026-11-26T15:46:22+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
-        "data_date": "2026-11-25"
+        "data_date": "2026-11-26"
       },
       "ema": {
         "name": "EMA, centralt godkända läkemedel",
-        "data_date": "2026-11-25"
+        "data_date": "2026-11-26"
       }
     },
     "substances": {
@@ -28871,12 +28877,13 @@
           "approved": "1974-08-07",
           "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=050467",
           "breast": {
-            "text": "Doxorubicin Hydrochloride Injection is an anthracycline topoisomerase inhibitor indicated: as a component of multiagent adjuvant chemotherapy for treatment of women with axillary lymph node involvement following resection of primary breast cancer ( 1.1 ).",
+            "text": "OXDERYS is an anthracycline topoisomerase inhibitor indicated: as a component of multi‑agent adjuvant chemotherapy for treatment of adults with axillary lymph node involvement following resection of primary breast cancer.",
+            "application": "NDA221093",
             "brands": [
-              "doxorubicin hydrochloride"
+              "OXDERYS"
             ],
-            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae80bd3a-b99a-4e01-a444-b9d05687f00e",
-            "date": "2025-07-01"
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd",
+            "date": "2026-11-20"
           }
         },
         "ema": {
@@ -30000,7 +30007,7 @@
   },
   "trials": {
     "source": "ClinicalTrials.gov",
-    "checked_at": "2026-11-25T16:04:09.701134+00:00",
+    "checked_at": "2026-11-26T15:47:17.352211+00:00",
     "studies": {
       "NCT03207672": {
         "nct": "NCT03207672",
@@ -32716,25 +32723,6 @@
         ],
         "has_results": false
       },
-      "NCT06130111": {
-        "nct": "NCT06130111",
-        "title": "Spatial Location of Breast Cancer Local Recurrence After Mastectomy",
-        "acronym": "Secret",
-        "status": "UNKNOWN",
-        "start": "2021-09-01",
-        "primary_completion": "2023-12-01",
-        "sponsor": "Maastricht Radiation Oncology",
-        "study_type": "OBSERVATIONAL",
-        "enrollment": 170,
-        "enrollment_type": "ESTIMATED",
-        "primary_outcomes": [
-          {
-            "measure": "Spatial localisation of local recurrences",
-            "time_frame": "Up to 15 years after mastectomy"
-          }
-        ],
-        "has_results": false
-      },
       "NCT03742102": {
         "nct": "NCT03742102",
         "title": "A Study of Novel Anti-cancer Agents in Patients With Metastatic Triple Negative Breast Cancer",
@@ -33948,6 +33936,43 @@
         ],
         "has_results": false
       },
+      "NCT04787029": {
+        "nct": "NCT04787029",
+        "title": "Effect of Prophylactic Medical Compression Therapy on the Reduction of Breast Cancer-related Lymphedema in Patients With Adjuvant Docetaxel Chemotherapy: a Randomized Controlled Study",
+        "status": "UNKNOWN",
+        "start": "2021-03-12",
+        "primary_completion": "2023-04-30",
+        "sponsor": "Samsung Medical Center",
+        "study_type": "INTERVENTIONAL",
+        "allocation": "RANDOMIZED",
+        "masking": "NONE",
+        "enrollment": 150,
+        "enrollment_type": "ESTIMATED",
+        "arms": [
+          {
+            "label": "prophylactic medical compression therapy group",
+            "type": "EXPERIMENTAL",
+            "interventions": [
+              "Device: Medical compression stocking (medical device name: mediven Harmony 734 (compression class1 AG armsleeve or with wide(735))"
+            ]
+          },
+          {
+            "label": "control group",
+            "type": "NO_INTERVENTION"
+          }
+        ],
+        "primary_outcomes": [
+          {
+            "measure": "The cumulative incidence rate of lymphedema (%)",
+            "time_frame": "The cumulative incidence of lymphedema during the entire primary observation period"
+          },
+          {
+            "measure": "Severity of lymphedema - percentage of excess limb volume (PCEV, ml)",
+            "time_frame": "Time of occurrence of lymphedema during the follow-up period"
+          }
+        ],
+        "has_results": false
+      },
       "NCT05078190": {
         "nct": "NCT05078190",
         "title": "Mechanisms, Predictors, and Social Determinants of Cardiotoxicity in Breast Cancer",
@@ -34450,6 +34475,25 @@
           {
             "measure": "Clinical response",
             "time_frame": "day14"
+          }
+        ],
+        "has_results": false
+      },
+      "NCT06130111": {
+        "nct": "NCT06130111",
+        "title": "Spatial Location of Breast Cancer Local Recurrence After Mastectomy",
+        "acronym": "Secret",
+        "status": "UNKNOWN",
+        "start": "2021-09-01",
+        "primary_completion": "2023-12-01",
+        "sponsor": "Maastricht Radiation Oncology",
+        "study_type": "OBSERVATIONAL",
+        "enrollment": 170,
+        "enrollment_type": "ESTIMATED",
+        "primary_outcomes": [
+          {
+            "measure": "Spatial localisation of local recurrences",
+            "time_frame": "Up to 15 years after mastectomy"
           }
         ],
         "has_results": false
