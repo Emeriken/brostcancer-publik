@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T15:36:35.061647+00:00",
+  "updated": "2026-11-28T14:32:41.986681+00:00",
   "article_count": 791,
   "journals_tracked": [
     "N Engl J Med",
@@ -351,6 +351,9 @@
       "scored_at": "2026-11-23",
       "publication_types": [
         "Journal Article"
+      ],
+      "regulatory_substances": [
+        "giredestrant"
       ]
     },
     {
@@ -8022,6 +8025,7 @@
         "Multicenter Study"
       ],
       "regulatory_substances": [
+        "giredestrant",
         "everolimus"
       ],
       "trial_ids": [
@@ -28336,7 +28340,7 @@
     }
   ],
   "regulatory_status": {
-    "checked_at": "2026-11-27T15:35:44+00:00",
+    "checked_at": "2026-11-28T14:31:38+00:00",
     "sources": {
       "fda": {
         "name": "Drugs@FDA (openFDA)",
@@ -28344,7 +28348,7 @@
       },
       "ema": {
         "name": "EMA, centralt godkända läkemedel",
-        "data_date": "2026-11-27"
+        "data_date": "2026-11-28"
       }
     },
     "substances": {
@@ -29201,6 +29205,17 @@
           }
         }
       },
+      "giredestrant": {
+        "name": "giredestrant",
+        "fda": {
+          "application": "NDA221325",
+          "brands": [
+            "WILSERDLY"
+          ],
+          "approved": "2026-11-23",
+          "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=221325"
+        }
+      },
       "inavolisib": {
         "name": "inavolisib",
         "fda": {
@@ -30026,7 +30041,7 @@
   },
   "trials": {
     "source": "ClinicalTrials.gov",
-    "checked_at": "2026-11-27T15:36:35.057663+00:00",
+    "checked_at": "2026-11-28T14:32:41.983283+00:00",
     "studies": {
       "NCT02810743": {
         "nct": "NCT02810743",
